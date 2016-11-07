@@ -1,0 +1,46 @@
+  1 .data
+  2 inputOutput:
+  3         .asciz "%d"
+  4 output:
+  5         .asciz "%d\n"
+  6 .balign 4
+  7 var1:
+  8         .word 0
+  9 sum:
+ 10         .word 0
+ 11 return:
+ 12         .word 0
+ 13 .text
+ 14
+ 15 .global main
+ 16
+ 17 .func main
+ 18 main:
+ 19         ldr r1, =return         @ return address -> r1
+ 20         str lr, [r1]            @ return address -> lr
+ 21         ldr r0, =inputOutput    @ r0 <- address of the scan format
+ 22         ldr r1, =var1           @ r1 <- address of var1
+ 23         bl scanf                @ takes user input and stores into var1
+ 24         ldr r1, =var1           @loads address of var1 into r1
+ 25         ldr r0, [r1]            @contents at r1 address in r1 -> r0 = n
+ 26
+ 27         mov r3, #1      @ sum = 1
+ 28         mov r2, #0      @ previous-value = 0
+ 29
+ 30 loop:
+ 31         cmp r0, #0      @ compares to see if n > 0
+ 32         beq end         @ if n == 0 go to printOutput
+ 33         add r4, r3, r2  @ adds sum and prev value -> r4 = newSum
+ 34         mov r2, r3      @ previous-value <- value in sum
+ 35         mov r3, r4      @ sum <- newSum
+ 36         sub r0, r0, #1  @ decrement n by 1
+ 37         b loop          @ loop back and check condition
+ 38
+ 39 end:
+ 40         ldr r0, =output @ r0 <- address of scan format
+ 41         mov r1, r2              @ r1 <- value of r2 = final Fibonacci val
+ 42         bl printf               @ prints out value of r1
+ 43
+ 44         ldr r1, =return         @ r1 <- address of return variable
+ 45         ldr lr, [r1]            @ lr <- address to return to
+ 46	    bx lr                   @ returns and ends program

@@ -1,0 +1,983 @@
+S10: N=20, L=20, pop=60
+S12: N=20, L=20, pop=60
+S20: N=20, L=20, pop=60
+S24: N=20, L=20, pop=60
+S31: N=20, L=20, pop=60
+S34: N=20, L=20, pop=60
+S37: N=20, L=20, pop=60
+S40: N=20, L=20, pop=60
+S50: N=20, L=20, pop=60
+S56: N=20, L=20, pop=60
+S65: N=20, L=20, pop=60
+S69: N=20, L=20, pop=60
+S77: N=20, L=20, pop=60
+S83: N=20, L=20, pop=60
+S91: N=20, L=20, pop=60
+S100: N=20, L=20, pop=60
+S105: N=20, L=20, pop=60
+S113: N=20, L=20, pop=60
+S122: N=20, L=20, pop=60
+S127: N=20, L=20, pop=60
+S134: N=20, L=20, pop=60
+S139: N=20, L=20, pop=60
+S147: N=20, L=20, pop=60
+S150: N=20, L=20, pop=60
+S153: N=20, L=20, pop=60
+S163: N=20, L=20, pop=60
+S168: N=20, L=20, pop=60
+S170: N=20, L=20, pop=60
+S175: N=20, L=20, pop=60
+S179: N=20, L=20, pop=60
+S184: N=20, L=20, pop=60
+S185: N=20, L=20, pop=60
+S195: N=20, L=20, pop=60
+S198: N=20, L=20, pop=60
+S199: N=20, L=20, pop=60
+S201: N=20, L=20, pop=60
+S202: N=20, L=20, pop=60
+S209: N=20, L=20, pop=60
+S218: N=20, L=20, pop=60
+S226: N=20, L=20, pop=60
+S227: N=20, L=20, pop=60
+S232: N=20, L=20, pop=60
+S237: N=20, L=20, pop=60
+S238: N=20, L=20, pop=60
+S247: N=20, L=20, pop=60
+S257: N=20, L=20, pop=60
+S261: N=20, L=20, pop=60
+S264: N=20, L=20, pop=60
+S266: N=20, L=20, pop=60
+S270: N=20, L=20, pop=60
+S275: N=20, L=20, pop=60
+S283: N=20, L=20, pop=60
+S292: N=20, L=20, pop=60
+S297: N=20, L=20, pop=60
+S301: N=20, L=20, pop=60
+S302: N=20, L=20, pop=60
+S307: N=20, L=20, pop=60
+S313: N=20, L=20, pop=60
+S316: N=20, L=20, pop=60
+S324: N=20, L=20, pop=60
+S329: N=20, L=20, pop=60
+S339: N=20, L=20, pop=60
+S349: N=20, L=20, pop=60
+S354: N=20, L=20, pop=60
+S361: N=20, L=20, pop=60
+S369: N=20, L=20, pop=60
+S378: N=20, L=20, pop=60
+S384: N=20, L=20, pop=60
+S390: N=20, L=20, pop=60
+S394: N=20, L=20, pop=60
+S400: N=20, L=20, pop=60
+S402: N=20, L=20, pop=60
+S411: N=20, L=20, pop=60
+S418: N=20, L=20, pop=60
+S425: N=20, L=20, pop=60
+S434: N=20, L=20, pop=60
+S440: N=20, L=20, pop=60
+S443: N=20, L=20, pop=60
+S451: N=20, L=20, pop=60
+S452: N=20, L=20, pop=60
+S455: N=20, L=20, pop=60
+S461: N=20, L=20, pop=60
+S463: N=20, L=20, pop=60
+S469: N=20, L=20, pop=60
+S477: N=20, L=20, pop=60
+S478: N=20, L=20, pop=60
+S488: N=20, L=20, pop=60
+S496: N=20, L=20, pop=60
+S505: N=20, L=20, pop=60
+S512: N=20, L=20, pop=60
+S519: N=20, L=20, pop=60
+S524: N=20, L=20, pop=60
+S530: N=20, L=20, pop=60
+S538: N=20, L=20, pop=60
+S540: N=20, L=20, pop=60
+S542: N=20, L=20, pop=60
+S547: N=20, L=20, pop=60
+S550: N=20, L=20, pop=60
+S558: N=20, L=20, pop=60
+S566: N=20, L=20, pop=60
+S567: N=20, L=20, pop=60
+S571: N=20, L=20, pop=60
+S575: N=20, L=20, pop=60
+S576: N=20, L=20, pop=60
+S581: N=20, L=20, pop=60
+S585: N=20, L=20, pop=60
+S591: N=20, L=20, pop=60
+S593: N=20, L=20, pop=60
+S596: N=20, L=20, pop=60
+S599: N=20, L=20, pop=60
+S609: N=20, L=20, pop=60
+S611: N=20, L=20, pop=60
+S613: N=20, L=20, pop=60
+S615: N=20, L=20, pop=60
+S616: N=20, L=20, pop=60
+S621: N=20, L=20, pop=60
+S628: N=20, L=20, pop=60
+S635: N=20, L=20, pop=60
+S637: N=20, L=20, pop=60
+S645: N=20, L=20, pop=60
+S654: N=20, L=20, pop=60
+S664: N=20, L=20, pop=60
+S669: N=20, L=20, pop=60
+S674: N=20, L=20, pop=60
+S675: N=20, L=20, pop=60
+S676: N=20, L=20, pop=60
+S686: N=20, L=20, pop=60
+S687: N=20, L=20, pop=60
+S693: N=20, L=20, pop=60
+S694: N=20, L=20, pop=60
+S702: N=20, L=20, pop=60
+S705: N=20, L=20, pop=60
+S714: N=20, L=20, pop=60
+S722: N=20, L=20, pop=60
+S729: N=20, L=20, pop=60
+S735: N=20, L=20, pop=60
+S744: N=20, L=20, pop=60
+S749: N=20, L=20, pop=60
+S754: N=20, L=20, pop=60
+S757: N=20, L=20, pop=60
+S766: N=20, L=20, pop=60
+S769: N=20, L=20, pop=60
+S777: N=20, L=20, pop=60
+S779: N=20, L=20, pop=60
+S782: N=20, L=20, pop=60
+S792: N=20, L=20, pop=60
+S797: N=20, L=20, pop=60
+S805: N=20, L=20, pop=60
+S814: N=20, L=20, pop=60
+S821: N=20, L=20, pop=60
+S822: N=20, L=20, pop=60
+S826: N=20, L=20, pop=60
+S834: N=20, L=20, pop=60
+S837: N=20, L=20, pop=60
+S844: N=20, L=20, pop=60
+S852: N=20, L=20, pop=60
+S861: N=20, L=20, pop=60
+S868: N=20, L=20, pop=60
+S872: N=20, L=20, pop=60
+S882: N=20, L=20, pop=60
+S886: N=20, L=20, pop=60
+S894: N=20, L=20, pop=60
+S904: N=20, L=20, pop=60
+S906: N=20, L=20, pop=60
+S913: N=20, L=20, pop=60
+S914: N=20, L=20, pop=60
+S923: N=20, L=20, pop=60
+S925: N=20, L=20, pop=60
+S927: N=20, L=20, pop=60
+S932: N=20, L=20, pop=60
+S934: N=20, L=20, pop=60
+S940: N=20, L=20, pop=60
+S945: N=20, L=20, pop=60
+S949: N=20, L=20, pop=60
+S956: N=20, L=20, pop=60
+S964: N=20, L=20, pop=60
+S972: N=20, L=20, pop=60
+S975: N=20, L=20, pop=60
+S981: N=20, L=20, pop=60
+S985: N=20, L=20, pop=60
+S987: N=20, L=20, pop=60
+S988: N=20, L=20, pop=60
+S996: N=20, L=20, pop=60
+S999: N=20, L=20, pop=60
+S1004: N=20, L=20, pop=60
+S1005: N=20, L=20, pop=60
+S1010: N=20, L=20, pop=60
+S1019: N=20, L=20, pop=60
+S1020: N=20, L=20, pop=60
+S1022: N=20, L=20, pop=60
+S1032: N=20, L=20, pop=60
+S1036: N=20, L=20, pop=60
+S1045: N=20, L=20, pop=60
+S1051: N=20, L=20, pop=60
+S1055: N=20, L=20, pop=60
+S1061: N=20, L=20, pop=60
+S1070: N=20, L=20, pop=60
+S1072: N=20, L=20, pop=60
+S1081: N=20, L=20, pop=60
+S1084: N=20, L=20, pop=60
+S1092: N=20, L=20, pop=60
+S1098: N=20, L=20, pop=60
+S1108: N=20, L=20, pop=60
+S1113: N=20, L=20, pop=60
+S1123: N=20, L=20, pop=60
+S1129: N=20, L=20, pop=60
+S1130: N=20, L=20, pop=60
+S1136: N=20, L=20, pop=60
+S1145: N=20, L=20, pop=60
+S1152: N=20, L=20, pop=60
+S1155: N=20, L=20, pop=60
+S1163: N=20, L=20, pop=60
+S1164: N=20, L=20, pop=60
+S1165: N=20, L=20, pop=60
+S1169: N=20, L=20, pop=60
+S1179: N=20, L=20, pop=60
+S1189: N=20, L=20, pop=60
+S1194: N=20, L=20, pop=60
+S1198: N=20, L=20, pop=60
+S1200: N=20, L=20, pop=60
+S1208: N=20, L=20, pop=60
+S1212: N=20, L=20, pop=60
+S1220: N=20, L=20, pop=60
+S1230: N=20, L=20, pop=60
+S1234: N=20, L=20, pop=60
+S1235: N=20, L=20, pop=60
+S1245: N=20, L=20, pop=60
+S1254: N=20, L=20, pop=60
+S1259: N=20, L=20, pop=60
+S1263: N=20, L=20, pop=60
+S1267: N=20, L=20, pop=60
+S1270: N=20, L=20, pop=60
+S1277: N=20, L=20, pop=60
+S1284: N=20, L=20, pop=60
+S1285: N=20, L=20, pop=60
+S1293: N=20, L=20, pop=60
+S1296: N=20, L=20, pop=60
+S1301: N=20, L=20, pop=60
+S1311: N=20, L=20, pop=60
+S1317: N=20, L=20, pop=60
+S1327: N=20, L=20, pop=60
+S1336: N=20, L=20, pop=60
+S1339: N=20, L=20, pop=60
+S1344: N=20, L=20, pop=60
+S1351: N=20, L=20, pop=60
+S1353: N=20, L=20, pop=60
+S1363: N=20, L=20, pop=60
+S1372: N=20, L=20, pop=60
+S1379: N=20, L=20, pop=60
+S1389: N=20, L=20, pop=60
+S1394: N=20, L=20, pop=60
+S1397: N=20, L=20, pop=60
+S1407: N=20, L=20, pop=60
+S1417: N=20, L=20, pop=60
+S1423: N=20, L=20, pop=60
+S1426: N=20, L=20, pop=60
+S1427: N=20, L=20, pop=60
+S1433: N=20, L=20, pop=60
+S1435: N=20, L=20, pop=60
+S1443: N=20, L=20, pop=60
+S1444: N=20, L=20, pop=60
+S1446: N=20, L=20, pop=60
+S1451: N=20, L=20, pop=60
+S1454: N=20, L=20, pop=60
+S1455: N=20, L=20, pop=60
+S1458: N=20, L=20, pop=60
+S1466: N=20, L=20, pop=60
+S1469: N=20, L=20, pop=60
+S1470: N=20, L=20, pop=60
+S1479: N=20, L=20, pop=60
+S1480: N=20, L=20, pop=60
+S1482: N=20, L=20, pop=60
+S1488: N=20, L=20, pop=60
+S1494: N=20, L=20, pop=60
+S1502: N=20, L=20, pop=60
+S1506: N=20, L=20, pop=60
+S1513: N=20, L=20, pop=60
+S1522: N=20, L=20, pop=60
+S1523: N=20, L=20, pop=60
+S1526: N=20, L=20, pop=60
+S1536: N=20, L=20, pop=60
+S1541: N=20, L=20, pop=60
+S1550: N=20, L=20, pop=60
+S1551: N=20, L=20, pop=60
+S1558: N=20, L=20, pop=60
+S1560: N=20, L=20, pop=60
+S1563: N=20, L=20, pop=60
+S1569: N=20, L=20, pop=60
+S1578: N=20, L=20, pop=60
+S1579: N=20, L=20, pop=60
+S1581: N=20, L=20, pop=60
+S1585: N=20, L=20, pop=60
+S1586: N=20, L=20, pop=60
+S1591: N=20, L=20, pop=60
+S1598: N=20, L=20, pop=60
+S1605: N=20, L=20, pop=60
+S1610: N=20, L=20, pop=60
+S1616: N=20, L=20, pop=60
+S1618: N=20, L=20, pop=60
+S1619: N=20, L=20, pop=60
+S1629: N=20, L=20, pop=60
+S1634: N=20, L=20, pop=60
+S1638: N=20, L=20, pop=60
+S1639: N=20, L=20, pop=60
+S1648: N=20, L=20, pop=60
+S1656: N=20, L=20, pop=60
+S1663: N=20, L=20, pop=60
+S1673: N=20, L=20, pop=60
+S1674: N=20, L=20, pop=60
+S1680: N=20, L=20, pop=60
+S1681: N=20, L=20, pop=60
+S1689: N=20, L=20, pop=60
+S1697: N=20, L=20, pop=60
+S1701: N=20, L=20, pop=60
+S1703: N=20, L=20, pop=60
+S1705: N=20, L=20, pop=60
+S1714: N=20, L=20, pop=60
+S1716: N=20, L=20, pop=60
+S1726: N=20, L=20, pop=60
+S1731: N=20, L=20, pop=60
+S1739: N=20, L=20, pop=60
+S1747: N=20, L=20, pop=60
+S1757: N=20, L=20, pop=60
+S1764: N=20, L=20, pop=60
+S1767: N=20, L=20, pop=60
+S1769: N=20, L=20, pop=60
+S1777: N=20, L=20, pop=60
+S1780: N=20, L=20, pop=60
+S1787: N=20, L=20, pop=60
+S1790: N=20, L=20, pop=60
+S1796: N=20, L=20, pop=60
+S1801: N=20, L=20, pop=60
+S1806: N=20, L=20, pop=60
+S1810: N=20, L=20, pop=60
+S1820: N=20, L=20, pop=60
+S1821: N=20, L=20, pop=60
+S1826: N=20, L=20, pop=60
+S1831: N=20, L=20, pop=60
+S1837: N=20, L=20, pop=60
+S1842: N=20, L=20, pop=60
+S1848: N=20, L=20, pop=60
+S1855: N=20, L=20, pop=60
+S1858: N=20, L=20, pop=60
+S1860: N=20, L=20, pop=60
+S1868: N=20, L=20, pop=60
+S1877: N=20, L=20, pop=60
+S1879: N=20, L=20, pop=60
+S1886: N=20, L=20, pop=60
+S1894: N=20, L=20, pop=60
+S1896: N=20, L=20, pop=60
+S1903: N=20, L=20, pop=60
+S1913: N=20, L=20, pop=60
+S1920: N=20, L=20, pop=60
+S1929: N=20, L=20, pop=60
+S1935: N=20, L=20, pop=60
+S1941: N=20, L=20, pop=60
+S1946: N=20, L=20, pop=60
+S1953: N=20, L=20, pop=60
+S1957: N=20, L=20, pop=60
+S1967: N=20, L=20, pop=60
+S1972: N=20, L=20, pop=60
+S1975: N=20, L=20, pop=60
+S1976: N=20, L=20, pop=60
+S1978: N=20, L=20, pop=60
+S1981: N=20, L=20, pop=60
+S1985: N=20, L=20, pop=60
+S1993: N=20, L=20, pop=60
+S2003: N=20, L=20, pop=60
+S2007: N=20, L=20, pop=60
+S2009: N=20, L=20, pop=60
+S2018: N=20, L=20, pop=60
+S2025: N=20, L=20, pop=60
+S2031: N=20, L=20, pop=60
+S2040: N=20, L=20, pop=60
+S2046: N=20, L=20, pop=60
+S2054: N=20, L=20, pop=60
+S2057: N=20, L=20, pop=60
+S2059: N=20, L=20, pop=60
+S2060: N=20, L=20, pop=60
+S2064: N=20, L=20, pop=60
+S2067: N=20, L=20, pop=60
+S2072: N=20, L=20, pop=60
+S2080: N=20, L=20, pop=60
+S2082: N=20, L=20, pop=60
+S2084: N=20, L=20, pop=60
+S2089: N=20, L=20, pop=60
+S2090: N=20, L=20, pop=60
+S2099: N=20, L=20, pop=60
+S2103: N=20, L=20, pop=60
+S2107: N=20, L=20, pop=60
+S2114: N=20, L=20, pop=60
+S2123: N=20, L=20, pop=60
+S2127: N=20, L=20, pop=60
+S2135: N=20, L=20, pop=60
+S2140: N=20, L=20, pop=60
+S2149: N=20, L=20, pop=60
+S2152: N=20, L=20, pop=60
+S2161: N=20, L=20, pop=60
+S2163: N=20, L=20, pop=60
+S2168: N=20, L=20, pop=60
+S2172: N=20, L=20, pop=60
+S2176: N=20, L=20, pop=60
+S2185: N=20, L=20, pop=60
+S2186: N=20, L=20, pop=60
+S2192: N=20, L=20, pop=60
+S2195: N=20, L=20, pop=60
+S2201: N=20, L=20, pop=60
+S2208: N=20, L=20, pop=60
+S2214: N=20, L=20, pop=60
+S2215: N=20, L=20, pop=60
+S2222: N=20, L=20, pop=60
+S2226: N=20, L=20, pop=60
+S2227: N=20, L=20, pop=60
+S2236: N=20, L=20, pop=60
+S2241: N=20, L=20, pop=60
+S2246: N=20, L=20, pop=60
+S2247: N=20, L=20, pop=60
+S2257: N=20, L=20, pop=60
+S2261: N=20, L=20, pop=60
+S2267: N=20, L=20, pop=60
+S2273: N=20, L=20, pop=60
+S2277: N=20, L=20, pop=60
+S2282: N=20, L=20, pop=60
+S2290: N=20, L=20, pop=60
+S2298: N=20, L=20, pop=60
+S2307: N=20, L=20, pop=60
+S2309: N=20, L=20, pop=60
+S2312: N=20, L=20, pop=60
+S2319: N=20, L=20, pop=60
+S2326: N=20, L=20, pop=60
+S2336: N=20, L=20, pop=60
+S2343: N=20, L=20, pop=60
+S2346: N=20, L=20, pop=60
+S2356: N=20, L=20, pop=60
+S2366: N=20, L=20, pop=60
+S2375: N=20, L=20, pop=60
+S2381: N=20, L=20, pop=60
+S2384: N=20, L=20, pop=60
+S2393: N=20, L=20, pop=60
+S2395: N=20, L=20, pop=60
+S2399: N=20, L=20, pop=60
+S2407: N=20, L=20, pop=60
+S2412: N=20, L=20, pop=60
+S2415: N=20, L=20, pop=60
+S2420: N=20, L=20, pop=60
+S2423: N=20, L=20, pop=60
+S2433: N=20, L=20, pop=60
+S2443: N=20, L=20, pop=60
+S2452: N=20, L=20, pop=60
+S2462: N=20, L=20, pop=60
+S2464: N=20, L=20, pop=60
+S2472: N=20, L=20, pop=60
+S2473: N=20, L=20, pop=60
+S2474: N=20, L=20, pop=60
+S2481: N=20, L=20, pop=60
+S2484: N=20, L=20, pop=60
+S2491: N=20, L=20, pop=60
+S2499: N=20, L=20, pop=60
+S2503: N=20, L=20, pop=60
+S2513: N=20, L=20, pop=60
+S2522: N=20, L=20, pop=60
+S2527: N=20, L=20, pop=60
+S2533: N=20, L=20, pop=60
+S2536: N=20, L=20, pop=60
+S2539: N=20, L=20, pop=60
+S2546: N=20, L=20, pop=60
+S2552: N=20, L=20, pop=60
+S2555: N=20, L=20, pop=60
+S2563: N=20, L=20, pop=60
+S2564: N=20, L=20, pop=60
+S2570: N=20, L=20, pop=60
+S2579: N=20, L=20, pop=60
+S2587: N=20, L=20, pop=60
+S2595: N=20, L=20, pop=60
+S2605: N=20, L=20, pop=60
+S2607: N=20, L=20, pop=60
+S2608: N=20, L=20, pop=60
+S2616: N=20, L=20, pop=60
+S2623: N=20, L=20, pop=60
+S2628: N=20, L=20, pop=60
+S2638: N=20, L=20, pop=60
+S2645: N=20, L=20, pop=60
+S2646: N=20, L=20, pop=60
+S2650: N=20, L=20, pop=60
+S2660: N=20, L=20, pop=60
+S2668: N=20, L=20, pop=60
+S2678: N=20, L=20, pop=60
+S2688: N=20, L=20, pop=60
+S2696: N=20, L=20, pop=60
+S2703: N=20, L=20, pop=60
+S2709: N=20, L=20, pop=60
+S10 deleted, pop=60
+S12 deleted, pop=60
+S20 deleted, pop=60
+S24 deleted, pop=60
+S31 deleted, pop=60
+S34 deleted, pop=60
+S37 deleted, pop=60
+S40 deleted, pop=60
+S50 deleted, pop=60
+S56 deleted, pop=60
+S65 deleted, pop=60
+S69 deleted, pop=60
+S77 deleted, pop=60
+S83 deleted, pop=60
+S91 deleted, pop=60
+S100 deleted, pop=60
+S105 deleted, pop=60
+S113 deleted, pop=60
+S122 deleted, pop=60
+S127 deleted, pop=60
+S134 deleted, pop=60
+S139 deleted, pop=60
+S147 deleted, pop=60
+S150 deleted, pop=60
+S153 deleted, pop=60
+S163 deleted, pop=60
+S168 deleted, pop=60
+S170 deleted, pop=60
+S175 deleted, pop=60
+S179 deleted, pop=60
+S184 deleted, pop=60
+S185 deleted, pop=60
+S195 deleted, pop=60
+S198 deleted, pop=60
+S199 deleted, pop=60
+S201 deleted, pop=60
+S202 deleted, pop=60
+S209 deleted, pop=60
+S218 deleted, pop=60
+S226 deleted, pop=60
+S227 deleted, pop=60
+S232 deleted, pop=60
+S237 deleted, pop=60
+S238 deleted, pop=60
+S247 deleted, pop=60
+S257 deleted, pop=60
+S261 deleted, pop=60
+S264 deleted, pop=60
+S266 deleted, pop=60
+S270 deleted, pop=60
+S275 deleted, pop=60
+S283 deleted, pop=60
+S292 deleted, pop=60
+S297 deleted, pop=60
+S301 deleted, pop=60
+S302 deleted, pop=60
+S307 deleted, pop=60
+S313 deleted, pop=60
+S316 deleted, pop=60
+S324 deleted, pop=60
+S329 deleted, pop=60
+S339 deleted, pop=60
+S349 deleted, pop=60
+S354 deleted, pop=60
+S361 deleted, pop=60
+S369 deleted, pop=60
+S378 deleted, pop=60
+S384 deleted, pop=60
+S390 deleted, pop=60
+S394 deleted, pop=60
+S400 deleted, pop=60
+S402 deleted, pop=60
+S411 deleted, pop=60
+S418 deleted, pop=60
+S425 deleted, pop=60
+S434 deleted, pop=60
+S440 deleted, pop=60
+S443 deleted, pop=60
+S451 deleted, pop=60
+S452 deleted, pop=60
+S455 deleted, pop=60
+S461 deleted, pop=60
+S463 deleted, pop=60
+S469 deleted, pop=60
+S477 deleted, pop=60
+S478 deleted, pop=60
+S488 deleted, pop=60
+S496 deleted, pop=60
+S505 deleted, pop=60
+S512 deleted, pop=60
+S519 deleted, pop=60
+S524 deleted, pop=60
+S530 deleted, pop=60
+S538 deleted, pop=60
+S540 deleted, pop=60
+S542 deleted, pop=60
+S547 deleted, pop=60
+S550 deleted, pop=60
+S558 deleted, pop=60
+S566 deleted, pop=60
+S567 deleted, pop=60
+S571 deleted, pop=60
+S575 deleted, pop=60
+S576 deleted, pop=60
+S581 deleted, pop=60
+S585 deleted, pop=60
+S591 deleted, pop=60
+S593 deleted, pop=60
+S596 deleted, pop=60
+S599 deleted, pop=60
+S609 deleted, pop=60
+S611 deleted, pop=60
+S613 deleted, pop=60
+S615 deleted, pop=60
+S616 deleted, pop=60
+S621 deleted, pop=60
+S628 deleted, pop=60
+S635 deleted, pop=60
+S637 deleted, pop=60
+S645 deleted, pop=60
+S654 deleted, pop=60
+S664 deleted, pop=60
+S669 deleted, pop=60
+S674 deleted, pop=60
+S675 deleted, pop=60
+S676 deleted, pop=60
+S686 deleted, pop=60
+S687 deleted, pop=60
+S693 deleted, pop=60
+S694 deleted, pop=60
+S702 deleted, pop=60
+S705 deleted, pop=60
+S714 deleted, pop=60
+S722 deleted, pop=60
+S729 deleted, pop=60
+S735 deleted, pop=60
+S744 deleted, pop=60
+S749 deleted, pop=60
+S754 deleted, pop=60
+S757 deleted, pop=60
+S766 deleted, pop=60
+S769 deleted, pop=60
+S777 deleted, pop=60
+S779 deleted, pop=60
+S782 deleted, pop=60
+S792 deleted, pop=60
+S797 deleted, pop=60
+S805 deleted, pop=60
+S814 deleted, pop=60
+S821 deleted, pop=60
+S822 deleted, pop=60
+S826 deleted, pop=60
+S834 deleted, pop=60
+S837 deleted, pop=60
+S844 deleted, pop=60
+S852 deleted, pop=60
+S861 deleted, pop=60
+S868 deleted, pop=60
+S872 deleted, pop=60
+S882 deleted, pop=60
+S886 deleted, pop=60
+S894 deleted, pop=60
+S904 deleted, pop=60
+S906 deleted, pop=60
+S913 deleted, pop=60
+S914 deleted, pop=60
+S923 deleted, pop=60
+S925 deleted, pop=60
+S927 deleted, pop=60
+S932 deleted, pop=60
+S934 deleted, pop=60
+S940 deleted, pop=60
+S945 deleted, pop=60
+S949 deleted, pop=60
+S956 deleted, pop=60
+S964 deleted, pop=60
+S972 deleted, pop=60
+S975 deleted, pop=60
+S981 deleted, pop=60
+S985 deleted, pop=60
+S987 deleted, pop=60
+S988 deleted, pop=60
+S996 deleted, pop=60
+S999 deleted, pop=60
+S1004 deleted, pop=60
+S1005 deleted, pop=60
+S1010 deleted, pop=60
+S1019 deleted, pop=60
+S1020 deleted, pop=60
+S1022 deleted, pop=60
+S1032 deleted, pop=60
+S1036 deleted, pop=60
+S1045 deleted, pop=60
+S1051 deleted, pop=60
+S1055 deleted, pop=60
+S1061 deleted, pop=60
+S1070 deleted, pop=60
+S1072 deleted, pop=60
+S1081 deleted, pop=60
+S1084 deleted, pop=60
+S1092 deleted, pop=60
+S1098 deleted, pop=60
+S1108 deleted, pop=60
+S1113 deleted, pop=60
+S1123 deleted, pop=60
+S1129 deleted, pop=60
+S1130 deleted, pop=60
+S1136 deleted, pop=60
+S1145 deleted, pop=60
+S1152 deleted, pop=60
+S1155 deleted, pop=60
+S1163 deleted, pop=60
+S1164 deleted, pop=60
+S1165 deleted, pop=60
+S1169 deleted, pop=60
+S1179 deleted, pop=60
+S1189 deleted, pop=60
+S1194 deleted, pop=60
+S1198 deleted, pop=60
+S1200 deleted, pop=60
+S1208 deleted, pop=60
+S1212 deleted, pop=60
+S1220 deleted, pop=60
+S1230 deleted, pop=60
+S1234 deleted, pop=60
+S1235 deleted, pop=60
+S1245 deleted, pop=60
+S1254 deleted, pop=60
+S1259 deleted, pop=60
+S1263 deleted, pop=60
+S1267 deleted, pop=60
+S1270 deleted, pop=60
+S1277 deleted, pop=60
+S1284 deleted, pop=60
+S1285 deleted, pop=60
+S1293 deleted, pop=60
+S1296 deleted, pop=60
+S1301 deleted, pop=60
+S1311 deleted, pop=60
+S1317 deleted, pop=60
+S1327 deleted, pop=60
+S1336 deleted, pop=60
+S1339 deleted, pop=60
+S1344 deleted, pop=60
+S1351 deleted, pop=60
+S1353 deleted, pop=60
+S1363 deleted, pop=60
+S1372 deleted, pop=60
+S1379 deleted, pop=60
+S1389 deleted, pop=60
+S1394 deleted, pop=60
+S1397 deleted, pop=60
+S1407 deleted, pop=60
+S1417 deleted, pop=60
+S1423 deleted, pop=60
+S1426 deleted, pop=60
+S1427 deleted, pop=60
+S1433 deleted, pop=60
+S1435 deleted, pop=60
+S1443 deleted, pop=60
+S1444 deleted, pop=60
+S1446 deleted, pop=60
+S1451 deleted, pop=60
+S1454 deleted, pop=60
+S1455 deleted, pop=60
+S1458 deleted, pop=60
+S1466 deleted, pop=60
+S1469 deleted, pop=60
+S1470 deleted, pop=60
+S1479 deleted, pop=60
+S1480 deleted, pop=60
+S1482 deleted, pop=60
+S1488 deleted, pop=60
+S1494 deleted, pop=60
+S1502 deleted, pop=60
+S1506 deleted, pop=60
+S1513 deleted, pop=60
+S1522 deleted, pop=60
+S1523 deleted, pop=60
+S1526 deleted, pop=60
+S1536 deleted, pop=60
+S1541 deleted, pop=60
+S1550 deleted, pop=60
+S1551 deleted, pop=60
+S1558 deleted, pop=60
+S1560 deleted, pop=60
+S1563 deleted, pop=60
+S1569 deleted, pop=60
+S1578 deleted, pop=60
+S1579 deleted, pop=60
+S1581 deleted, pop=60
+S1585 deleted, pop=60
+S1586 deleted, pop=60
+S1591 deleted, pop=60
+S1598 deleted, pop=60
+S1605 deleted, pop=60
+S1610 deleted, pop=60
+S1616 deleted, pop=60
+S1618 deleted, pop=60
+S1619 deleted, pop=60
+S1629 deleted, pop=60
+S1634 deleted, pop=60
+S1638 deleted, pop=60
+S1639 deleted, pop=60
+S1648 deleted, pop=60
+S1656 deleted, pop=60
+S1663 deleted, pop=60
+S1673 deleted, pop=60
+S1674 deleted, pop=60
+S1680 deleted, pop=60
+S1681 deleted, pop=60
+S1689 deleted, pop=60
+S1697 deleted, pop=60
+S1701 deleted, pop=60
+S1703 deleted, pop=60
+S1705 deleted, pop=60
+S1714 deleted, pop=60
+S1716 deleted, pop=60
+S1726 deleted, pop=60
+S1731 deleted, pop=60
+S1739 deleted, pop=60
+S1747 deleted, pop=60
+S1757 deleted, pop=60
+S1764 deleted, pop=60
+S1767 deleted, pop=60
+S1769 deleted, pop=60
+S1777 deleted, pop=60
+S1780 deleted, pop=60
+S1787 deleted, pop=60
+S1790 deleted, pop=60
+S1796 deleted, pop=60
+S1801 deleted, pop=60
+S1806 deleted, pop=60
+S1810 deleted, pop=60
+S1820 deleted, pop=60
+S1821 deleted, pop=60
+S1826 deleted, pop=60
+S1831 deleted, pop=60
+S1837 deleted, pop=60
+S1842 deleted, pop=60
+S1848 deleted, pop=60
+S1855 deleted, pop=60
+S1858 deleted, pop=60
+S1860 deleted, pop=60
+S1868 deleted, pop=60
+S1877 deleted, pop=60
+S1879 deleted, pop=60
+S1886 deleted, pop=60
+S1894 deleted, pop=60
+S1896 deleted, pop=60
+S1903 deleted, pop=60
+S1913 deleted, pop=60
+S1920 deleted, pop=60
+S1929 deleted, pop=60
+S1935 deleted, pop=60
+S1941 deleted, pop=60
+S1946 deleted, pop=60
+S1953 deleted, pop=60
+S1957 deleted, pop=60
+S1967 deleted, pop=60
+S1972 deleted, pop=60
+S1975 deleted, pop=60
+S1976 deleted, pop=60
+S1978 deleted, pop=60
+S1981 deleted, pop=60
+S1985 deleted, pop=60
+S1993 deleted, pop=60
+S2003 deleted, pop=60
+S2007 deleted, pop=60
+S2009 deleted, pop=60
+S2018 deleted, pop=60
+S2025 deleted, pop=60
+S2031 deleted, pop=60
+S2040 deleted, pop=60
+S2046 deleted, pop=60
+S2054 deleted, pop=60
+S2057 deleted, pop=60
+S2059 deleted, pop=60
+S2060 deleted, pop=60
+S2064 deleted, pop=60
+S2067 deleted, pop=60
+S2072 deleted, pop=60
+S2080 deleted, pop=60
+S2082 deleted, pop=60
+S2084 deleted, pop=60
+S2089 deleted, pop=60
+S2090 deleted, pop=60
+S2099 deleted, pop=60
+S2103 deleted, pop=60
+S2107 deleted, pop=60
+S2114 deleted, pop=60
+S2123 deleted, pop=60
+S2127 deleted, pop=60
+S2135 deleted, pop=60
+S2140 deleted, pop=60
+S2149 deleted, pop=60
+S2152 deleted, pop=60
+S2161 deleted, pop=60
+S2163 deleted, pop=60
+S2168 deleted, pop=60
+S2172 deleted, pop=60
+S2176 deleted, pop=60
+S2185 deleted, pop=60
+S2186 deleted, pop=60
+S2192 deleted, pop=60
+S2195 deleted, pop=60
+S2201 deleted, pop=60
+S2208 deleted, pop=60
+S2214 deleted, pop=60
+S2215 deleted, pop=60
+S2222 deleted, pop=60
+S2226 deleted, pop=60
+S2227 deleted, pop=60
+S2236 deleted, pop=60
+S2241 deleted, pop=60
+S2246 deleted, pop=60
+S2247 deleted, pop=60
+S2257 deleted, pop=60
+S2261 deleted, pop=60
+S2267 deleted, pop=60
+S2273 deleted, pop=60
+S2277 deleted, pop=60
+S2282 deleted, pop=60
+S2290 deleted, pop=60
+S2298 deleted, pop=60
+S2307 deleted, pop=60
+S2309 deleted, pop=60
+S2312 deleted, pop=60
+S2319 deleted, pop=60
+S2326 deleted, pop=60
+S2336 deleted, pop=60
+S2343 deleted, pop=60
+S2346 deleted, pop=60
+S2356 deleted, pop=60
+S2366 deleted, pop=60
+S2375 deleted, pop=60
+S2381 deleted, pop=60
+S2384 deleted, pop=60
+S2393 deleted, pop=60
+S2395 deleted, pop=60
+S2399 deleted, pop=60
+S2407 deleted, pop=60
+S2412 deleted, pop=60
+S2415 deleted, pop=60
+S2420 deleted, pop=60
+S2423 deleted, pop=60
+S2433 deleted, pop=60
+S2443 deleted, pop=60
+S2452 deleted, pop=60
+S2462 deleted, pop=60
+S2464 deleted, pop=60
+S2472 deleted, pop=60
+S2473 deleted, pop=60
+S2474 deleted, pop=60
+S2481 deleted, pop=60
+S2484 deleted, pop=60
+S2491 deleted, pop=60
+S2499 deleted, pop=60
+S2503 deleted, pop=60
+S2513 deleted, pop=60
+S2522 deleted, pop=60
+S2527 deleted, pop=60
+S2533 deleted, pop=60
+S2536 deleted, pop=60
+S2539 deleted, pop=60
+S2546 deleted, pop=60
+S2552 deleted, pop=60
+S2555 deleted, pop=60
+S2563 deleted, pop=60
+S2564 deleted, pop=60
+S2570 deleted, pop=60
+S2579 deleted, pop=60
+S2587 deleted, pop=60
+S2595 deleted, pop=60
+S2605 deleted, pop=60
+S2607 deleted, pop=60
+S2608 deleted, pop=60
+S2616 deleted, pop=60
+S2623 deleted, pop=60
+S2628 deleted, pop=60
+S2638 deleted, pop=60
+S2645 deleted, pop=60
+S2646 deleted, pop=60
+S2650 deleted, pop=60
+S2660 deleted, pop=60
+S2668 deleted, pop=60
+S2678 deleted, pop=60
+S2688 deleted, pop=60
+1: S2709, pop=60
+2: S2703, pop=60
+3: S2696, pop=60
+min 60, max 60

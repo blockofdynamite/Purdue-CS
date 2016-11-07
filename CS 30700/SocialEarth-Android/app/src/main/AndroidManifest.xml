@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="xyz.jhughes.socialmaps">
+
+    <uses-feature android:name="android.hardware.camera"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--
+ The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but are recommended.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".activities.storySystem.MainActivity"
+            android:label="SocialMaps" />
+        <activity
+            android:name=".activities.loginSystem.LoginActivity"
+            android:label="SocialMaps">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.followersSystem.UserActivity"
+            android:label="@string/title_activity_user" />
+        <activity
+            android:name=".activities.storySystem.NewStoryActivity"
+            android:label="@string/title_activity_location" />
+        <activity
+            android:name=".activities.loginSystem.RegisterActivity"
+            android:label="@string/title_activity_register" />
+        <activity android:name=".activities.storySystem.StoryActivity" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="ea154b084fca1194f6155621383d449778a24262" />
+
+        <activity android:name=".activities.followersSystem.FollowingListActivity" />
+        <activity android:name=".activities.followersSystem.SettingsActivity" />
+        <activity android:name=".activities.followersSystem.AddNewFollowerActivity" />
+        <activity android:name=".activities.followersSystem.FollowersActivity"></activity>
+    </application>
+
+</manifest>

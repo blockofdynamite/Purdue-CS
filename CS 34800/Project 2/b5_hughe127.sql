@@ -1,0 +1,9 @@
+DROP TABLE Actor;
+DROP TABLE Audition;
+DROP TABLE ManagingDirector;
+DROP TABLE Movie;
+DROP TABLE Role;
+DROP SEQUENCE Actor_seq;
+DROP SEQUENCE MD_seq;
+DROP SEQUENCE Movie_seq;
+DROP SEQUENCE Role_seq;

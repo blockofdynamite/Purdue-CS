@@ -1,0 +1,2 @@
+Data: x86_64, Little
+Lore: SPARC, Big

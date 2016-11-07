@@ -1,0 +1,1602 @@
+[master (root-commit) 195006e] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 11 files changed, 811 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 HashTableVoid.cc
+ create mode 100644 HashTableVoid.h
+ create mode 100755 HashTableVoidTest
+ create mode 100644 HashTableVoidTest.cc
+ create mode 100755 IRCServer
+ create mode 100644 IRCServer.cc
+ create mode 100644 IRCServer.h
+ create mode 100755 Makefile
+ create mode 100755 talk-server
+ create mode 100755 testall
+[master 31a87fe] 0 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 35 insertions(+)
+ create mode 100644 .local.total.out
+ create mode 100644 diff.out
+ create mode 100644 total.out
+ create mode 100644 total.txt
+[master 3f7cda3] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 2 deletions(-)
+ rename diff.out => none (100%)
+ delete mode 100644 total.out
+[master d546088] 12 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 26 insertions(+), 6 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 0c99a0a] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 18 insertions(+), 2 deletions(-)
+ create mode 100755 HashTableVoidTest.org
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master e4c08cd] 0 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 32 insertions(+), 6 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master e7d364c] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 5 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master a203c20] 0 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master ce9b998] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 5 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 504054b] 0 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 8ac3f7b] Make IRCServer
+ 8 files changed, 19 insertions(+), 6 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 310690a] 0 of 12
+ 6 files changed, 13 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master f4a1f50] Make IRCServer
+ 7 files changed, 35 insertions(+), 11 deletions(-)
+ rewrite HashTableVoidTest (80%)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master bf32b8e] 2 of 12
+ 7 files changed, 15 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 8d720bb] Make IRCServer
+ 7 files changed, 18 insertions(+), 7 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 07f6952] 4 of 12
+ 7 files changed, 14 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master f51d7d0] Make IRCServer
+ 7 files changed, 26 insertions(+), 7 deletions(-)
+ rewrite HashTableVoidTest (76%)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master d5fdb7d] 8 of 12
+ 7 files changed, 15 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master d74c77b] Make IRCServer
+ 7 files changed, 22 insertions(+), 9 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master ff01fab] 12 of 12
+ 7 files changed, 14 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master de57653] Make IRCServer
+ 6 files changed, 6 insertions(+), 4 deletions(-)
+ create mode 100755 .nfs0000000001c71edd00000015
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master f95e3e2] 12 of 12
+ 6 files changed, 13 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master bf245bb] Make IRCServer
+ 6 files changed, 372 insertions(+)
+ delete mode 100755 .nfs0000000001c71edd00000015
+ create mode 100644 LinkedList.c
+ create mode 100644 LinkedList.h
+[master 7d47d8e] Make IRCServer
+ 3 files changed, 7 insertions(+)
+[master 8f55f2c] Make IRCServer
+ 3 files changed, 8 insertions(+)
+[master a410008] Make IRCServer
+ 3 files changed, 10 insertions(+), 2 deletions(-)
+[master d17f59b] Make IRCServer
+ 3 files changed, 13 insertions(+), 4 deletions(-)
+[master a5429ba] Make IRCServer
+ 3 files changed, 7 insertions(+), 4 deletions(-)
+[master 956498e] Make IRCServer
+ 3 files changed, 4 insertions(+), 2 deletions(-)
+[master 050a526] Make IRCServer
+ 3 files changed, 7 insertions(+), 7 deletions(-)
+ rewrite IRCServer (84%)
+[master 9baf368] Make IRCServer
+ 3 files changed, 7 insertions(+), 4 deletions(-)
+[master 2bad5e6] Make IRCServer
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+[master 9643c36] Make IRCServer
+ 3 files changed, 2 insertions(+), 27 deletions(-)
+[master 267d77c] Make IRCServer
+ 1 file changed, 2 insertions(+)
+[master 6566cd7] Make IRCServer
+ 3 files changed, 30 insertions(+)
+[master 47547d8] Make IRCServer
+ 3 files changed, 20 insertions(+), 5 deletions(-)
+[master d2ffbf5] Make IRCServer
+ 3 files changed, 3 insertions(+), 33 deletions(-)
+ rewrite IRCServer (74%)
+[master 7899977] Make IRCServer
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+ rewrite IRCServer (73%)
+[master da878e7] Make IRCServer
+ 4 files changed, 10 insertions(+), 1 deletion(-)
+ create mode 100644 password.txt
+[master a723c7c] Make IRCServer
+ 3 files changed, 4 insertions(+), 1 deletion(-)
+[master a3d0941] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 4d1c5e2] Make IRCServer
+ 3 files changed, 3 insertions(+)
+[master 41e6d81] Make IRCServer
+ 1 file changed, 2 insertions(+)
+[master d71130d] Make IRCServer
+ 3 files changed, 3 insertions(+), 2 deletions(-)
+[master 5e6b45d] Make IRCServer
+ 3 files changed, 34 insertions(+)
+[master ec9a850] Make IRCServer
+ 4 files changed, 35 insertions(+), 33 deletions(-)
+[master ee703ed] Make IRCServer
+ 3 files changed, 4 insertions(+), 5 deletions(-)
+[master 6ab6588] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 6315fb8] Make IRCServer
+ 4 files changed, 7 insertions(+), 2 deletions(-)
+[master 38d8a97] Make IRCServer
+ 4 files changed, 6 insertions(+), 1 deletion(-)
+ rewrite IRCServer (70%)
+[master 3019bdf] Make IRCServer
+ 3 files changed, 5 insertions(+), 2 deletions(-)
+ rewrite IRCServer (78%)
+[master f44bbab] Make IRCServer
+ 3 files changed, 11 insertions(+)
+[master 1773c91] Make IRCServer
+ 4 files changed, 10 insertions(+), 2 deletions(-)
+[master 9c3f6ba] Make IRCServer
+ 3 files changed, 5 insertions(+), 1 deletion(-)
+[master 5d41dc7] Make IRCServer
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+[master f4e623a] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master cf9ce7f] Make IRCServer
+ 4 files changed, 9 insertions(+), 15 deletions(-)
+ rewrite IRCServer (71%)
+[master e62368f] Make IRCServer
+ 4 files changed, 5 insertions(+), 4 deletions(-)
+[master ce3cef9] Make IRCServer
+ 3 files changed, 6 insertions(+), 9 deletions(-)
+[master b18a7f5] Make IRCServer
+ 1 file changed, 2 insertions(+)
+[master 517f191] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 10d1365] Make IRCServer
+ 3 files changed, 9 insertions(+), 1 deletion(-)
+[master 2094d68] Make IRCServer
+ 3 files changed, 2 insertions(+), 10 deletions(-)
+ rewrite IRCServer (64%)
+[master 4b511bb] Make IRCServer
+ 3 files changed, 6 insertions(+), 2 deletions(-)
+[master 6d41d45] Make IRCServer
+ 3 files changed, 4 insertions(+)
+[master 9cf0354] Make IRCServer
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+[master 8f8be62] Make IRCServer
+ 3 files changed, 9 insertions(+), 2 deletions(-)
+ rewrite IRCServer (61%)
+[master 386a779] Make IRCServer
+ 3 files changed, 4 insertions(+), 1 deletion(-)
+[master e7bc356] Make IRCServer
+ 1 file changed, 2 insertions(+)
+[master f9de91c] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 73c4a45] Make IRCServer
+ 3 files changed, 6 insertions(+), 1 deletion(-)
+[master 6e07b26] Make IRCServer
+ 3 files changed, 4 insertions(+), 1 deletion(-)
+[master d2fc449] Make IRCServer
+ 3 files changed, 4 insertions(+), 1 deletion(-)
+[master a48e138] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 57adf49] Make IRCServer
+ 3 files changed, 3 insertions(+)
+[master 00e7f3d] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master f596dec] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master f03463b] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master fece930] Make IRCServer
+ 3 files changed, 13 insertions(+), 11 deletions(-)
+[master b7af7df] Make IRCServer
+ 5 files changed, 8 insertions(+), 3 deletions(-)
+[master aba672a] Make IRCServer
+ 3 files changed, 3 insertions(+), 3 deletions(-)
+ rewrite IRCServer (61%)
+[master 62dad09] Make IRCServer
+ 3 files changed, 9 insertions(+), 4 deletions(-)
+[master 88e91d0] Make IRCServer
+ 3 files changed, 5 insertions(+)
+[master 67aa47f] Make IRCServer
+ 3 files changed, 12 insertions(+), 4 deletions(-)
+ rewrite IRCServer (82%)
+[master aaa4ae7] Make IRCServer
+ 3 files changed, 4 insertions(+), 1 deletion(-)
+ rewrite IRCServer (84%)
+[master e2e9064] Make IRCServer
+ 4 files changed, 10 insertions(+), 3 deletions(-)
+ rewrite IRCServer (89%)
+[master 2691298] Make IRCServer
+ 10 files changed, 265 insertions(+), 1 deletion(-)
+ create mode 100644 .idea/.name
+ create mode 100644 .idea/lab6-src.iml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 .idea/workspace.xml
+ create mode 100644 CMakeLists.txt
+ rewrite IRCServer (81%)
+[master 8fa8f10] Make IRCServer
+ 5 files changed, 65 insertions(+), 15 deletions(-)
+ rewrite IRCServer (88%)
+[master ad86546] Make IRCServer
+ 4 files changed, 21 insertions(+), 25 deletions(-)
+[master 6e0791f] Make IRCServer
+ 4 files changed, 8 insertions(+), 6 deletions(-)
+[master 0c5fb91] Make IRCServer
+ 4 files changed, 10 insertions(+), 8 deletions(-)
+[master 3c5af69] Make IRCServer
+ 4 files changed, 9 insertions(+), 7 deletions(-)
+[master c573f92] Make IRCServer
+ 5 files changed, 29 insertions(+), 25 deletions(-)
+ rewrite IRCServer (91%)
+[master f61f1d0] Make IRCServer
+ 4 files changed, 21 insertions(+), 15 deletions(-)
+[master ac7ef63] Make IRCServer
+ 4 files changed, 6 insertions(+), 3 deletions(-)
+[master 88b14b7] Make IRCServer
+ 4 files changed, 5 insertions(+), 4 deletions(-)
+[master bac492c] Make IRCServer
+ 4 files changed, 5 insertions(+), 3 deletions(-)
+[master 7fd2e92] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 1a4e29f] Make IRCServer
+ 5 files changed, 11 insertions(+), 13 deletions(-)
+ create mode 100755 .nfs0000000001c7052b0000050e
+[master 86a5bc4] Make IRCServer
+ 5 files changed, 9 insertions(+), 5 deletions(-)
+ delete mode 100755 .nfs0000000001c7052b0000050e
+ rewrite IRCServer (77%)
+[master c183db9] Make IRCServer
+ 4 files changed, 10 insertions(+), 7 deletions(-)
+[master 5e02d21] Make IRCServer
+ 4 files changed, 12 insertions(+), 8 deletions(-)
+ rewrite IRCServer (74%)
+[master d7caa5b] Make IRCServer
+ 4 files changed, 7 insertions(+), 2 deletions(-)
+[master 4cee061] Make IRCServer
+ 4 files changed, 8 insertions(+), 6 deletions(-)
+[master 6a5d1d7] Make IRCServer
+ 4 files changed, 11 insertions(+), 9 deletions(-)
+[master 1091a0d] Make IRCServer
+ 4 files changed, 10 insertions(+), 7 deletions(-)
+[master f8fd7d4] Make IRCServer
+ 5 files changed, 7 insertions(+), 5 deletions(-)
+ rename IRCServer => .nfs0000000001c7052b0000050f (100%)
+ rewrite IRCServer (61%)
+[master dfdbef0] Make IRCServer
+ 4 files changed, 10 insertions(+), 5 deletions(-)
+ rename .nfs0000000001c7052b0000050f => IRCServer (100%)
+[master 1b31542] Make IRCServer
+ 5 files changed, 8 insertions(+), 18 deletions(-)
+ rename IRCServer => .nfs0000000001c71ed400000510 (100%)
+ rewrite IRCServer (75%)
+[master eacb38e] Make IRCServer
+ 4 files changed, 12 insertions(+), 7 deletions(-)
+ rename .nfs0000000001c71ed400000510 => IRCServer (78%)
+[master 5fed789] Make IRCServer
+ 4 files changed, 12 insertions(+), 11 deletions(-)
+[master 306b94e] Make IRCServer
+ 4 files changed, 7 insertions(+), 4 deletions(-)
+[master 5f6d19a] Make IRCServer
+ 4 files changed, 7 insertions(+), 4 deletions(-)
+[master d599fdb] Make IRCServer
+ 4 files changed, 14 insertions(+), 8 deletions(-)
+[master 390b6d0] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 12866c6] Make IRCServer
+ 4 files changed, 7 insertions(+), 4 deletions(-)
+[master 344a065] Make IRCServer
+ 5 files changed, 41 insertions(+), 22 deletions(-)
+ rewrite IRCServer (83%)
+[master eb07e9c] Make IRCServer
+ 4 files changed, 10 insertions(+), 6 deletions(-)
+[master 3f2d96d] Make IRCServer
+ 4 files changed, 9 insertions(+), 6 deletions(-)
+[master 5282131] Make IRCServer
+ 4 files changed, 6 insertions(+), 3 deletions(-)
+[master 5e94851] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+ rewrite IRCServer (77%)
+[master edc0f82] Make IRCServer
+ 4 files changed, 11 insertions(+), 6 deletions(-)
+ rewrite IRCServer (61%)
+[master 6872c30] Make IRCServer
+ 4 files changed, 8 insertions(+), 7 deletions(-)
+[master a3dfd89] Make IRCServer
+ 4 files changed, 6 insertions(+), 8 deletions(-)
+[master 8a54a79] Make IRCServer
+ 3 files changed, 5 insertions(+)
+[master beb1396] Make IRCServer
+ 4 files changed, 16 insertions(+), 5 deletions(-)
+[master da6454f] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master b47561e] Make IRCServer
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+[master 34abf06] Make IRCServer
+ 4 files changed, 7 insertions(+), 7 deletions(-)
+[master 958bd74] Make IRCServer
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+[master 795e709] Make IRCServer
+ 4 files changed, 10 insertions(+), 8 deletions(-)
+[master a24d0e0] Make IRCServer
+ 4 files changed, 21 insertions(+), 8 deletions(-)
+[master 6747262] Make IRCServer
+ 4 files changed, 9 insertions(+), 5 deletions(-)
+[master 92a8e58] Make IRCServer
+ 4 files changed, 12 insertions(+), 12 deletions(-)
+[master 1c203e4] Make IRCServer
+ 4 files changed, 7 insertions(+), 7 deletions(-)
+[master aa1952c] Make IRCServer
+ 4 files changed, 8 insertions(+), 9 deletions(-)
+[master 04a2370] Make IRCServer
+ 5 files changed, 21 insertions(+), 15 deletions(-)
+[master c53a04c] Make IRCServer
+ 4 files changed, 7 insertions(+), 6 deletions(-)
+[master c19614d] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 7d3eabd] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master de5666a] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master a701edb] Make IRCServer
+ 4 files changed, 10 insertions(+), 5 deletions(-)
+[master 0cd8ffa] Make IRCServer
+ 4 files changed, 8 insertions(+), 6 deletions(-)
+[master 4a783cb] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 6b3538d] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 97c31c1] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 9890d3a] Make IRCServer
+ 4 files changed, 8 insertions(+), 4 deletions(-)
+ rewrite IRCServer (86%)
+[master e3cb4fd] Make IRCServer
+ 4 files changed, 10 insertions(+), 7 deletions(-)
+[master dda45b5] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 1c23955] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 46480f9] Make IRCServer
+ 4 files changed, 53 insertions(+), 27 deletions(-)
+[master 79f2499] Make IRCServer
+ 5 files changed, 10 insertions(+), 4 deletions(-)
+[master bab0f25] Make IRCServer
+ 5 files changed, 6 insertions(+), 3 deletions(-)
+[master 0726b25] Make IRCServer
+ 5 files changed, 8 insertions(+), 5 deletions(-)
+[master c5c9685] Make IRCServer
+ 5 files changed, 20 insertions(+), 16 deletions(-)
+[master 290ccd5] Make IRCServer
+ 3 files changed, 8 insertions(+), 8 deletions(-)
+[master 6e64d0e] Make IRCServer
+ 4 files changed, 41 insertions(+), 21 deletions(-)
+[master d111f01] Make IRCServer
+ 4 files changed, 10 insertions(+), 9 deletions(-)
+[master e68d87b] Make IRCServer
+ 4 files changed, 9 insertions(+), 7 deletions(-)
+[master 60376e7] Make IRCServer
+ 4 files changed, 17 insertions(+), 11 deletions(-)
+ rewrite IRCServer (80%)
+[master 313b602] Make IRCServer
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+[master f25c52c] Make IRCServer
+ 4 files changed, 8 insertions(+), 6 deletions(-)
+[master d21465a] Make IRCServer
+ 4 files changed, 13 insertions(+), 10 deletions(-)
+[master 494d067] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master a7cb6d8] Make IRCServer
+ 4 files changed, 9 insertions(+), 10 deletions(-)
+[master ba5078b] Make IRCServer
+ 4 files changed, 54 insertions(+), 9 deletions(-)
+ rewrite IRCServer (92%)
+[master d1cb887] Make IRCServer
+ 4 files changed, 11 insertions(+), 5 deletions(-)
+[master e7f13a2] Make IRCServer
+ 4 files changed, 10 insertions(+), 8 deletions(-)
+[master cacf3dd] Make IRCServer
+ 5 files changed, 481 insertions(+), 469 deletions(-)
+ rewrite IRCServer.cc (84%)
+[master 4f26b3b] Make IRCServer
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+[master be0fa46] Make IRCServer
+ 4 files changed, 7 insertions(+), 4 deletions(-)
+[master d09b8d5] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+ rewrite IRCServer (60%)
+[master 9084c6e] Make IRCServer
+ 4 files changed, 12 insertions(+), 6 deletions(-)
+ rewrite IRCServer (63%)
+[master f7de90a] Make IRCServer
+ 4 files changed, 9 insertions(+), 4 deletions(-)
+[master b0acc65] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master ab7495f] Make IRCServer
+ 4 files changed, 8 insertions(+), 6 deletions(-)
+[master c43fbd1] Make IRCServer
+ 4 files changed, 8 insertions(+), 4 deletions(-)
+[master db6ac22] Make IRCServer
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+[master 655f815] Make IRCServer
+ 4 files changed, 7 insertions(+), 6 deletions(-)
+[master 81f41b0] Make IRCServer
+ 4 files changed, 7 insertions(+), 4 deletions(-)
+[master 92d06ab] Make IRCServer
+ 4 files changed, 10 insertions(+), 5 deletions(-)
+[master 80b4f49] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master a7e3c07] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 4d9012f] Make IRCServer
+ 4 files changed, 11 insertions(+), 8 deletions(-)
+[master d2e1ddb] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master da6057a] Make IRCServer
+ 4 files changed, 7 insertions(+), 6 deletions(-)
+[master efd85fc] Make IRCServer
+ 5 files changed, 10 insertions(+), 5 deletions(-)
+[master 74e0307] Make IRCServer
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+[master 2170983] Make IRCServer
+ 3 files changed, 7 insertions(+), 5 deletions(-)
+[master e697d4a] Make IRCServer
+ 4 files changed, 6 insertions(+), 3 deletions(-)
+[master 12cfe57] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master a2f4958] Make IRCServer
+ 4 files changed, 8 insertions(+), 6 deletions(-)
+[master 7b866c6] Make IRCServer
+ 4 files changed, 7 insertions(+), 4 deletions(-)
+[master c75516c] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 0828ed3] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 3d05d69] Make IRCServer
+ 4 files changed, 30 insertions(+), 16 deletions(-)
+[master 8609df8] Make IRCServer
+ 4 files changed, 9 insertions(+), 5 deletions(-)
+[master cf8eb52] Make IRCServer
+ 4 files changed, 8 insertions(+), 10 deletions(-)
+[master 58c3e22] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master cff17e5] Make IRCServer
+ 4 files changed, 6 insertions(+), 5 deletions(-)
+[master bdbb141] Make IRCServer
+ 4 files changed, 10 insertions(+), 7 deletions(-)
+[master 7c206ad] Make IRCServer
+ 4 files changed, 32 insertions(+), 5 deletions(-)
+ rewrite IRCServer (86%)
+[master f9961bb] Make IRCServer
+ 4 files changed, 17 insertions(+), 5 deletions(-)
+ rewrite IRCServer (91%)
+[master 2210f37] Make IRCServer
+ 4 files changed, 7 insertions(+), 3 deletions(-)
+[master c444946] Make IRCServer
+ 4 files changed, 15 insertions(+), 5 deletions(-)
+[master 233a8f9] Make IRCServer
+ 4 files changed, 21 insertions(+), 9 deletions(-)
+[master e33f5fc] Make IRCServer
+ 4 files changed, 43 insertions(+), 4 deletions(-)
+[master 8cfe4ab] Make IRCServer
+ 4 files changed, 19 insertions(+), 18 deletions(-)
+[master 791340e] Make IRCServer
+ 4 files changed, 63 insertions(+), 36 deletions(-)
+[master 9099ed8] Make IRCServer
+ 4 files changed, 48 insertions(+), 10 deletions(-)
+[master 106488b] Make IRCServer
+ 2 files changed, 6 insertions(+), 5 deletions(-)
+[master 690652a] Make IRCServer
+ 4 files changed, 19 insertions(+), 14 deletions(-)
+[master 3c19113] Make IRCServer
+ 4 files changed, 17 insertions(+), 14 deletions(-)
+[master 37ddd3c] Make IRCServer
+ 4 files changed, 16 insertions(+), 16 deletions(-)
+[master 03c992b] Make IRCServer
+ 4 files changed, 29 insertions(+), 10 deletions(-)
+ rewrite IRCServer (76%)
+[master 4921854] Make IRCServer
+ 3 files changed, 18 insertions(+), 15 deletions(-)
+[master 9b0c371] Make IRCServer
+ 3 files changed, 17 insertions(+), 16 deletions(-)
+[master 508e26f] Make IRCServer
+ 4 files changed, 20 insertions(+), 14 deletions(-)
+[master b604a54] Make IRCServer
+ 4 files changed, 17 insertions(+), 15 deletions(-)
+[master 966bf57] Make IRCServer
+ 4 files changed, 17 insertions(+), 15 deletions(-)
+[master 0efbed9] Make IRCServer
+ 4 files changed, 91 insertions(+), 91 deletions(-)
+ rewrite IRCServer (82%)
+[master acfd737] Make IRCServer
+ 4 files changed, 25 insertions(+), 16 deletions(-)
+[master 60608c7] Make IRCServer
+ 4 files changed, 18 insertions(+), 15 deletions(-)
+[master ec0a465] Make IRCServer
+ 4 files changed, 19 insertions(+), 16 deletions(-)
+[master 3955506] Make IRCServer
+ 4 files changed, 8 insertions(+), 66 deletions(-)
+ rewrite IRCServer (75%)
+[master ce9d1ba] Make IRCServer
+ 5 files changed, 75 insertions(+), 39 deletions(-)
+[master 77fb183] Make IRCServer
+ 23 files changed, 704 insertions(+), 70 deletions(-)
+ create mode 100755 IRCServer.org
+ create mode 100755 TestIRCServer
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ create mode 100755 test-server1.sh
+ create mode 100755 test-server10.sh
+ create mode 100755 test-server2.sh
+ create mode 100755 test-server3.sh
+ create mode 100755 test-server4.sh
+ create mode 100755 test-server5.sh
+ create mode 100755 test-server6.sh
+ create mode 100755 test-server7.sh
+ create mode 100755 test-server8.sh
+ create mode 100755 test-server9.sh
+ delete mode 100644 total.out
+[master 99d7573] Make IRCServer
+ 10 files changed, 121 insertions(+), 14 deletions(-)
+ rename IRCServer => .nfs0000000001c7052b00000efb (100%)
+ rewrite IRCServer (76%)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 7da4798] Make IRCServer
+ 8 files changed, 36 insertions(+), 7 deletions(-)
+ delete mode 100755 .nfs0000000001c7052b00000efb
+ create mode 100755 .nfs0000000001c737aa00000efc
+[master a32a22e] Make IRCServer
+ 7 files changed, 563 insertions(+), 430 deletions(-)
+ rewrite .idea/workspace.xml (100%)
+ delete mode 100755 .nfs0000000001c737aa00000efc
+ rewrite IRCServer (76%)
+ create mode 100644 IRCServer.cc??????
+ delete mode 100644 talk-server.out
+[master 6d64894] Make IRCServer
+ 7 files changed, 216 insertions(+), 559 deletions(-)
+ rename IRCServer => .nfs0000000001c70ead0000000b (100%)
+ rewrite IRCServer (76%)
+ delete mode 100644 IRCServer.cc??????
+ create mode 100644 talk-server.out
+[master 51e1ef9] Make IRCServer
+ 4 files changed, 12 insertions(+), 5 deletions(-)
+[master dcf18f2] Make IRCServer
+ 9 files changed, 8 insertions(+), 72 deletions(-)
+ delete mode 100755 .nfs0000000001c70ead0000000b
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 1309592] Make IRCServer
+ 9 files changed, 90 insertions(+), 44 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 9e6077e] Make IRCServer
+ 4 files changed, 13 insertions(+), 10 deletions(-)
+[master e4bdacd] Make IRCServer
+ 4 files changed, 28 insertions(+), 30 deletions(-)
+[master e1d1ea6] Make IRCServer
+ 5 files changed, 19 insertions(+), 17 deletions(-)
+[master c4d69aa] Make IRCServer
+ 7 files changed, 6 insertions(+), 21 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master d11eb40] Make IRCServer
+ 10 files changed, 74 insertions(+), 18 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 58f3a77] Make IRCServer
+ 5 files changed, 6 insertions(+), 61 deletions(-)
+ rename talk-server.out => .nfs0000000001c7351600000016 (100%)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+[master ea46517] Make IRCServer
+ 10 files changed, 93 insertions(+), 13 deletions(-)
+ rewrite IRCServer (72%)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ rename .nfs0000000001c7351600000016 => talk-server.out (100%)
+[master f8774f7] Make IRCServer
+ 7 files changed, 1545 insertions(+), 17 deletions(-)
+ rewrite IRCServer (91%)
+ create mode 100644 less
+ create mode 100644 test.txt
+[master 79b556b] Make IRCServer
+ 5 files changed, 12 insertions(+), 11 deletions(-)
+ rewrite IRCServer (66%)
+[master edd1e81] Make IRCServer
+ 5 files changed, 9 insertions(+), 5 deletions(-)
+[master 8ae2f3d] Make IRCServer
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+[master 06ea5da] Make IRCServer
+ 7 files changed, 8 insertions(+), 63 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master f45f5c7] Make IRCServer
+ 9 files changed, 75 insertions(+), 10 deletions(-)
+ rewrite IRCServer (83%)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 2c2639b] Make IRCServer
+ 6 files changed, 8 insertions(+), 46 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master b8cc053] Make IRCServer
+ 8 files changed, 19 insertions(+), 14 deletions(-)
+ rewrite IRCServer (82%)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master cd5d625] Make IRCServer
+ 6 files changed, 8 insertions(+), 9 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 7f69edb] Make IRCServer
+ 8 files changed, 17 insertions(+), 7 deletions(-)
+ rewrite IRCServer (73%)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master f5aef7d] Make IRCServer
+ 6 files changed, 8 insertions(+), 5 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 92a1c9a] Make IRCServer
+ 8 files changed, 22 insertions(+), 8 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 809b962] Make IRCServer
+ 6 files changed, 8 insertions(+), 10 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 95f4066] Make IRCServer
+ 7 files changed, 50 insertions(+), 41 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 2110ccd] Make IRCServer
+ 6 files changed, 9 insertions(+), 8 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master a7ed475] Make IRCServer
+ 9 files changed, 114 insertions(+), 28 deletions(-)
+ create mode 100644 diff.out
+ delete mode 100644 password.txt
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master c83681c] Make IRCServer
+ 7 files changed, 32 insertions(+), 95 deletions(-)
+ delete mode 100644 diff.out
+ create mode 100644 password.txt
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master c7987b8] Make IRCServer
+ 9 files changed, 40 insertions(+), 13 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 4440ce1] Make IRCServer
+ 5 files changed, 11 insertions(+), 18 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master c045590] Make IRCServer
+ 7 files changed, 25 insertions(+), 11 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 2ffd76c] Make IRCServer
+ 4 files changed, 5 insertions(+), 12 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master e5384fc] Make IRCServer
+ 9 files changed, 154 insertions(+), 18 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 06f54f8] Make IRCServer
+ 6 files changed, 8 insertions(+), 138 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master beed4ae] Make IRCServer
+ 9 files changed, 85 insertions(+), 13 deletions(-)
+ rewrite IRCServer (69%)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master e92cde7] Make IRCServer
+ 4 files changed, 12 insertions(+), 6 deletions(-)
+[master 9198e65] Make IRCServer
+ 6 files changed, 8 insertions(+), 73 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master b6ce16f] Make IRCServer
+ 9 files changed, 35 insertions(+), 12 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 35b8489] Make IRCServer
+ 4 files changed, 12 insertions(+), 9 deletions(-)
+ rewrite IRCServer (65%)
+[master b965b18] Make IRCServer
+ 6 files changed, 9 insertions(+), 21 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master d9d85c9] Make IRCServer
+ 9 files changed, 117 insertions(+), 7 deletions(-)
+ rewrite IRCServer (63%)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master e2dc0ff] Make IRCServer
+ 4 files changed, 13 insertions(+), 7 deletions(-)
+[master 345d1a4] Make IRCServer
+ 4 files changed, 8 insertions(+), 6 deletions(-)
+ rewrite IRCServer (65%)
+[master 64261db] Make IRCServer
+ 6 files changed, 7 insertions(+), 109 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master ed2a87c] Make IRCServer
+ 9 files changed, 153 insertions(+), 5 deletions(-)
+ rewrite IRCServer (63%)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 8563c81] Make IRCServer
+ 6 files changed, 9 insertions(+), 142 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master c41d9fd] Make IRCServer
+ 9 files changed, 44 insertions(+), 14 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master f168b74] Make IRCServer
+ 6 files changed, 15 insertions(+), 35 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 47f751b] Make IRCServer
+ 7 files changed, 18 insertions(+), 9 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master c80dd84] Make IRCServer
+ 5 files changed, 7 insertions(+), 7 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master dca903a] Make IRCServer
+ 10 files changed, 118 insertions(+), 12 deletions(-)
+ rewrite IRCServer (77%)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 39d3979] Make IRCServer
+ 4 files changed, 15 insertions(+), 6 deletions(-)
+[master 9c83e58] Make IRCServer
+ 4 files changed, 11 insertions(+), 5 deletions(-)
+[master c2ec9f7] Make IRCServer
+ 4 files changed, 27 insertions(+), 6 deletions(-)
+[master ec34e0a] Make IRCServer
+ 4 files changed, 10 insertions(+), 8 deletions(-)
+[master b1b0488] Make IRCServer
+ 4 files changed, 15 insertions(+), 5 deletions(-)
+[master e5cb809] Make IRCServer
+ 4 files changed, 7 insertions(+), 4 deletions(-)
+[master 43455b5] Make IRCServer
+ 6 files changed, 6 insertions(+), 88 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 7fee7e9] Make IRCServer
+ 9 files changed, 59 insertions(+), 16 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master cb579ec] Make IRCServer
+ 5 files changed, 7 insertions(+), 27 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master f01de4e] Make IRCServer
+ 10 files changed, 97 insertions(+), 20 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master ccbc82f] Make IRCServer
+ 6 files changed, 12 insertions(+), 88 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 7ff7efb] Make IRCServer
+ 9 files changed, 32 insertions(+), 11 deletions(-)
+ create mode 100755 .nfs0000000001c7052b00001ff5
+ create mode 100644 diff.out
+ delete mode 100644 password.txt
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 538abd8] Make IRCServer
+ 5 files changed, 17 insertions(+), 15 deletions(-)
+ rename .nfs0000000001c7052b00001ff5 => IRCServer (67%)
+ create mode 100644 password.txt
+[master 2c367be] Make IRCServer
+ 4 files changed, 22 insertions(+), 15 deletions(-)
+[master 848c9d1] Make IRCServer
+ 4 files changed, 6 insertions(+), 3 deletions(-)
+[master 092d144] Make IRCServer
+ 4 files changed, 5 insertions(+), 3 deletions(-)
+[master 8c5c5c2] Make IRCServer
+ 5 files changed, 4 insertions(+), 11 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master c388667] Make IRCServer
+ 3 files changed, 85 insertions(+), 13 deletions(-)
+[master 1e235e0] 52 of 62
+ 9 files changed, 245 insertions(+), 4 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 7f1e96b] Make IRCServer
+ 4 files changed, 15 insertions(+), 8 deletions(-)
+[master 755a077] Make IRCServer
+ 6 files changed, 2 insertions(+), 230 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 431d623] 52 of 62
+ 7 files changed, 245 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 7134af7] Make IRCServer
+ 5 files changed, 22 insertions(+), 19 deletions(-)
+[master c8a81b7] Make IRCServer
+ 4 files changed, 6 insertions(+), 5 deletions(-)
+[master 2f537c2] Make IRCServer
+ 5 files changed, 34 insertions(+), 4 deletions(-)
+[master 6038c9d] Make IRCServer
+ 9 files changed, 9 insertions(+), 269 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master cf650fb] Make IRCServer
+ 1 file changed, 7 insertions(+)
+[master cc5ad8d] 52 of 62
+ 8 files changed, 249 insertions(+), 4 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 2be8edc] Make IRCServer
+ 9 files changed, 14 insertions(+), 244 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 7ed2f62] Make IRCServer
+ 9 files changed, 248 insertions(+), 10 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master a0f806c] Make IRCServer
+ 5 files changed, 9 insertions(+), 227 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 2ba6d2f] 52 of 62
+ 10 files changed, 246 insertions(+), 5 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 7c98ba8] Make IRCServer
+ 9 files changed, 14 insertions(+), 244 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 63f731a] 52 of 62
+ 7 files changed, 241 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 6b7942f] Make IRCServer
+ 4 files changed, 13 insertions(+), 7 deletions(-)
+[master 88a709d] Make IRCServer
+ 6 files changed, 2 insertions(+), 232 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master bf17dd5] 42 of 62
+ 8 files changed, 247 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master b06538d] Make IRCServer
+ 7 files changed, 41 insertions(+), 255 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 3b67346] Make IRCServer
+ 9 files changed, 240 insertions(+), 5 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 3ac3128] Make IRCServer
+ 4 files changed, 5 insertions(+), 223 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 0d319be] Make IRCServer
+ 6 files changed, 15 insertions(+), 24 deletions(-)
+ delete mode 100644 password.txt
+[master 5ac37b1] Make IRCServer
+ 10 files changed, 75 insertions(+), 12 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 password.txt
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master a5718eb] Make IRCServer
+ 5 files changed, 7 insertions(+), 62 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 2f57289] Make IRCServer
+ 5 files changed, 24 insertions(+), 11 deletions(-)
+[master 892f6c6] Make IRCServer
+ 5 files changed, 12 insertions(+), 7 deletions(-)
+[master e2ab8f1] 57 of 62
+ 10 files changed, 240 insertions(+), 5 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 967a85e] Make IRCServer
+ 10 files changed, 16 insertions(+), 243 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 3b51fa6] 52 of 62
+ 10 files changed, 253 insertions(+), 6 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master ebdff78] Make IRCServer
+ 9 files changed, 18 insertions(+), 245 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master fa7544f] 57 of 62
+ 9 files changed, 248 insertions(+), 12 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master de49b87] Make IRCServer
+ 4 files changed, 22 insertions(+), 18 deletions(-)
+[master fbf8dae] Make IRCServer
+ 6 files changed, 2 insertions(+), 224 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 2486526] 52 of 62
+ 9 files changed, 240 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 4e77307] Make IRCServer
+ 9 files changed, 17 insertions(+), 238 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 4589238] 57 of 62
+ 8 files changed, 234 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 8ad07b3] Make IRCServer
+ 9 files changed, 17 insertions(+), 233 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master f89dfa8] 52 of 62
+ 9 files changed, 244 insertions(+), 7 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 4ea7fc2] Make IRCServer
+ 9 files changed, 17 insertions(+), 239 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master f9e1abc] 57 of 62
+ 9 files changed, 243 insertions(+), 6 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 7a83dce] Make IRCServer
+ 9 files changed, 14 insertions(+), 234 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 1f4ae90] 57 of 62
+ 8 files changed, 246 insertions(+), 8 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 8698d27] Make IRCServer
+ 9 files changed, 16 insertions(+), 239 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 6ac4008] 57 of 62
+ 8 files changed, 242 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master b9d8071] Make IRCServer
+ 5 files changed, 16 insertions(+), 15 deletions(-)
+[master a403032] Make IRCServer
+ 4 files changed, 5 insertions(+), 5 deletions(-)
+[master 06ed58e] Make IRCServer
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master 58b6d56] Make IRCServer
+ 4 files changed, 5 insertions(+), 3 deletions(-)
+[master 8103300] Make IRCServer
+ 4 files changed, 11 insertions(+), 8 deletions(-)
+[master 285fb4a] Make IRCServer
+ 4 files changed, 7 insertions(+), 6 deletions(-)
+[master 86abf3e] Make IRCServer
+ 4 files changed, 5 insertions(+), 3 deletions(-)
+[master 8491060] Make IRCServer
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+[master 12e2f86] Make IRCServer
+ 4 files changed, 8 insertions(+), 7 deletions(-)
+[master 5150552] Make IRCServer
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+[master 2f682b4] Make IRCServer
+ 4 files changed, 11 insertions(+), 9 deletions(-)
+[master 59f61a2] Make IRCServer
+ 4 files changed, 10 insertions(+), 9 deletions(-)
+[master 7845a6c] Make IRCServer
+ 4 files changed, 12 insertions(+), 9 deletions(-)
+[master 53587f3] Make IRCServer
+ 6 files changed, 2 insertions(+), 228 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 5283b4f] 57 of 62
+ 10 files changed, 248 insertions(+), 14 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 315f49e] Make IRCServer
+ 9 files changed, 19 insertions(+), 230 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 58ad27a] 57 of 62
+ 9 files changed, 233 insertions(+), 4 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master ef295e1] Make IRCServer
+ 4 files changed, 14 insertions(+), 7 deletions(-)
+[master e650523] Make IRCServer
+ 6 files changed, 2 insertions(+), 220 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master d249320] 57 of 62
+ 7 files changed, 229 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master b46676b] Make IRCServer
+ 8 files changed, 8 insertions(+), 221 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 1177f20] 62 of 62
+ 8 files changed, 226 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 7a08cc8] Make IRCServer
+ 7 files changed, 12 insertions(+), 222 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master f1b5b54] 62 of 62
+ 7 files changed, 225 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 204d787] Make IRCServer
+ 8 files changed, 40 insertions(+), 225 deletions(-)
+ rewrite IRCServer.org (84%)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master b511baa] 47 of 62
+ 8 files changed, 229 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 9f96de3] Make IRCServer
+ 4 files changed, 44 insertions(+), 13 deletions(-)
+[master 22ceb48] Make IRCServer
+ 8 files changed, 8 insertions(+), 227 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 58d6944] 62 of 62
+ 9 files changed, 237 insertions(+), 7 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master d159935] Make IRCServer
+ 8 files changed, 12 insertions(+), 221 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 2a1f831] 62 of 62
+ 8 files changed, 225 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 36e3cae] Make IRCServer
+ 4 files changed, 12 insertions(+), 9 deletions(-)
+[master c856693] Make IRCServer
+ 7 files changed, 3 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 083e176] 62 of 62
+ 8 files changed, 234 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master dcb5c97] Make IRCServer
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+[master c986467] Make IRCServer
+ 4 files changed, 5 insertions(+), 2 deletions(-)
+[master a559ab8] Make IRCServer
+ 6 files changed, 2 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 25f7ccc] 62 of 62
+ 8 files changed, 225 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master c0a7d46] Make IRCServer
+ 6 files changed, 7 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 8ad18f1] Make IRCServer
+ 4 files changed, 10 insertions(+)
+[master 9abdaff] Make IRCServer
+ 1 file changed, 2 insertions(+)
+[master 7a5ddf4] Make IRCServer
+ 9 files changed, 94 insertions(+), 29 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ rewrite total.txt (63%)
+[master a8b9524] Make IRCServer
+ 5 files changed, 7 insertions(+), 55 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 178ec06] 62 of 62
+ 9 files changed, 243 insertions(+), 5 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 68242af] Make IRCServer
+ 4 files changed, 9 insertions(+)
+[master c637641] Make IRCServer
+ 4 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100755 .nfs0000000001c731820000200b
+[master c827409] Make IRCServer
+ 5 files changed, 4 insertions(+), 1 deletion(-)
+ delete mode 100755 .nfs0000000001c731820000200b
+ create mode 100755 .nfs0000000001c74a8d00002038
+[master b242c7d] Make IRCServer
+ 6 files changed, 4 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 04231f9] 62 of 62
+ 9 files changed, 241 insertions(+), 17 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+ rewrite total.txt (63%)
+[master 9ec4202] Make IRCServer
+ 6 files changed, 9 insertions(+), 1 deletion(-)
+ rename .nfs0000000001c74a8d00002038 => .nfs0000000001c70147000007ba (70%)
+ create mode 100644 Screenshot-Terminal-1.png
+ create mode 100644 Screenshot-Terminal.png
+[master b33052c] Make IRCServer
+ 8 files changed, 6 insertions(+), 216 deletions(-)
+ delete mode 100755 .nfs0000000001c70147000007ba
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 4a82292] 62 of 62
+ 9 files changed, 242 insertions(+), 17 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+ rewrite total.txt (63%)
+[master f454ca3] Make IRCServer
+ 4 files changed, 12 insertions(+), 1 deletion(-)
+[master 811f1af] Make IRCServer
+ 6 files changed, 2 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 03e3f08] 62 of 62
+ 8 files changed, 225 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master e05d0bf] Make IRCServer
+ 7 files changed, 10 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out

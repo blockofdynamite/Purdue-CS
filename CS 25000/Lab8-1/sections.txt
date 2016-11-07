@@ -1,0 +1,26 @@
+Address     Variable/Function   Section
+----------- -----------------   -------
+0x104cd     &foo                Text
+0x10515     main                Text
+0x10614     str					Text
+0x21034     &e					Data
+0x21040     &c					BSS
+0x82e008    p					Heap
+0x7eef5198  &d 					Stack
+0x7eef51a8  &b 					Stack
+0x7eef51ac  &p					Stack
+0x7eef51b0  &str				Stack
+
+Direct Output
+&b=0x7eef51a8 &c=0x21040
+&p=0x7eef51ac p=0x82e008
+&str=0x7eef51b0 str=0x10614
+&d=0x7eef5198 &e=0x21034
+main=0x10515 &foo=0x104cd
+
+---------------------------------------
+
+Endianess
+Data: x86_64, Little
+Lore: SPARC,  Big
+Pi:   ARMv7,  Little

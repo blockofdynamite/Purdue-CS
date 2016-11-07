@@ -1,0 +1,2 @@
+g++ -g -std=c++11 -o IRCServer IRCServer.cc
+Makefile:10: recipe for target 'IRCServer' failed

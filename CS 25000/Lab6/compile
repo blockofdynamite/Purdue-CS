@@ -1,0 +1,5 @@
+#!/bin/bash
+
+arm-linux-gnueabi-gcc -o Strlen  length.s
+arm-linux-gnueabi-gcc -o Fib     fib.s
+arm-linux-gnueabi-gcc -o Product product.s

@@ -1,0 +1,343 @@
+[master (root-commit) 82facc2] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 986 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 .local.total.out
+ create mode 100644 Makefile
+ create mode 100755 check-strfunc.sh
+ create mode 100644 cosmos.txt
+ create mode 100755 countwords
+ create mode 100644 countwords.c
+ create mode 100755 countwords.org
+ create mode 100644 countwords.org.out
+ create mode 100644 countwords.out
+ create mode 100644 diff.out
+ create mode 100755 isbalanced
+ create mode 100644 isbalanced.c
+ create mode 100755 isbalanced.org
+ create mode 100644 isbalanced.org.out
+ create mode 100644 isbalanced.out
+ create mode 100644 mystring.c
+ create mode 100644 mystring.o
+ create mode 100644 none
+ create mode 100644 slist.c
+ create mode 100644 slist.h
+ create mode 100644 test.txt
+ create mode 100755 test_mystring
+ create mode 100644 test_mystring.c
+ create mode 100755 test_mystring.org
+ create mode 100644 test_mystring.org.out
+ create mode 100644 test_mystring.out
+ create mode 100755 test_slist
+ create mode 100644 test_slist.c
+ create mode 100755 test_slist.org
+ create mode 100644 test_slist.org.out
+ create mode 100644 test_slist.out
+ create mode 100755 testall
+ create mode 100644 total.out
+ create mode 100644 total.txt
+[master 704d3ec] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 52 insertions(+), 1 deletion(-)
+[master 085b8f6] 65 of 140
+ 33 files changed, 928 insertions(+), 199 deletions(-)
+ create mode 100644 bits.c
+ create mode 100644 bits.h
+ rewrite countwords (80%)
+ rewrite diff.out (100%)
+ rewrite isbalanced (75%)
+ create mode 100644 mysort.c
+ create mode 100644 mysort.h
+ rewrite mystring.o (100%)
+ create mode 100755 test_bits
+ create mode 100644 test_bits.c
+ create mode 100755 test_bits.org
+ create mode 100644 test_bits.org.out
+ create mode 100644 test_bits.out
+ create mode 100755 test_mysort
+ create mode 100644 test_mysort.c
+ create mode 100755 test_mysort.org
+ create mode 100644 test_mysort.org.out
+ create mode 100644 test_mysort.out
+ rewrite test_mystring (80%)
+ rewrite test_slist (69%)
+ rewrite total.txt (84%)
+[master f91822b] 65 of 140
+ 5 files changed, 30 insertions(+), 5 deletions(-)
+[master 57867e0] 65 of 140
+ 8 files changed, 105 insertions(+), 59 deletions(-)
+[master cfe9a4b] 75 of 140
+ 9 files changed, 135 insertions(+), 131 deletions(-)
+ rewrite countwords.out (100%)
+[master 80ddc6d] 75 of 140
+ 7 files changed, 11 insertions(+), 5 deletions(-)
+[master e547fc5] 75 of 140
+ 7 files changed, 9 insertions(+), 40 deletions(-)
+ rewrite countwords (73%)
+[master 808f74c] 75 of 140
+ 8 files changed, 15 insertions(+), 15 deletions(-)
+[master 3647316] 65 of 140
+ 9 files changed, 43 insertions(+), 131 deletions(-)
+ rewrite countwords (71%)
+ rewrite countwords.out (100%)
+[master a72c710] 65 of 140
+ 4 files changed, 7 insertions(+), 5 deletions(-)
+[master cc88634] 75 of 140
+ 9 files changed, 132 insertions(+), 9 deletions(-)
+ rewrite countwords (71%)
+[master ee5da73] 65 of 140
+ 9 files changed, 18 insertions(+), 130 deletions(-)
+ rewrite countwords (72%)
+ rewrite countwords.out (100%)
+[master d28cc2d] 65 of 140
+ 8 files changed, 133 insertions(+), 10 deletions(-)
+ rewrite countwords (68%)
+ rewrite countwords.out (100%)
+[master 0f2d72d] 75 of 140
+ 9 files changed, 144 insertions(+), 126 deletions(-)
+ rewrite countwords.out (92%)
+[master 71715d5] 75 of 140
+ 8 files changed, 11 insertions(+), 20 deletions(-)
+[master bfc995e] 75 of 140
+ 7 files changed, 9 insertions(+), 6 deletions(-)
+[master 2a17569] 75 of 140
+ 7 files changed, 9 insertions(+), 34 deletions(-)
+ rewrite countwords (74%)
+[master e11c75a] 75 of 140
+ 6 files changed, 11 insertions(+), 6 deletions(-)
+[master f08af7e] 75 of 140
+ 12 files changed, 82 insertions(+), 13 deletions(-)
+ rewrite test_mysort (74%)
+[master eaba139] 75 of 140
+ 7 files changed, 24 insertions(+), 6 deletions(-)
+[master aa38e33] 75 of 140
+ 8 files changed, 37 insertions(+), 6 deletions(-)
+[master bc16563] 75 of 140
+ 8 files changed, 23 insertions(+), 9 deletions(-)
+[master 8203acd] 85 of 140
+ 9 files changed, 14 insertions(+), 11 deletions(-)
+[master 5098168] 85 of 140
+ 8 files changed, 11 insertions(+), 13 deletions(-)
+[master b190bea] 85 of 140
+ 7 files changed, 10 insertions(+), 6 deletions(-)
+[master 1524526] 85 of 140
+ 7 files changed, 10 insertions(+), 5 deletions(-)
+[master 4498c3e] 75 of 140
+ 9 files changed, 12 insertions(+), 125 deletions(-)
+ rewrite countwords.out (100%)
+[master c4ebab6] 75 of 140
+ 5 files changed, 10 insertions(+), 5 deletions(-)
+[master 63a522b] 85 of 140
+ 9 files changed, 129 insertions(+), 8 deletions(-)
+[master 855f9b8] 75 of 140
+ 10 files changed, 53 insertions(+), 126 deletions(-)
+ rewrite countwords (71%)
+ rewrite countwords.out (100%)
+[master 6a9abdf] 75 of 140
+ 6 files changed, 34 insertions(+), 6 deletions(-)
+[master 9e2f612] 75 of 140
+ 9 files changed, 20 insertions(+), 10 deletions(-)
+[master 0883421] 85 of 140
+ 9 files changed, 129 insertions(+), 26 deletions(-)
+ rewrite countwords (68%)
+ rewrite countwords.out (100%)
+[master 1691e30] 75 of 140
+ 9 files changed, 160 insertions(+), 126 deletions(-)
+ rewrite countwords (74%)
+ rewrite countwords.out (99%)
+[master 253574f] 75 of 140
+ 8 files changed, 15 insertions(+), 6 deletions(-)
+[master 46ce405] 85 of 140
+ 9 files changed, 12 insertions(+), 155 deletions(-)
+ rewrite countwords.out (100%)
+[master 9c69309] 85 of 140
+ 8 files changed, 127 insertions(+), 7 deletions(-)
+ rewrite countwords.out (100%)
+[master ab7edff] 85 of 140
+ 5 files changed, 10 insertions(+), 5 deletions(-)
+[master 3e940ac] 75 of 140
+ 9 files changed, 154 insertions(+), 124 deletions(-)
+ rewrite countwords.out (99%)
+[master 1a3ef73] 75 of 140
+ 8 files changed, 130 insertions(+), 123 deletions(-)
+ rewrite countwords.out (99%)
+[master a4756d6] 75 of 140
+ 8 files changed, 129 insertions(+), 123 deletions(-)
+ rewrite countwords.out (99%)
+[master 9010312] 75 of 140
+ 6 files changed, 11 insertions(+), 6 deletions(-)
+[master 1da688d] 85 of 140
+ 12 files changed, 143 insertions(+), 178 deletions(-)
+ rewrite countwords.out (99%)
+[master c3f8a2c] 85 of 140
+ 6 files changed, 14 insertions(+), 6 deletions(-)
+[master 5014245] 85 of 140
+ 12 files changed, 30 insertions(+), 21 deletions(-)
+ rewrite test_mysort (72%)
+[master c78140a] 85 of 140
+ 7 files changed, 15 insertions(+), 10 deletions(-)
+[master f6f67cf] 85 of 140
+ 7 files changed, 14 insertions(+), 10 deletions(-)
+[master 4af9743] 85 of 140
+ 7 files changed, 9 insertions(+), 16 deletions(-)
+[master 64612fa] 85 of 140
+ 7 files changed, 16 insertions(+), 9 deletions(-)
+[master e698589] 85 of 140
+ 7 files changed, 13 insertions(+), 6 deletions(-)
+[master 28e6b62] 85 of 140
+ 7 files changed, 20 insertions(+), 15 deletions(-)
+ rewrite diff.out (67%)
+[master 188ef48] 85 of 140
+ 5 files changed, 10 insertions(+), 5 deletions(-)
+[master 302cf60] 101 of 140
+ 8 files changed, 18 insertions(+), 14 deletions(-)
+[master 699f268] 109 of 140
+ 9 files changed, 18 insertions(+), 43 deletions(-)
+[master 0815017] 109 of 140
+ 5 files changed, 9 insertions(+), 5 deletions(-)
+[master 5ed4723] 91 of 140
+ 12 files changed, 22 insertions(+), 135 deletions(-)
+ rewrite countwords.out (100%)
+ rewrite test_mysort (67%)
+[master 1a0e809] 101 of 140
+ 9 files changed, 131 insertions(+), 8 deletions(-)
+[master 1c6e39c] 91 of 140
+ 9 files changed, 12 insertions(+), 125 deletions(-)
+ rewrite countwords.out (100%)
+[master 0230bfc] 91 of 140
+ 7 files changed, 33 insertions(+), 11 deletions(-)
+ rewrite countwords (72%)
+[master d5fd6a3] 109 of 140
+ 11 files changed, 138 insertions(+), 31 deletions(-)
+ rewrite countwords (68%)
+ rewrite test_mysort (66%)
+[master 7b788df] 109 of 140
+ 9 files changed, 25 insertions(+), 41 deletions(-)
+[master 3d4ea8c] 101 of 140
+ 9 files changed, 21 insertions(+), 17 deletions(-)
+ rewrite test_mysort (66%)
+[master a207926] 101 of 140
+ 5 files changed, 10 insertions(+), 5 deletions(-)
+[master cd3b45e] 101 of 140
+ 5 files changed, 9 insertions(+), 5 deletions(-)
+[master dfe1954] 101 of 140
+ 7 files changed, 15 insertions(+), 14 deletions(-)
+ rewrite test_mysort (64%)
+[master 7ce1467] 101 of 140
+ 7 files changed, 12 insertions(+), 7 deletions(-)
+[master 34c5f0a] 101 of 140
+ 7 files changed, 10 insertions(+), 5 deletions(-)
+[master 319c870] 101 of 140
+ 8 files changed, 10 insertions(+), 21 deletions(-)
+[master 8018b5b] 101 of 140
+ 7 files changed, 10 insertions(+), 6 deletions(-)
+[master b7107b3] 101 of 140
+ 7 files changed, 12 insertions(+), 7 deletions(-)
+[master 8ab601c] 101 of 140
+ 7 files changed, 12 insertions(+), 5 deletions(-)
+[master 1ee853b] 101 of 140
+ 7 files changed, 9 insertions(+), 7 deletions(-)
+[master f2b033f] 117 of 140
+ 9 files changed, 49 insertions(+), 15 deletions(-)
+ rewrite test_mysort (65%)
+[master ad19781] 117 of 140
+ 7 files changed, 11 insertions(+), 7 deletions(-)
+[master 34f9107] 117 of 140
+ 8 files changed, 19 insertions(+), 14 deletions(-)
+ rewrite test_mysort (60%)
+[master 7bf30a8] 117 of 140
+ 7 files changed, 13 insertions(+), 10 deletions(-)
+[master 6364bd3] 117 of 140
+ 7 files changed, 11 insertions(+), 7 deletions(-)
+[master 7ba98fb] 117 of 140
+ 7 files changed, 10 insertions(+), 5 deletions(-)
+[master df14d46] 117 of 140
+ 6 files changed, 14 insertions(+), 10 deletions(-)
+[master fe406c1] 121 of 140
+ 8 files changed, 11 insertions(+), 7 deletions(-)
+[master 104e319] 109 of 140
+ 8 files changed, 13 insertions(+), 9 deletions(-)
+[master 01e51aa] 121 of 140
+ 8 files changed, 13 insertions(+), 9 deletions(-)
+[master bc291b1] 121 of 140
+ 7 files changed, 10 insertions(+), 5 deletions(-)
+ rewrite test_mysort (66%)
+[master 6711134] 121 of 140
+ 8 files changed, 39 insertions(+), 5 deletions(-)
+[master 3a7e3fb] 121 of 140
+ 7 files changed, 11 insertions(+), 5 deletions(-)
+[master d1183bf] 121 of 140
+ 7 files changed, 13 insertions(+), 11 deletions(-)
+[master 3abffc7] 121 of 140
+ 8 files changed, 11 insertions(+), 6 deletions(-)
+[master c72dc77] 121 of 140
+ 8 files changed, 11 insertions(+), 7 deletions(-)
+[master 0c51e21] 111 of 140
+ 9 files changed, 11 insertions(+), 8 deletions(-)
+[master bcda483] 121 of 140
+ 9 files changed, 12 insertions(+), 7 deletions(-)
+[master 634c9e8] 111 of 140
+ 9 files changed, 12 insertions(+), 126 deletions(-)
+ rewrite countwords.out (100%)
+[master d898cf2] 121 of 140
+ 9 files changed, 131 insertions(+), 8 deletions(-)
+[master c2a62eb] 121 of 140
+ 7 files changed, 10 insertions(+), 6 deletions(-)
+[master 8291297] 121 of 140
+ 8 files changed, 57 insertions(+), 17 deletions(-)
+[master 8f6d0c0] 121 of 140
+ 8 files changed, 104 insertions(+), 88 deletions(-)
+[master 8dad39d] 121 of 140
+ 8 files changed, 163 insertions(+), 170 deletions(-)
+ rewrite countwords.out (95%)
+[master 627969d] 121 of 140
+ 8 files changed, 46 insertions(+), 53 deletions(-)
+[master 72f4487] 121 of 140
+ 7 files changed, 10 insertions(+), 6 deletions(-)
+[master bff9501] 121 of 140
+ 8 files changed, 57 insertions(+), 41 deletions(-)
+[master c73d298] 121 of 140
+ 8 files changed, 19 insertions(+), 10 deletions(-)
+ rewrite countwords (62%)
+[master 9806472] 121 of 140
+ 7 files changed, 13 insertions(+), 5 deletions(-)
+[master 7f0ee8e] 121 of 140
+ 7 files changed, 10 insertions(+), 6 deletions(-)
+[master db66e71] 111 of 140
+ 9 files changed, 11 insertions(+), 13 deletions(-)
+[master 0b8669e] 126 of 140
+ 9 files changed, 12 insertions(+), 7 deletions(-)
+[master aef2a06] 111 of 140
+ 9 files changed, 16 insertions(+), 7 deletions(-)
+[master d90be2a] 136 of 140
+ 9 files changed, 14 insertions(+), 12 deletions(-)
+[master 6ff3b1f] 136 of 140
+ 5 files changed, 9 insertions(+), 5 deletions(-)
+[master 83d7a9f] 132 of 140
+ 8 files changed, 12 insertions(+), 8 deletions(-)
+[master 360b590] 132 of 140
+ 7 files changed, 10 insertions(+), 6 deletions(-)
+[master 90c71dc] 136 of 140
+ 8 files changed, 11 insertions(+), 7 deletions(-)

@@ -1,0 +1,3347 @@
+[master (root-commit) aaf5a83] Commit Shell
+ 8 files changed, 697 insertions(+)
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 command.h
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+ create mode 100644 y.tab.h
+[master a8b229c] Commit Shell
+ 1 file changed, 29 insertions(+), 10 deletions(-)
+[master 2959cff] Commit Shell
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master 32202c9] Commit Shell
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master c0e0ce3] Commit Shell
+ 1 file changed, 13 insertions(+), 7 deletions(-)
+[master (root-commit) a5bff4a] Commit Shell
+ 7 files changed, 629 insertions(+)
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 command.h
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+[master 5c5e678] Commit Shell
+ 1 file changed, 96 insertions(+)
+ create mode 100644 y.tab.h
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e587324] Commit Shell
+ 1 file changed, 96 deletions(-)
+ delete mode 100644 y.tab.h
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	test-shell/
+
+nothing added to commit but untracked files present
+[master bb9445c] Commit Shell
+ 1 file changed, 96 insertions(+)
+ create mode 100644 y.tab.h
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master (root-commit) 002830c] Commit Shell
+ 6 files changed, 590 insertions(+)
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master b83233a] Commit Shell
+ 1 file changed, 42 insertions(+)
+ create mode 100755 Makefile
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 3e51aae] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.Makefile.swp
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+[master bea55b8] ""
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3cb9c7d] ""
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0bd3766] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master (root-commit) 4eddc26] Total:                   3   of 100
+ 7 files changed, 632 insertions(+)
+ create mode 100755 Makefile
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+[master fa8258d] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a534288] Total:                   3   of 100
+ 1 file changed, 4 insertions(+)
+[master 6793d84] Total:                   3   of 100
+ 2 files changed, 10 insertions(+)
+[master ca15680] Total:                   3   of 100
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master aba1d25] Total:                   3   of 100
+ 1 file changed, 13 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master c936c1e] Total:                   3   of 100
+ 1 file changed, 5 insertions(+)
+[master 1f1c913] Total:                   3   of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 1708736] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master beb2f98] Total:                   3   of 100
+ 1 file changed, 5 insertions(+)
+[master b71065d] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 49e214f] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ce01656] Total:                   3   of 100
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+[master bfd5eb9] Total:                   3   of 100
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+[master 39fe70a] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e1c0434] Total:                   3   of 100
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+[master 6011939] Total:                   3   of 100
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master d8a0983] Total:                   3   of 100
+ 1 file changed, 1 insertion(+)
+[master 376aa5d] Total:                   3   of 100
+ 1 file changed, 1 insertion(+)
+[master baf8f2a] Total:                   3   of 100
+ 1 file changed, 10 insertions(+)
+[master b938a95] Total:                   3   of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master c10743b] Total:                   3   of 100
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+[master 78f7bfe] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master fea7aee] Total:                   3   of 100
+ 1 file changed, 17 insertions(+), 4 deletions(-)
+[master 93207da] Total:                   3   of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 29efffd] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 28f8b16] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+[master 02473c5] Total:                   3   of 100
+ 1 file changed, 4 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 2a963ef] Total:                   3   of 100
+ 1 file changed, 3 insertions(+)
+[master b71a8ed] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 419cc9d] Total:                   3   of 100
+ 1 file changed, 4 deletions(-)
+[master 7e20ddf] Total:                   3   of 100
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 217bfc9] Total:                   3   of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master bf37f05] Total:                   3   of 100
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 3e24367] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master 7f891d2] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+[master fd75121] Total:                   3   of 100
+ 1 file changed, 14 insertions(+)
+[master 486abd8] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	lex.yy.c
+	lex.yy.o
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master cd8b471] Total:                   3   of 100
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master daeccd3] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9524910] Total:                   3   of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 5f0f985] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	lex.yy.c
+	lex.yy.o
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e48f920] Total:                   3   of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 1b9e2dc] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 165b30d] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 936227c] Total:                   5   of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master b6de32b] Total:                   3   of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 2fce637] Total:                   5   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e1c2799] Total:                   5   of 100
+ 1 file changed, 69 insertions(+), 2 deletions(-)
+[master f9e08c7] Total:                   5   of 100
+ 1 file changed, 1 deletion(-)
+[master 71dfacf] Total:                   5   of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 19e94be] Total:                   5   of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master dcd3db4] Total:                   5   of 100
+ 1 file changed, 14 deletions(-)
+[master ef7094b] Total:                   5   of 100
+ 1 file changed, 66 insertions(+), 66 deletions(-)
+[master 4f6505f] Total:                   5   of 100
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[master 2b990b4] Total:                   5   of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master f4f0280] Total:                   5   of 100
+ 1 file changed, 1 insertion(+), 65 deletions(-)
+[master 5041179] Total:                   5   of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 52ce96d] Total:                   5   of 100
+ 1 file changed, 9 insertions(+), 2 deletions(-)
+[master 7f9663f] Total:                   5   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fe88fa6] Total:                   5   of 100
+ 1 file changed, 1 insertion(+)
+[master 9f7ef27] Total:                   5   of 100
+ 1 file changed, 10 insertions(+)
+[master 06df3d5] Total:                   5   of 100
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master 2e7ae6a] Total:                   5   of 100
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+[master 60f2b2e] Total:                   5   of 100
+ 1 file changed, 12 insertions(+), 7 deletions(-)
+[master 67c2341] Total:                   5   of 100
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master 523d831] Total:                   5   of 100
+ 1 file changed, 19 insertions(+)
+[master 15fcd9b] Total:                   5   of 100
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+[master cc964b1] Total:                   5   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 41448db] Total:                   5   of 100
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 4d46524] Total:                   25  of 100
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+[master ba43081] Total:                   17  of 100
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master b00ee9c] Total:                   30  of 100
+ 1 file changed, 11 insertions(+)
+[master e0f126e] Total:                   30  of 100
+ 1 file changed, 3 insertions(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master ac3eb98] Total:                   25  of 100
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+[master 0b9e5b4] Total:                   30  of 100
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+[master 90382cb] Total:                   39  of 100
+ 1 file changed, 4 insertions(+)
+[master a84bec5] Total:                   39  of 100
+ 1 file changed, 1 insertion(+)
+[master 4887b77] Total:                   39  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 442867a] Total:                   39  of 100
+ 1 file changed, 10 insertions(+)
+[master 30c4700] Total:                   39  of 100
+ 1 file changed, 1 insertion(+)
+[master 3323366] Total:                   39  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0fc5a7e] Total:                   39  of 100
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.command.cc.swp
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.command.cc.swp
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+[master f9da9ab] Total:                   43  of 100
+ 1 file changed, 4 insertions(+)
+[master 837b8b4] Total:                   46  of 100
+ 1 file changed, 6 insertions(+)
+[master 37e244a] Total:                   46  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 677e7dd] Total:                   48  of 100
+ 1 file changed, 9 insertions(+)
+[master 25fb559] Total:                   48  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e0e9e5c] Total:                   50  of 100
+ 1 file changed, 16 insertions(+)
+[master 45ee670] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 098226e] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 53f5c51] Total:                   6   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+[master 131bd21] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+[master 95ced9d] Total:                   50  of 100
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+[master bf1ce71] Total:                   50  of 100
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 49e956e] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b3e3e5a] Total:                   50  of 100
+ 1 file changed, 4 insertions(+)
+[master 8b02331] Total:                   50  of 100
+ 1 file changed, 40 insertions(+), 2 deletions(-)
+[master 8318480] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4deee84] Total:                   50  of 100
+ 1 file changed, 26 insertions(+)
+[master 07871b2] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a173d49] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 2aa4ada] Total:                   50  of 100
+ 2 files changed, 12 insertions(+), 3 deletions(-)
+[master 1f6ca9a] Total:                   50  of 100
+ 1 file changed, 2 deletions(-)
+[master 4a7c9ed] Total:                   50  of 100
+ 1 file changed, 1 deletion(-)
+[master 55092b9] Total:                   50  of 100
+ 1 file changed, 20 insertions(+)
+[master c5a8a68] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+[master 9481193] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e7361aa] Total:                   50  of 100
+ 1 file changed, 8 insertions(+)
+[master 9d712be] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 93538f3] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2eb989b] Total:                   50  of 100
+ 1 file changed, 51 insertions(+), 11 deletions(-)
+[master 467912a] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8724be7] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+[master 4c729ae] Total:                   50  of 100
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 6fc96b6] Total:                   50  of 100
+ 1 file changed, 20 insertions(+), 1 deletion(-)
+[master a42422e] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 69c8c9f] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+[master f8f7440] Total:                   50  of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	.nfs000000000158194a00000c4b
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master a658e17] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	.nfs000000000158194a00000c4b
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 640469a] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	.nfs000000000158194a00000c4b
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 8bc498f] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master b7394c5] Total:                   50  of 100
+ 1 file changed, 16 insertions(+), 4 deletions(-)
+[master 6122b17] Total:                   50  of 100
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 5f781ea] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e4b20b8] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 6ba34fa] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1895c9f] Total:                   40  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0bfadc5] Total:                   50  of 100
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+[master 509cb09] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master cc3c4e6] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f165962] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 26ade65] Total:                   50  of 100
+ 1 file changed, 14 insertions(+)
+[master 86d88d9] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 4ba9244] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 9edc8da] Total:                   50  of 100
+ 1 file changed, 10 insertions(+), 3 deletions(-)
+[master 35a46c4] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f748668] Total:                   50  of 100
+ 1 file changed, 23 insertions(+), 12 deletions(-)
+[master a22ecd3] Total:                   50  of 100
+ 1 file changed, 15 insertions(+), 2 deletions(-)
+[master 531e87c] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a4206fc] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master a1fac7a] Total:                   50  of 100
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master f395540] Total:                   50  of 100
+ 1 file changed, 24 insertions(+), 2 deletions(-)
+[master 2d8e459] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 44c07af] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a255c2d] Total:                   50  of 100
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+[master 3ce39a6] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 63c7f56] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master a1d891c] Total:                   50  of 100
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+[master 4d07f17] Total:                   50  of 100
+ 1 file changed, 15 insertions(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 8183300] Total:                   50  of 100
+ 1 file changed, 35 insertions(+), 1 deletion(-)
+[master e526b61] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 6b2a019] Total:                   50  of 100
+ 1 file changed, 5 insertions(+)
+[master 69a151d] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fce8722] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d7a2ae1] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master b836491] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 831d793] Total:                   50  of 100
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master 0381dda] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4ebbbf0] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master f4fbfb1] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9b04a63] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 24aa885] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 84c975a] Total:                   50  of 100
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 9313292] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 70a7025] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9b55019] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d9cd5ce] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4450f65] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 385461b] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 58be347] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 386b86c] Total:                   50  of 100
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master 28d4f4a] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 13640b2] Total:                   50  of 100
+ 1 file changed, 6 insertions(+), 11 deletions(-)
+[master c357cd5] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 62e8c0a] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f79508b] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+[master 98f4058] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f7488e4] Total:                   50  of 100
+ 1 file changed, 3 insertions(+)
+[master e88e44c] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 37bc052] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1b6d604] Total:                   50  of 100
+ 1 file changed, 3 deletions(-)
+[master 90b00c8] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 168ae26] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d49269a] Total:                   50  of 100
+ 1 file changed, 18 insertions(+), 17 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master ce47d09] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c8ed167] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c63a6be] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b95e160] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8544f27] Total:                   50  of 100
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master aabc66c] Total:                   50  of 100
+ 1 file changed, 6 insertions(+), 5 deletions(-)
+[master b6904cc] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3d96586] Total:                   50  of 100
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master d966407] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+[master b37a424] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c683676] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 65a1bb3] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b59ed21] Total:                   50  of 100
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 46d5ae9] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master eb2907e] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+[master 42d2769] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 153e97f] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0dbb629] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7a4f687] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8e31fee] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b9c9932] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ef28f48] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+[master 8a42255] Total:                   50  of 100
+ 1 file changed, 1 insertion(+)
+[master feee67b] Total:                   50  of 100
+ 1 file changed, 1 deletion(-)
+[master ced0291] Total:                   50  of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 64fe549] Total:                   50  of 100
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 48f374d] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 49e69e2] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 37c47f0] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0cef563] Total:                   50  of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 65da52c] Total:                   50  of 100
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 393e4a1] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 24e6871] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 100e4ef] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 9519af2] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dc9425b] Total:                   50  of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 3457a20] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bd969cf] Total:                   50  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d4a32d8] Total:                   50  of 100
+ 1 file changed, 12 insertions(+)
+[master 14985d1] Total:                   50  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f811e53] Total:                   48  of 100
+ 1 file changed, 12 deletions(-)
+[master d1a23c1] Total:                   50  of 100
+ 1 file changed, 1 deletion(-)
+[master 6fe4c96] Total:                   50  of 100
+ 1 file changed, 11 insertions(+)
+[master 5851722] Total:                   48  of 100
+ 1 file changed, 9 deletions(-)
+[master 3113f35] Total:                   50  of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 2f1a8df] Total:                   55  of 100
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+[master a1e3e21] Total:                   55  of 100
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master ce2f680] Total:                   70  of 100
+ 1 file changed, 59 deletions(-)
+[master fb1ded4] Total:                   70  of 100
+ 2 files changed, 14 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 140606f] Total:                   70  of 100
+ 1 file changed, 2 deletions(-)
+[master a9e7a2e] Total:                   70  of 100
+ 1 file changed, 3 deletions(-)
+[master fe089f3] Total:                   70  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e42e902] Total:                   70  of 100
+ 1 file changed, 1 insertion(+), 16 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master abb6a12] Total:                   70  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 961571f] Total:                   70  of 100
+ 1 file changed, 57 insertions(+), 5 deletions(-)
+[master c40932f] Total:                   70  of 100
+ 1 file changed, 16 insertions(+), 1 deletion(-)
+[master 8c53fe2] Total:                   70  of 100
+ 1 file changed, 20 deletions(-)
+[master ceeb44d] Total:                   70  of 100
+ 1 file changed, 2 insertions(+), 60 deletions(-)
+[master c8f2be2] Total:                   70  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4676edb] Total:                   70  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 76fcc66] Total:                   70  of 100
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master f3512b5] Total:                   70  of 100
+ 1 file changed, 7 insertions(+), 8 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master a7fcf56] Total:                   72  of 100
+ 1 file changed, 10 insertions(+)
+[master 69781ce] Total:                   72  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 94191d9] Total:                   72  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f2b471d] Total:                   72  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 63773fc] Total:                   72  of 100
+ 1 file changed, 9 insertions(+), 7 deletions(-)
+[master c2f43e3] Total:                   72  of 100
+ 1 file changed, 5 insertions(+)
+[master 632c7b6] Total:                   72  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 5fa15e3] Total:                   76  of 100
+ 1 file changed, 5 insertions(+)
+[master b75abc6] Total:                   76  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master dba8640] Total:                   76  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master 1805d98] Total:                   76  of 100
+ 1 file changed, 10 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master 6eaeb4e] Total:                   76  of 100
+ 1 file changed, 3 insertions(+), 10 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master ba44ec3] Total:                   76  of 100
+ 1 file changed, 2 insertions(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 0197287] Total:                   76  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 708f0d7] Total:                   76  of 100
+ 1 file changed, 27 deletions(-)
+[master 8563605] Total:                   76  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lab3-src-kbd/
+	lex.yy.c
+	lex.yy.o
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master 1e5a3da] Total:                   76  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master cb60304] Total:                   76  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4ab82d9] Total:                   76  of 100
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 1f3603c] Total:                   76  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master c1c11fa] Total:                   76  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master c5473ba] Total:                   76  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master e3ea8f1] Total:                   76  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 348d6b7] Total:                   76  of 100
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master f8504b7] Total:                   78  of 100
+ 1 file changed, 2 insertions(+)
+[master 5323e3f] Total:                   78  of 100
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 57231a1] Total:                   78  of 100
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+[master 2facfc8] Total:                   78  of 100
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master b674381] Total:                   78  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master 7e656fa] Total:                   82  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b376a15] Total:                   82  of 100
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+[master a65b089] Total:                   82  of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 7a49078] Total:                   82  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 2df9891] Total:                   82  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9e4df6b] Total:                   82  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c50f13c] Total:                   82  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d49b17d] Total:                   82  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 6a8802c] Total:                   77  of 100
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master ec72d84] Total:                   82  of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master d68a856] Total:                   82  of 100
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+[master 8556229] Total:                   82  of 100
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 7de681e] Total:                   82  of 100
+ 1 file changed, 26 insertions(+), 3 deletions(-)
+[master b0286a2] Total:                   82  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master c231209] Total:                   82  of 100
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+[master 63aea5d] Total:                   82  of 100
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 7002035] Total:                   82  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 6951923] Total:                   82  of 100
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master de3b26c] Total:                   78  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master b6a16f7] Total:                   73  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master 3b8cbd6] Total:                   78  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master c3c6bc8] Total:                   78  of 100
+ 1 file changed, 46 deletions(-)
+[master af99c4e] Total:                   78  of 100
+ 1 file changed, 2 insertions(+)
+[master 0b1bc40] Total:                   78  of 100
+ 1 file changed, 46 insertions(+), 2 deletions(-)
+[master 80a603c] Total:                   78  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master e6a20b4] Total:                   82  of 100
+ 1 file changed, 9 insertions(+), 2 deletions(-)
+[master 651e00e] Total:                   82  of 100
+ 1 file changed, 33 insertions(+), 1 deletion(-)
+[master a7e2d55] Total:                   82  of 100
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 7247b32] Total:                   82  of 100
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 0f90a97] Total:                   82  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master d4f95df] Total:                   82  of 100
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 9431e89] Total:                   82  of 100
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master 0f3612a] Total:                   82  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4740d77] Total:                   82  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4a19eeb] Total:                   82  of 100
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 77af3c1] Total:                   82  of 100
+ 1 file changed, 1 deletion(-)
+[master 62ef66c] Total:                   82  of 100
+ 1 file changed, 9 insertions(+)
+[master 635cfb1] Total:                   82  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 74ab9e0] Total:                   82  of 100
+ 1 file changed, 2 insertions(+)
+[master 4e389d4] Total:                   82  of 100
+ 1 file changed, 1 deletion(-)
+[master a4ed836] Total:                   82  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 5517d80] Total:                   82  of 100
+ 1 file changed, 1 insertion(+)
+[master b95dbcd] Total:                   82  of 100
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+[master 8467ee4] Total:                   82  of 100
+ 1 file changed, 2 deletions(-)
+[master 555e2a3] Total:                   84  of 100
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 04ea326] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 220a4f8] Total:                   84  of 100
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master fb7e954] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bcfed43] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 127a944] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e3e6845] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master f1910ae] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9f605a6] Total:                   84  of 100
+ 1 file changed, 9 insertions(+), 3 deletions(-)
+[master 2960545] Total:                   82  of 100
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+[master cac2c17] Total:                   84  of 100
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+[master 48449de] Total:                   84  of 100
+ 1 file changed, 10 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master bc2050c] Total:                   84  of 100
+ 1 file changed, 17 insertions(+), 1 deletion(-)
+[master 4501153] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 15 deletions(-)
+[master cc34d91] Total:                   84  of 100
+ 1 file changed, 15 insertions(+), 1 deletion(-)
+[master 66859e6] Total:                   84  of 100
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 287af3f] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 60f64d2] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 37598ea] Total:                   84  of 100
+ 1 file changed, 15 insertions(+), 14 deletions(-)
+[master 547c89b] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9944fdb] Total:                   84  of 100
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+[master b13fe3a] Total:                   25  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b6467bc] Total:                   25  of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8fc388e] Total:                   25  of 100
+ 1 file changed, 1 insertion(+), 14 deletions(-)
+[master 0610db1] Total:                   84  of 100
+ 1 file changed, 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	README.md
+	command.h
+	lab3-src-kbd/
+	read-line.c
+	test-shell/
+	tty-raw-mode.c
+
+nothing added to commit but untracked files present

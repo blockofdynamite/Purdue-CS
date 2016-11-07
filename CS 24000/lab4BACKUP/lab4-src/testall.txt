@@ -1,0 +1,3061 @@
+rm -f *.o *.out total.txt grades1.rt test_mystring test_array test_linked_list ptr-simple simple_list
+gcc -std=gnu99 -g -o test_mystring test_mystring.c mystring.c
+gcc -std=gnu99 -g -o test_array test_array.c array.c
+gcc -std=gnu99 -g -o test_linked_list test_linked_list.c LinkedList.c
+gcc -std=gnu99 -g -o ptr-simple ptr-simple.c
+gcc -std=gnu99 -g -o simple_list simple_list.c
+======= test_mystring test1  ===========
+Running test1
+mystrlen("Hello world")=11
+mystrlen("CS240 Programming in C")=22
+mystrlen("")=0
+Test passed...
+
+======= test_mystring test2  ===========
+Running test2
+"Hello world"
+"Hello world"
+""
+""
+Test passed...
+
+======= test_mystring test3  ===========
+Running test3
+"Hello world, CS240 C Programming, This is a great course"
+"Hello world, CS240 C Programming, This is a great course"
+"Hello"
+"Hello"
+Test passed...
+
+======= test_mystring test4  ===========
+Running test4
+mystrcmp("banana", "apple")=1
+mystrcmp("apple", "banana")=-1
+mystrcmp("appleapple", "applebanana")=-1
+mystrcmp("applebanana", "appleapple")=1
+mystrcmp("apple", "apple")=0
+mystrcmp("appleapple", "apple")=1
+mystrcmp("apple", "applebanana")=-1
+mystrcmp("applebanana", "apple")=1
+Test passed...
+
+======= test_mystring test5  ===========
+Running test5
+mystrstr("Hello world. CS240","ld")="ld. CS240"
+mystrstr("Hello world. CS240","llo")="llo world. CS240"
+mystrstr("Hello world. CS240","CS251")="NULL"
+mystrstr("CS240","Hello world. CS240")="NULL"
+Test passed...
+
+======= test_mystring test6  ===========
+Running test6
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+Test passed...
+
+======= test_mystring test7  ===========
+Running test7
+q="Hello world"
+Test passed...
+
+======= test_array test1  ===========
+Running test1
+sumArray=64.000000
+Test passed...
+
+======= test_array test2  ===========
+Running test2
+maxArray=12.000000
+Test passed...
+
+======= test_array test3  ===========
+Running test3
+minArray=-1.000000
+Test passed...
+
+======= test_array test4  ===========
+Running test4
+findArray=6
+Test passed...
+
+======= test_array test5  ===========
+Running test5
+0:4.000000
+1:7.000000
+2:2.000000
+3:6.000000
+4:1.000000
+5:8.000000
+6:9.000000
+7:2.000000
+8:11.000000
+9:-1.000000
+10:3.000000
+11:12.000000
+Test passed...
+
+======= test_array test6  ===========
+Running test6
+0:4.000000
+1:7.000000
+2:2.000000
+3:6.000000
+4:1.000000
+5:8.000000
+6:9.000000
+7:2.000000
+8:11.000000
+9:-1.000000
+10:3.000000
+11:12.000000
+-----------
+0:-1.000000
+1:1.000000
+2:2.000000
+3:2.000000
+4:3.000000
+5:4.000000
+6:6.000000
+7:7.000000
+8:8.000000
+9:9.000000
+10:11.000000
+11:12.000000
+Test passed...
+
+======= test_linked_list test1  ===========
+Running test1
+{EMPTY}
+{6, 5, 2}
+Test passed...
+
+======= test_linked_list test2  ===========
+Running test2
+{EMPTY}
+{6, 5, 2}
+{8, 4, 1, 6, 5, 2}
+4 exists=1
+11 exists=0
+Test passed...
+
+======= test_linked_list test3  ===========
+Running test3
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Test passed...
+
+======= test_linked_list test4  ===========
+*****Test Failed*****
+------ Your Output ----------
+------ Expected Output ------
+Running test4
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+remove 5
+result1=1
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+remove 18
+result2=1
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+remove 64
+result3=0
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+------ Difference -----------
+0a1,42
+> Running test4
+> {EMPTY}
+> Adding 0
+> Adding 1
+> Adding 2
+> Adding 3
+> Adding 4
+> Adding 5
+> Adding 6
+> Adding 7
+> Adding 8
+> Adding 9
+> Adding 10
+> Adding 11
+> Adding 12
+> Adding 13
+> Adding 14
+> Adding 15
+> Adding 16
+> Adding 17
+> Adding 18
+> Adding 19
+> Adding 20
+> Adding 21
+> Adding 22
+> Adding 23
+> Adding 24
+> Adding 25
+> Adding 26
+> Adding 27
+> Adding 28
+> Adding 29
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+> remove 5
+> result1=1
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+> remove 18
+> result2=1
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+> remove 64
+> result3=0
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+-----------------------------
+
+======= test_linked_list test5  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test5
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Get 11th entry
+For 11th value value=32767
+result1=0
+Lookup 23th entry
+For 23th value=32767
+result2=0
+Lookup 64th entry
+result3=0
+------ Expected Output ------
+Running test5
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Get 11th entry
+For 11th value value=21
+result1=1
+Lookup 23th entry
+For 23th value=9
+result2=1
+Lookup 64th entry
+result3=0
+------ Difference -----------
+35,36c35,36
+< For 11th value value=32767
+< result1=0
+---
+> For 11th value value=21
+> result1=1
+38,39c38,39
+< For 23th value=32767
+< result2=0
+---
+> For 23th value=9
+> result2=1
+-----------------------------
+
+======= test_linked_list test6  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test6
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove value in position 5
+result1=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 23
+result2=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 67
+result3=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+------ Expected Output ------
+Running test6
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove value in position 5
+result1=1
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 23
+result2=1
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+remove name in position 67
+result3=0
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+------ Difference -----------
+36c36
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+39c39
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+41,42c41,42
+< result3=1
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> result3=0
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+-----------------------------
+
+======= test_linked_list test7  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test7
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+# elements in table: 0
+------ Expected Output ------
+Running test7
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+# elements in table: 30
+------ Difference -----------
+34c34
+< # elements in table: 0
+---
+> # elements in table: 30
+-----------------------------
+
+======= test_linked_list test8  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test8
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Saving table /notallowed
+result1=0
+Saving table mytable1.ll
+result2=0
+----- cat mytable.ll -----
+------ Expected Output ------
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+Running test8
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Saving table /notallowed
+result1=0
+Saving table mytable1.ll
+result2=0
+----- cat mytable.ll -----
+------ Difference -----------
+0a1,30
+> 32
+> 31
+> 30
+> 29
+> 28
+> 27
+> 26
+> 25
+> 24
+> 23
+> 22
+> 21
+> 20
+> 19
+> 18
+> 17
+> 16
+> 15
+> 14
+> 13
+> 12
+> 11
+> 10
+> 9
+> 8
+> 7
+> 6
+> 5
+> 4
+> 3
+-----------------------------
+
+======= test_linked_list test9  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test9
+{EMPTY}
+Read non existing table
+result1=1
+Read table1.ll
+result2=1
+{EMPTY}
+------ Expected Output ------
+Running test9
+{EMPTY}
+Read non existing table
+result1=0
+Read table1.ll
+result2=1
+{4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+------ Difference -----------
+4c4
+< result1=1
+---
+> result1=0
+7c7
+< {EMPTY}
+---
+> {4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+-----------------------------
+
+======= test_linked_list test10  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test10
+{EMPTY}
+Read table1.ll
+result2=1
+{EMPTY}
+
+Sort ascending
+{EMPTY}
+
+Sort descending
+{EMPTY}
+------ Expected Output ------
+Running test10
+{EMPTY}
+Read table1.ll
+result2=1
+{4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+
+Sort ascending
+{-6, -1, 2, 2, 3, 4, 4, 5, 5, 6, 7, 9, 32}
+
+Sort descending
+{32, 9, 7, 6, 5, 5, 4, 4, 3, 2, 2, -1, -6}
+------ Difference -----------
+5c5
+< {EMPTY}
+---
+> {4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+8c8
+< {EMPTY}
+---
+> {-6, -1, 2, 2, 3, 4, 4, 5, 5, 6, 7, 9, 32}
+11c11
+< {EMPTY}
+---
+> {32, 9, 7, 6, 5, 5, 4, 4, 3, 2, 2, -1, -6}
+-----------------------------
+
+======= test_linked_list test11  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test11
+{EMPTY}
+llist_remove_first result=0 
+llist_remove_last result=1
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+llist_remove_first result=0 value=32767
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+llist_remove_last result=1 value=32767
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+------ Expected Output ------
+Running test11
+{EMPTY}
+llist_remove_first result=0 
+llist_remove_last result=0
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+llist_remove_first result=1 value=32
+llist_remove_first result=1 value=31
+llist_remove_first result=1 value=30
+llist_remove_first result=1 value=29
+llist_remove_first result=1 value=28
+llist_remove_first result=1 value=27
+llist_remove_first result=1 value=26
+llist_remove_first result=1 value=25
+llist_remove_first result=1 value=24
+llist_remove_first result=1 value=23
+{22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+llist_remove_last result=1 value=3
+llist_remove_last result=1 value=4
+llist_remove_last result=1 value=5
+llist_remove_last result=1 value=6
+llist_remove_last result=1 value=7
+llist_remove_last result=1 value=8
+llist_remove_last result=1 value=9
+llist_remove_last result=1 value=10
+llist_remove_last result=1 value=11
+llist_remove_last result=1 value=12
+{22, 21, 20, 19, 18, 17, 16, 15, 14, 13}
+{EMPTY}
+------ Difference -----------
+4c4
+< llist_remove_last result=1
+---
+> llist_remove_last result=0
+36,58c36,58
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< llist_remove_first result=0 value=32767
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< llist_remove_last result=1 value=32767
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> llist_remove_first result=1 value=32
+> llist_remove_first result=1 value=31
+> llist_remove_first result=1 value=30
+> llist_remove_first result=1 value=29
+> llist_remove_first result=1 value=28
+> llist_remove_first result=1 value=27
+> llist_remove_first result=1 value=26
+> llist_remove_first result=1 value=25
+> llist_remove_first result=1 value=24
+> llist_remove_first result=1 value=23
+> {22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+> llist_remove_last result=1 value=3
+> llist_remove_last result=1 value=4
+> llist_remove_last result=1 value=5
+> llist_remove_last result=1 value=6
+> llist_remove_last result=1 value=7
+> llist_remove_last result=1 value=8
+> llist_remove_last result=1 value=9
+> llist_remove_last result=1 value=10
+> llist_remove_last result=1 value=11
+> llist_remove_last result=1 value=12
+> {22, 21, 20, 19, 18, 17, 16, 15, 14, 13}
+> {EMPTY}
+-----------------------------
+
+======= test_linked_list test12  ===========
+Running test12
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Adding first 40
+Adding first 41
+Adding first 42
+Adding first 43
+Adding first 44
+Adding first 45
+Adding first 46
+Adding first 47
+Adding first 48
+Adding first 49
+{49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Adding 50
+Adding 51
+Adding 52
+Adding 53
+Adding 54
+Adding 55
+Adding 56
+Adding 57
+Adding 58
+Adding 59
+{49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59}
+Test passed...
+
+0
+OK. No string functions
+0
+OK. No array operations
+
+
+
+-------------------------------------------------
+CS240: lab4. hughe127   
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 3   of 3  
+test_mystring test3                 : 3   of 3  
+test_mystring test4                 : 3   of 3  
+test_mystring test5                 : 3   of 3  
+test_mystring test6                 : 3   of 3  
+test_mystring test7                 : 3   of 3  
+test_array test1                    : 3   of 3  
+test_array test2                    : 3   of 3  
+test_array test3                    : 3   of 3  
+test_array test4                    : 3   of 3  
+test_array test5                    : 3   of 3  
+test_array test6                    : 3   of 3  
+test_linked_list test1              : 3   of 3  
+test_linked_list test2              : 3   of 3  
+test_linked_list test3              : 3   of 3  
+test_linked_list test4              : 0   of 3  
+test_linked_list test5              : 0   of 3  
+test_linked_list test6              : 0   of 3  
+test_linked_list test7              : 0   of 3  
+test_linked_list test8              : 0   of 3  
+test_linked_list test9              : 0   of 3  
+test_linked_list test10             : 0   of 3  
+test_linked_list test11             : 0   of 3  
+test_linked_list test12             : 3   of 3  
+-------------------------------------------------
+CS240: lab4. hughe127 Sat Feb 21 18:55:53 EST 2015  Total:  51 of 75
+
+rm -f *.o *.out total.txt grades1.rt test_mystring test_array test_linked_list ptr-simple simple_list
+gcc -std=gnu99 -g -o test_mystring test_mystring.c mystring.c
+gcc -std=gnu99 -g -o test_array test_array.c array.c
+gcc -std=gnu99 -g -o test_linked_list test_linked_list.c LinkedList.c
+gcc -std=gnu99 -g -o ptr-simple ptr-simple.c
+gcc -std=gnu99 -g -o simple_list simple_list.c
+======= test_mystring test1  ===========
+Running test1
+mystrlen("Hello world")=11
+mystrlen("CS240 Programming in C")=22
+mystrlen("")=0
+Test passed...
+
+======= test_mystring test2  ===========
+Running test2
+"Hello world"
+"Hello world"
+""
+""
+Test passed...
+
+======= test_mystring test3  ===========
+Running test3
+"Hello world, CS240 C Programming, This is a great course"
+"Hello world, CS240 C Programming, This is a great course"
+"Hello"
+"Hello"
+Test passed...
+
+======= test_mystring test4  ===========
+Running test4
+mystrcmp("banana", "apple")=1
+mystrcmp("apple", "banana")=-1
+mystrcmp("appleapple", "applebanana")=-1
+mystrcmp("applebanana", "appleapple")=1
+mystrcmp("apple", "apple")=0
+mystrcmp("appleapple", "apple")=1
+mystrcmp("apple", "applebanana")=-1
+mystrcmp("applebanana", "apple")=1
+Test passed...
+
+======= test_mystring test5  ===========
+Running test5
+mystrstr("Hello world. CS240","ld")="ld. CS240"
+mystrstr("Hello world. CS240","llo")="llo world. CS240"
+mystrstr("Hello world. CS240","CS251")="NULL"
+mystrstr("CS240","Hello world. CS240")="NULL"
+Test passed...
+
+======= test_mystring test6  ===========
+Running test6
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+Test passed...
+
+======= test_mystring test7  ===========
+Running test7
+q="Hello world"
+Test passed...
+
+======= test_array test1  ===========
+Running test1
+sumArray=64.000000
+Test passed...
+
+======= test_array test2  ===========
+Running test2
+maxArray=12.000000
+Test passed...
+
+======= test_array test3  ===========
+Running test3
+minArray=-1.000000
+Test passed...
+
+======= test_array test4  ===========
+Running test4
+findArray=6
+Test passed...
+
+======= test_array test5  ===========
+Running test5
+0:4.000000
+1:7.000000
+2:2.000000
+3:6.000000
+4:1.000000
+5:8.000000
+6:9.000000
+7:2.000000
+8:11.000000
+9:-1.000000
+10:3.000000
+11:12.000000
+Test passed...
+
+======= test_array test6  ===========
+Running test6
+0:4.000000
+1:7.000000
+2:2.000000
+3:6.000000
+4:1.000000
+5:8.000000
+6:9.000000
+7:2.000000
+8:11.000000
+9:-1.000000
+10:3.000000
+11:12.000000
+-----------
+0:-1.000000
+1:1.000000
+2:2.000000
+3:2.000000
+4:3.000000
+5:4.000000
+6:6.000000
+7:7.000000
+8:8.000000
+9:9.000000
+10:11.000000
+11:12.000000
+Test passed...
+
+======= test_linked_list test1  ===========
+Running test1
+{EMPTY}
+{6, 5, 2}
+Test passed...
+
+======= test_linked_list test2  ===========
+Running test2
+{EMPTY}
+{6, 5, 2}
+{8, 4, 1, 6, 5, 2}
+4 exists=1
+11 exists=0
+Test passed...
+
+======= test_linked_list test3  ===========
+Running test3
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Test passed...
+
+======= test_linked_list test4  ===========
+*****Test Failed*****
+------ Your Output ----------
+------ Expected Output ------
+Running test4
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+remove 5
+result1=1
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+remove 18
+result2=1
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+remove 64
+result3=0
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+------ Difference -----------
+0a1,42
+> Running test4
+> {EMPTY}
+> Adding 0
+> Adding 1
+> Adding 2
+> Adding 3
+> Adding 4
+> Adding 5
+> Adding 6
+> Adding 7
+> Adding 8
+> Adding 9
+> Adding 10
+> Adding 11
+> Adding 12
+> Adding 13
+> Adding 14
+> Adding 15
+> Adding 16
+> Adding 17
+> Adding 18
+> Adding 19
+> Adding 20
+> Adding 21
+> Adding 22
+> Adding 23
+> Adding 24
+> Adding 25
+> Adding 26
+> Adding 27
+> Adding 28
+> Adding 29
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+> remove 5
+> result1=1
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+> remove 18
+> result2=1
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+> remove 64
+> result3=0
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+-----------------------------
+
+======= test_linked_list test5  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test5
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Get 11th entry
+For 11th value value=32767
+result1=1
+Lookup 23th entry
+For 23th value=32767
+result2=1
+Lookup 64th entry
+result3=0
+------ Expected Output ------
+Running test5
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Get 11th entry
+For 11th value value=21
+result1=1
+Lookup 23th entry
+For 23th value=9
+result2=1
+Lookup 64th entry
+result3=0
+------ Difference -----------
+35c35
+< For 11th value value=32767
+---
+> For 11th value value=21
+38c38
+< For 23th value=32767
+---
+> For 23th value=9
+-----------------------------
+
+======= test_linked_list test6  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test6
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove value in position 5
+result1=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 23
+result2=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 67
+result3=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+------ Expected Output ------
+Running test6
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove value in position 5
+result1=1
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 23
+result2=1
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+remove name in position 67
+result3=0
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+------ Difference -----------
+36c36
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+39c39
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+41,42c41,42
+< result3=1
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> result3=0
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+-----------------------------
+
+======= test_linked_list test7  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test7
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+# elements in table: 0
+------ Expected Output ------
+Running test7
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+# elements in table: 30
+------ Difference -----------
+34c34
+< # elements in table: 0
+---
+> # elements in table: 30
+-----------------------------
+
+======= test_linked_list test8  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test8
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Saving table /notallowed
+result1=0
+Saving table mytable1.ll
+result2=0
+----- cat mytable.ll -----
+------ Expected Output ------
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+Running test8
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Saving table /notallowed
+result1=0
+Saving table mytable1.ll
+result2=0
+----- cat mytable.ll -----
+------ Difference -----------
+0a1,30
+> 32
+> 31
+> 30
+> 29
+> 28
+> 27
+> 26
+> 25
+> 24
+> 23
+> 22
+> 21
+> 20
+> 19
+> 18
+> 17
+> 16
+> 15
+> 14
+> 13
+> 12
+> 11
+> 10
+> 9
+> 8
+> 7
+> 6
+> 5
+> 4
+> 3
+-----------------------------
+
+======= test_linked_list test9  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test9
+{EMPTY}
+Read non existing table
+result1=1
+Read table1.ll
+result2=1
+{EMPTY}
+------ Expected Output ------
+Running test9
+{EMPTY}
+Read non existing table
+result1=0
+Read table1.ll
+result2=1
+{4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+------ Difference -----------
+4c4
+< result1=1
+---
+> result1=0
+7c7
+< {EMPTY}
+---
+> {4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+-----------------------------
+
+======= test_linked_list test10  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test10
+{EMPTY}
+Read table1.ll
+result2=1
+{EMPTY}
+
+Sort ascending
+{EMPTY}
+
+Sort descending
+{EMPTY}
+------ Expected Output ------
+Running test10
+{EMPTY}
+Read table1.ll
+result2=1
+{4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+
+Sort ascending
+{-6, -1, 2, 2, 3, 4, 4, 5, 5, 6, 7, 9, 32}
+
+Sort descending
+{32, 9, 7, 6, 5, 5, 4, 4, 3, 2, 2, -1, -6}
+------ Difference -----------
+5c5
+< {EMPTY}
+---
+> {4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+8c8
+< {EMPTY}
+---
+> {-6, -1, 2, 2, 3, 4, 4, 5, 5, 6, 7, 9, 32}
+11c11
+< {EMPTY}
+---
+> {32, 9, 7, 6, 5, 5, 4, 4, 3, 2, 2, -1, -6}
+-----------------------------
+
+======= test_linked_list test11  ===========
+*****Test Failed*****
+------ Your Output ----------
+------ Expected Output ------
+Running test11
+{EMPTY}
+llist_remove_first result=0 
+llist_remove_last result=0
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+llist_remove_first result=1 value=32
+llist_remove_first result=1 value=31
+llist_remove_first result=1 value=30
+llist_remove_first result=1 value=29
+llist_remove_first result=1 value=28
+llist_remove_first result=1 value=27
+llist_remove_first result=1 value=26
+llist_remove_first result=1 value=25
+llist_remove_first result=1 value=24
+llist_remove_first result=1 value=23
+{22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+llist_remove_last result=1 value=3
+llist_remove_last result=1 value=4
+llist_remove_last result=1 value=5
+llist_remove_last result=1 value=6
+llist_remove_last result=1 value=7
+llist_remove_last result=1 value=8
+llist_remove_last result=1 value=9
+llist_remove_last result=1 value=10
+llist_remove_last result=1 value=11
+llist_remove_last result=1 value=12
+{22, 21, 20, 19, 18, 17, 16, 15, 14, 13}
+{EMPTY}
+------ Difference -----------
+0a1,58
+> Running test11
+> {EMPTY}
+> llist_remove_first result=0 
+> llist_remove_last result=0
+> Adding 3
+> Adding 4
+> Adding 5
+> Adding 6
+> Adding 7
+> Adding 8
+> Adding 9
+> Adding 10
+> Adding 11
+> Adding 12
+> Adding 13
+> Adding 14
+> Adding 15
+> Adding 16
+> Adding 17
+> Adding 18
+> Adding 19
+> Adding 20
+> Adding 21
+> Adding 22
+> Adding 23
+> Adding 24
+> Adding 25
+> Adding 26
+> Adding 27
+> Adding 28
+> Adding 29
+> Adding 30
+> Adding 31
+> Adding 32
+> {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+> llist_remove_first result=1 value=32
+> llist_remove_first result=1 value=31
+> llist_remove_first result=1 value=30
+> llist_remove_first result=1 value=29
+> llist_remove_first result=1 value=28
+> llist_remove_first result=1 value=27
+> llist_remove_first result=1 value=26
+> llist_remove_first result=1 value=25
+> llist_remove_first result=1 value=24
+> llist_remove_first result=1 value=23
+> {22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+> llist_remove_last result=1 value=3
+> llist_remove_last result=1 value=4
+> llist_remove_last result=1 value=5
+> llist_remove_last result=1 value=6
+> llist_remove_last result=1 value=7
+> llist_remove_last result=1 value=8
+> llist_remove_last result=1 value=9
+> llist_remove_last result=1 value=10
+> llist_remove_last result=1 value=11
+> llist_remove_last result=1 value=12
+> {22, 21, 20, 19, 18, 17, 16, 15, 14, 13}
+> {EMPTY}
+-----------------------------
+
+======= test_linked_list test12  ===========
+Running test12
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Adding first 40
+Adding first 41
+Adding first 42
+Adding first 43
+Adding first 44
+Adding first 45
+Adding first 46
+Adding first 47
+Adding first 48
+Adding first 49
+{49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Adding 50
+Adding 51
+Adding 52
+Adding 53
+Adding 54
+Adding 55
+Adding 56
+Adding 57
+Adding 58
+Adding 59
+{49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59}
+Test passed...
+
+0
+OK. No string functions
+0
+OK. No array operations
+
+
+
+-------------------------------------------------
+CS240: lab4. hughe127   
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 3   of 3  
+test_mystring test3                 : 3   of 3  
+test_mystring test4                 : 3   of 3  
+test_mystring test5                 : 3   of 3  
+test_mystring test6                 : 3   of 3  
+test_mystring test7                 : 3   of 3  
+test_array test1                    : 3   of 3  
+test_array test2                    : 3   of 3  
+test_array test3                    : 3   of 3  
+test_array test4                    : 3   of 3  
+test_array test5                    : 3   of 3  
+test_array test6                    : 3   of 3  
+test_linked_list test1              : 3   of 3  
+test_linked_list test2              : 3   of 3  
+test_linked_list test3              : 3   of 3  
+test_linked_list test4              : 0   of 3  
+test_linked_list test5              : 0   of 3  
+test_linked_list test6              : 0   of 3  
+test_linked_list test7              : 0   of 3  
+test_linked_list test8              : 0   of 3  
+test_linked_list test9              : 0   of 3  
+test_linked_list test10             : 0   of 3  
+test_linked_list test11             : 0   of 3  
+test_linked_list test12             : 3   of 3  
+-------------------------------------------------
+CS240: lab4. hughe127 Mon Feb 23 22:40:46 EST 2015  Total:  51 of 75
+
+rm -f *.o *.out total.txt grades1.rt test_mystring test_array test_linked_list ptr-simple simple_list
+gcc -std=gnu99 -g -o test_mystring test_mystring.c mystring.c
+gcc -std=gnu99 -g -o test_array test_array.c array.c
+gcc -std=gnu99 -g -o test_linked_list test_linked_list.c LinkedList.c
+gcc -std=gnu99 -g -o ptr-simple ptr-simple.c
+gcc -std=gnu99 -g -o simple_list simple_list.c
+======= test_mystring test1  ===========
+Running test1
+mystrlen("Hello world")=11
+mystrlen("CS240 Programming in C")=22
+mystrlen("")=0
+Test passed...
+
+======= test_mystring test2  ===========
+Running test2
+"Hello world"
+"Hello world"
+""
+""
+Test passed...
+
+======= test_mystring test3  ===========
+Running test3
+"Hello world, CS240 C Programming, This is a great course"
+"Hello world, CS240 C Programming, This is a great course"
+"Hello"
+"Hello"
+Test passed...
+
+======= test_mystring test4  ===========
+Running test4
+mystrcmp("banana", "apple")=1
+mystrcmp("apple", "banana")=-1
+mystrcmp("appleapple", "applebanana")=-1
+mystrcmp("applebanana", "appleapple")=1
+mystrcmp("apple", "apple")=0
+mystrcmp("appleapple", "apple")=1
+mystrcmp("apple", "applebanana")=-1
+mystrcmp("applebanana", "apple")=1
+Test passed...
+
+======= test_mystring test5  ===========
+Running test5
+mystrstr("Hello world. CS240","ld")="ld. CS240"
+mystrstr("Hello world. CS240","llo")="llo world. CS240"
+mystrstr("Hello world. CS240","CS251")="NULL"
+mystrstr("CS240","Hello world. CS240")="NULL"
+Test passed...
+
+======= test_mystring test6  ===========
+Running test6
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+(q==p) = 0
+q="Hello"
+Test passed...
+
+======= test_mystring test7  ===========
+Running test7
+q="Hello world"
+Test passed...
+
+======= test_array test1  ===========
+Running test1
+sumArray=64.000000
+Test passed...
+
+======= test_array test2  ===========
+Running test2
+maxArray=12.000000
+Test passed...
+
+======= test_array test3  ===========
+Running test3
+minArray=-1.000000
+Test passed...
+
+======= test_array test4  ===========
+Running test4
+findArray=6
+Test passed...
+
+======= test_array test5  ===========
+Running test5
+0:4.000000
+1:7.000000
+2:2.000000
+3:6.000000
+4:1.000000
+5:8.000000
+6:9.000000
+7:2.000000
+8:11.000000
+9:-1.000000
+10:3.000000
+11:12.000000
+Test passed...
+
+======= test_array test6  ===========
+Running test6
+0:4.000000
+1:7.000000
+2:2.000000
+3:6.000000
+4:1.000000
+5:8.000000
+6:9.000000
+7:2.000000
+8:11.000000
+9:-1.000000
+10:3.000000
+11:12.000000
+-----------
+0:-1.000000
+1:1.000000
+2:2.000000
+3:2.000000
+4:3.000000
+5:4.000000
+6:6.000000
+7:7.000000
+8:8.000000
+9:9.000000
+10:11.000000
+11:12.000000
+Test passed...
+
+======= test_linked_list test1  ===========
+Running test1
+{EMPTY}
+{6, 5, 2}
+Test passed...
+
+======= test_linked_list test2  ===========
+Running test2
+{EMPTY}
+{6, 5, 2}
+{8, 4, 1, 6, 5, 2}
+4 exists=1
+11 exists=0
+Test passed...
+
+======= test_linked_list test3  ===========
+Running test3
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Test passed...
+
+======= test_linked_list test4  ===========
+*****Test Failed*****
+------ Your Output ----------
+------ Expected Output ------
+Running test4
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+remove 5
+result1=1
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+remove 18
+result2=1
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+remove 64
+result3=0
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+------ Difference -----------
+0a1,42
+> Running test4
+> {EMPTY}
+> Adding 0
+> Adding 1
+> Adding 2
+> Adding 3
+> Adding 4
+> Adding 5
+> Adding 6
+> Adding 7
+> Adding 8
+> Adding 9
+> Adding 10
+> Adding 11
+> Adding 12
+> Adding 13
+> Adding 14
+> Adding 15
+> Adding 16
+> Adding 17
+> Adding 18
+> Adding 19
+> Adding 20
+> Adding 21
+> Adding 22
+> Adding 23
+> Adding 24
+> Adding 25
+> Adding 26
+> Adding 27
+> Adding 28
+> Adding 29
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+> remove 5
+> result1=1
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+> remove 18
+> result2=1
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+> remove 64
+> result3=0
+> {29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 4, 3, 2, 1, 0}
+-----------------------------
+
+======= test_linked_list test5  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test5
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Get 11th entry
+For 11th value value=32767
+result1=1
+Lookup 23th entry
+For 23th value=32767
+result2=1
+Lookup 64th entry
+result3=0
+------ Expected Output ------
+Running test5
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Get 11th entry
+For 11th value value=21
+result1=1
+Lookup 23th entry
+For 23th value=9
+result2=1
+Lookup 64th entry
+result3=0
+------ Difference -----------
+35c35
+< For 11th value value=32767
+---
+> For 11th value value=21
+38c38
+< For 23th value=32767
+---
+> For 23th value=9
+-----------------------------
+
+======= test_linked_list test6  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test6
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove value in position 5
+result1=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 23
+result2=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 67
+result3=1
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+------ Expected Output ------
+Running test6
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove value in position 5
+result1=1
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+remove name in position 23
+result2=1
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+remove name in position 67
+result3=0
+{32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+------ Difference -----------
+36c36
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+39c39
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+41,42c41,42
+< result3=1
+< {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+---
+> result3=0
+> {32, 31, 30, 29, 28, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 7, 6, 5, 4, 3}
+-----------------------------
+
+======= test_linked_list test7  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test7
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+# elements in table: 0
+------ Expected Output ------
+Running test7
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+# elements in table: 30
+------ Difference -----------
+34c34
+< # elements in table: 0
+---
+> # elements in table: 30
+-----------------------------
+
+======= test_linked_list test8  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test8
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Saving table /notallowed
+result1=0
+Saving table mytable1.ll
+result2=0
+----- cat mytable.ll -----
+------ Expected Output ------
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+Running test8
+{EMPTY}
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+Saving table /notallowed
+result1=0
+Saving table mytable1.ll
+result2=0
+----- cat mytable.ll -----
+------ Difference -----------
+0a1,30
+> 32
+> 31
+> 30
+> 29
+> 28
+> 27
+> 26
+> 25
+> 24
+> 23
+> 22
+> 21
+> 20
+> 19
+> 18
+> 17
+> 16
+> 15
+> 14
+> 13
+> 12
+> 11
+> 10
+> 9
+> 8
+> 7
+> 6
+> 5
+> 4
+> 3
+-----------------------------
+
+======= test_linked_list test9  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test9
+{EMPTY}
+Read non existing table
+result1=1
+Read table1.ll
+result2=1
+{EMPTY}
+------ Expected Output ------
+Running test9
+{EMPTY}
+Read non existing table
+result1=0
+Read table1.ll
+result2=1
+{4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+------ Difference -----------
+4c4
+< result1=1
+---
+> result1=0
+7c7
+< {EMPTY}
+---
+> {4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+-----------------------------
+
+======= test_linked_list test10  ===========
+*****Test Failed*****
+------ Your Output ----------
+Running test10
+{EMPTY}
+Read table1.ll
+result2=1
+{EMPTY}
+
+Sort ascending
+{EMPTY}
+
+Sort descending
+{EMPTY}
+------ Expected Output ------
+Running test10
+{EMPTY}
+Read table1.ll
+result2=1
+{4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+
+Sort ascending
+{-6, -1, 2, 2, 3, 4, 4, 5, 5, 6, 7, 9, 32}
+
+Sort descending
+{32, 9, 7, 6, 5, 5, 4, 4, 3, 2, 2, -1, -6}
+------ Difference -----------
+5c5
+< {EMPTY}
+---
+> {4, 3, -6, 5, -1, 2, 5, 32, 9, 7, 2, 6, 4}
+8c8
+< {EMPTY}
+---
+> {-6, -1, 2, 2, 3, 4, 4, 5, 5, 6, 7, 9, 32}
+11c11
+< {EMPTY}
+---
+> {32, 9, 7, 6, 5, 5, 4, 4, 3, 2, 2, -1, -6}
+-----------------------------
+
+======= test_linked_list test11  ===========
+*****Test Failed*****
+------ Your Output ----------
+------ Expected Output ------
+Running test11
+{EMPTY}
+llist_remove_first result=0 
+llist_remove_last result=0
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+Adding 30
+Adding 31
+Adding 32
+{32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+llist_remove_first result=1 value=32
+llist_remove_first result=1 value=31
+llist_remove_first result=1 value=30
+llist_remove_first result=1 value=29
+llist_remove_first result=1 value=28
+llist_remove_first result=1 value=27
+llist_remove_first result=1 value=26
+llist_remove_first result=1 value=25
+llist_remove_first result=1 value=24
+llist_remove_first result=1 value=23
+{22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+llist_remove_last result=1 value=3
+llist_remove_last result=1 value=4
+llist_remove_last result=1 value=5
+llist_remove_last result=1 value=6
+llist_remove_last result=1 value=7
+llist_remove_last result=1 value=8
+llist_remove_last result=1 value=9
+llist_remove_last result=1 value=10
+llist_remove_last result=1 value=11
+llist_remove_last result=1 value=12
+{22, 21, 20, 19, 18, 17, 16, 15, 14, 13}
+{EMPTY}
+------ Difference -----------
+0a1,58
+> Running test11
+> {EMPTY}
+> llist_remove_first result=0 
+> llist_remove_last result=0
+> Adding 3
+> Adding 4
+> Adding 5
+> Adding 6
+> Adding 7
+> Adding 8
+> Adding 9
+> Adding 10
+> Adding 11
+> Adding 12
+> Adding 13
+> Adding 14
+> Adding 15
+> Adding 16
+> Adding 17
+> Adding 18
+> Adding 19
+> Adding 20
+> Adding 21
+> Adding 22
+> Adding 23
+> Adding 24
+> Adding 25
+> Adding 26
+> Adding 27
+> Adding 28
+> Adding 29
+> Adding 30
+> Adding 31
+> Adding 32
+> {32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+> llist_remove_first result=1 value=32
+> llist_remove_first result=1 value=31
+> llist_remove_first result=1 value=30
+> llist_remove_first result=1 value=29
+> llist_remove_first result=1 value=28
+> llist_remove_first result=1 value=27
+> llist_remove_first result=1 value=26
+> llist_remove_first result=1 value=25
+> llist_remove_first result=1 value=24
+> llist_remove_first result=1 value=23
+> {22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3}
+> llist_remove_last result=1 value=3
+> llist_remove_last result=1 value=4
+> llist_remove_last result=1 value=5
+> llist_remove_last result=1 value=6
+> llist_remove_last result=1 value=7
+> llist_remove_last result=1 value=8
+> llist_remove_last result=1 value=9
+> llist_remove_last result=1 value=10
+> llist_remove_last result=1 value=11
+> llist_remove_last result=1 value=12
+> {22, 21, 20, 19, 18, 17, 16, 15, 14, 13}
+> {EMPTY}
+-----------------------------
+
+======= test_linked_list test12  ===========
+Running test12
+{EMPTY}
+Adding 0
+Adding 1
+Adding 2
+Adding 3
+Adding 4
+Adding 5
+Adding 6
+Adding 7
+Adding 8
+Adding 9
+Adding 10
+Adding 11
+Adding 12
+Adding 13
+Adding 14
+Adding 15
+Adding 16
+Adding 17
+Adding 18
+Adding 19
+Adding 20
+Adding 21
+Adding 22
+Adding 23
+Adding 24
+Adding 25
+Adding 26
+Adding 27
+Adding 28
+Adding 29
+{29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Adding first 40
+Adding first 41
+Adding first 42
+Adding first 43
+Adding first 44
+Adding first 45
+Adding first 46
+Adding first 47
+Adding first 48
+Adding first 49
+{49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
+Adding 50
+Adding 51
+Adding 52
+Adding 53
+Adding 54
+Adding 55
+Adding 56
+Adding 57
+Adding 58
+Adding 59
+{49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59}
+Test passed...
+
+0
+OK. No string functions
+0
+OK. No array operations
+
+
+
+-------------------------------------------------
+CS240: lab4. hughe127   
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 3   of 3  
+test_mystring test3                 : 3   of 3  
+test_mystring test4                 : 3   of 3  
+test_mystring test5                 : 3   of 3  
+test_mystring test6                 : 3   of 3  
+test_mystring test7                 : 3   of 3  
+test_array test1                    : 3   of 3  
+test_array test2                    : 3   of 3  
+test_array test3                    : 3   of 3  
+test_array test4                    : 3   of 3  
+test_array test5                    : 3   of 3  
+test_array test6                    : 3   of 3  
+test_linked_list test1              : 3   of 3  
+test_linked_list test2              : 3   of 3  
+test_linked_list test3              : 3   of 3  
+test_linked_list test4              : 0   of 3  
+test_linked_list test5              : 0   of 3  
+test_linked_list test6              : 0   of 3  
+test_linked_list test7              : 0   of 3  
+test_linked_list test8              : 0   of 3  
+test_linked_list test9              : 0   of 3  
+test_linked_list test10             : 0   of 3  
+test_linked_list test11             : 0   of 3  
+test_linked_list test12             : 3   of 3  
+-------------------------------------------------
+CS240: lab4. hughe127 Mon Feb 23 22:41:16 EST 2015  Total:  51 of 75
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeWalk</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="submit">Submit</string>
+    <string name="match">Match</string>
+    <string name="start_over">Start Over</string>
+    <string name="default_host">192.168.1.36</string>
+    <string name="default_port">50383</string>
+    <string name="default_command">:FAKE_COMMAND</string>
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string-array name="locations">
+        <item>Class of 50</item>
+        <item>Lawson Hall</item>
+        <item>Purdue Memorial Union</item>
+        <item>Electrical Engineering</item>
+        <item>Purdue University Student Health Center</item>
+    </string-array>
+    <string-array name="locationsTo">
+        <item>Class of 50</item>
+        <item>Lawson Hall</item>
+        <item>Purdue Memorial Union</item>
+        <item>Electrical Engineering</item>
+        <item>Purdue University Student Health Center</item>
+        <item>Any of the above locations</item>
+    </string-array>
+</resources>

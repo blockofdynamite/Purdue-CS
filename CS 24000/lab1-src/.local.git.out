@@ -1,0 +1,5 @@
+[master ae98478] 0 of 100
+ 6 files changed, 34 insertions(+), 4 deletions(-)
+ create mode 100644 .local.git.out
+ create mode 100644 .local.total.out
+ create mode 100644 total.out

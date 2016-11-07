@@ -1,0 +1,1849 @@
+[master f9c4e95] Lab 2 commit
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ mode change 100755 => 100644 pwcheck.sh
+[master 98dbff8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 463af74] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master ceb000d] Lab 2 commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 48c96d7] Lab 2 commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master e1a8924] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+[master 17e730a] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+[master 37290d4] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d96ad76] Lab 2 commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 pwcheck.sh
+On branch master
+Untracked files:
+	.local.git.out
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 4218082] Lab 2 commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master be533c5] Lab 2 commit
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master 14c87d3] Lab 2 commit
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master 838ccd2] Lab 2 commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 1cd9082] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	reports_dir/
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master bbb18eb] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5b6e196] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cb189b9] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4bc6af7] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 17a66c9] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 08af3a9] Lab 2 commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master ecf2eb0] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 9ce5f67] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f225baf] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master a5f1fcf] Lab 2 commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master a7b885c] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f81bdec] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1953445] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 74504de] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4668a74] Lab 2 commit
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master 5b60332] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master e29713a] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a5c7a0e] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7dc6bab] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d66e042] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2e1ca02] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 8434f2a] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8e57fe9] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 3cbbded] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8e9a94c] Lab 2 commit
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master b11f241] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 299f794] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master d9018a8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 4af6d82] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 4b8c660] Lab 2 commit
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master 7afd8da] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 3efb8da] Lab 2 commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 7f98f5d] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 05e40b9] Lab 2 commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 90436e9] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 179437a] Lab 2 commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	cat
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master bbdb2d6] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c04ce17] Lab 2 commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master a3ff15b] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5b49fac] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bfbec9d] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0de63d1] Lab 2 commit
+ 1 file changed, 9 insertions(+)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	cat
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master b31adbf] Lab 2 commit
+ 1 file changed, 2 insertions(+)
+[master ef3d864] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	cat
+	echo
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master ba85403] Lab 2 commit
+ 1 file changed, 4 deletions(-)
+[master d49aec9] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	cat
+	echo
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 9e6700d] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 5139605] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d007ea9] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 808c95a] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master ae5c9ff] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 9611c2a] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 56b004f] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+
+nothing added to commit but untracked files present
+[master 998a782] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+[master d62c64a] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+[master 3fa0cb5] Lab 2 commit
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	2
+	README.md
+	cat
+	echo
+	password
+	pwtest.sh
+	reports_dir/
+	script-consumer.sh
+	stdout
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present

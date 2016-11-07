@@ -1,0 +1,3446 @@
+S5: N=20, L=20, pop=60
+S13: N=20, L=20, pop=60
+S15: N=20, L=20, pop=60
+S17: N=20, L=20, pop=60
+S26: N=20, L=20, pop=60
+S28: N=20, L=20, pop=60
+S33: N=20, L=20, pop=60
+S36: N=20, L=20, pop=60
+S44: N=20, L=20, pop=60
+S48: N=20, L=20, pop=60
+S51: N=20, L=20, pop=60
+1: S51, pop=60
+2: S48, pop=60
+3: S44, pop=60
+S33: N=17, L=20, pop=57
+S33: N=23, L=30, pop=83
+S17: N=26, L=19, pop=64
+S66: N=20, L=20, pop=60
+S44: N=25, L=21, pop=67
+S17: N=22, L=15, pop=52
+S26: N=26, L=28, pop=82
+S13: N=22, L=25, pop=72
+S26: N=32, L=23, pop=78
+S13: N=20, L=23, pop=66
+S44: N=23, L=24, pop=71
+1: S33, pop=83
+2: S26, pop=78
+3: S44, pop=71
+S17 deleted, pop=52
+S5 deleted, pop=60
+S15 deleted, pop=60
+S28 deleted, pop=60
+S36 deleted, pop=60
+S48 deleted, pop=60
+S51 deleted, pop=60
+S66 deleted, pop=60
+S114: N=20, L=20, pop=60
+S116: N=20, L=20, pop=60
+S122: N=20, L=20, pop=60
+S126: N=20, L=20, pop=60
+S133: N=20, L=20, pop=60
+S140: N=20, L=20, pop=60
+S144: N=20, L=20, pop=60
+S148: N=20, L=20, pop=60
+S152: N=20, L=20, pop=60
+S157: N=20, L=20, pop=60
+1: S33, pop=83
+2: S26, pop=78
+3: S44, pop=71
+S116: N=29, L=27, pop=83
+S140: N=26, L=26, pop=78
+S148: N=24, L=23, pop=70
+S26: N=33, L=24, pop=81
+S157: N=27, L=17, pop=61
+S140: N=34, L=29, pop=92
+S122: N=23, L=21, pop=65
+S33: N=21, L=27, pop=75
+S144: N=28, L=19, pop=66
+S126: N=27, L=19, pop=65
+1: S140, pop=92
+2: S116, pop=83
+3: S26, pop=81
+S114 deleted, pop=60
+S133 deleted, pop=60
+S152 deleted, pop=60
+S157 deleted, pop=61
+S122 deleted, pop=65
+S126 deleted, pop=65
+S13 deleted, pop=66
+S144 deleted, pop=66
+S229: N=20, L=20, pop=60
+S237: N=20, L=20, pop=60
+S240: N=20, L=20, pop=60
+S241: N=20, L=20, pop=60
+S250: N=20, L=20, pop=60
+S251: N=20, L=20, pop=60
+S252: N=20, L=20, pop=60
+S260: N=20, L=20, pop=60
+S265: N=20, L=20, pop=60
+S271: N=20, L=20, pop=60
+1: S140, pop=92
+2: S116, pop=83
+3: S26, pop=81
+S240: N=17, L=23, pop=63
+S252: N=17, L=22, pop=61
+S26: N=42, L=32, pop=106
+S250: N=20, L=21, pop=62
+S229: N=29, L=20, pop=69
+S260: N=30, L=21, pop=72
+S241: N=19, L=25, pop=69
+S260: N=35, L=29, pop=93
+S229: N=27, L=27, pop=81
+S240: N=14, L=26, pop=66
+1: S26, pop=106
+2: S260, pop=93
+3: S140, pop=92
+S237 deleted, pop=60
+S251 deleted, pop=60
+S265 deleted, pop=60
+S271 deleted, pop=60
+S252 deleted, pop=61
+S250 deleted, pop=62
+S355: N=20, L=20, pop=60
+S361: N=20, L=20, pop=60
+S370: N=20, L=20, pop=60
+S374: N=20, L=20, pop=60
+S380: N=20, L=20, pop=60
+S390: N=20, L=20, pop=60
+S393: N=20, L=20, pop=60
+S401: N=20, L=20, pop=60
+S410: N=20, L=20, pop=60
+S414: N=20, L=20, pop=60
+1: S26, pop=106
+2: S260, pop=93
+3: S140, pop=92
+S33: N=21, L=26, pop=73
+S370: N=18, L=16, pop=50
+S410: N=16, L=23, pop=62
+S361: N=23, L=24, pop=71
+S374: N=24, L=25, pop=74
+S140: N=30, L=27, pop=84
+S241: N=29, L=27, pop=83
+S410: N=18, L=23, pop=64
+S355: N=17, L=20, pop=57
+S393: N=17, L=25, pop=67
+1: S26, pop=106
+2: S260, pop=93
+3: S140, pop=84
+S370 deleted, pop=50
+S355 deleted, pop=57
+S380 deleted, pop=60
+S390 deleted, pop=60
+S401 deleted, pop=60
+S414 deleted, pop=60
+S410 deleted, pop=64
+S240 deleted, pop=66
+S393 deleted, pop=67
+S494: N=20, L=20, pop=60
+S497: N=20, L=20, pop=60
+S500: N=20, L=20, pop=60
+S507: N=20, L=20, pop=60
+S515: N=20, L=20, pop=60
+S517: N=20, L=20, pop=60
+S527: N=20, L=20, pop=60
+S528: N=20, L=20, pop=60
+S535: N=20, L=20, pop=60
+S537: N=20, L=20, pop=60
+1: S26, pop=106
+2: S260, pop=93
+3: S140, pop=84
+S517: N=26, L=16, pop=58
+S361: N=18, L=20, pop=58
+S517: N=28, L=26, pop=80
+S507: N=20, L=28, pop=76
+S229: N=25, L=35, pop=95
+S527: N=25, L=20, pop=65
+S537: N=17, L=26, pop=69
+S507: N=28, L=34, pop=96
+S374: N=27, L=30, pop=87
+S535: N=20, L=17, pop=54
+1: S26, pop=106
+2: S507, pop=96
+3: S229, pop=95
+S535 deleted, pop=54
+S361 deleted, pop=58
+S494 deleted, pop=60
+S497 deleted, pop=60
+S615: N=20, L=20, pop=60
+S624: N=20, L=20, pop=60
+S631: N=20, L=20, pop=60
+S633: N=20, L=20, pop=60
+S640: N=20, L=20, pop=60
+S642: N=20, L=20, pop=60
+S644: N=20, L=20, pop=60
+S650: N=20, L=20, pop=60
+S657: N=20, L=20, pop=60
+S666: N=20, L=20, pop=60
+1: S26, pop=106
+2: S507, pop=96
+3: S229, pop=95
+S241: N=24, L=32, pop=88
+S374: N=27, L=36, pop=99
+S650: N=25, L=29, pop=83
+S374: N=23, L=36, pop=95
+S517: N=24, L=25, pop=74
+S229: N=34, L=41, pop=116
+S229: N=31, L=46, pop=123
+S642: N=28, L=19, pop=66
+S537: N=22, L=34, pop=90
+S615: N=19, L=20, pop=59
+1: S229, pop=123
+2: S26, pop=106
+3: S507, pop=96
+S615 deleted, pop=59
+S500 deleted, pop=60
+S515 deleted, pop=60
+S528 deleted, pop=60
+S734: N=20, L=20, pop=60
+S743: N=20, L=20, pop=60
+S745: N=20, L=20, pop=60
+S753: N=20, L=20, pop=60
+S757: N=20, L=20, pop=60
+S760: N=20, L=20, pop=60
+S765: N=20, L=20, pop=60
+S773: N=20, L=20, pop=60
+S783: N=20, L=20, pop=60
+S785: N=20, L=20, pop=60
+1: S229, pop=123
+2: S26, pop=106
+3: S507, pop=96
+S644: N=21, L=15, pop=51
+S374: N=26, L=38, pop=102
+S640: N=22, L=21, pop=64
+S241: N=19, L=42, pop=103
+S650: N=21, L=32, pop=85
+S642: N=38, L=29, pop=96
+S757: N=25, L=26, pop=77
+S241: N=20, L=40, pop=100
+S642: N=48, L=31, pop=110
+S783: N=26, L=30, pop=86
+1: S229, pop=123
+2: S642, pop=110
+3: S26, pop=106
+S644 deleted, pop=51
+S880: N=20, L=20, pop=60
+S883: N=20, L=20, pop=60
+S886: N=20, L=20, pop=60
+S896: N=20, L=20, pop=60
+S900: N=20, L=20, pop=60
+S904: N=20, L=20, pop=60
+S914: N=20, L=20, pop=60
+S919: N=20, L=20, pop=60
+S929: N=20, L=20, pop=60
+S932: N=20, L=20, pop=60
+1: S229, pop=123
+2: S642, pop=110
+3: S26, pop=106
+S919: N=17, L=16, pop=49
+S140: N=28, L=33, pop=94
+S760: N=24, L=16, pop=56
+S537: N=22, L=37, pop=96
+S883: N=18, L=21, pop=60
+S760: N=20, L=11, pop=42
+S517: N=34, L=27, pop=88
+S886: N=20, L=30, pop=80
+S883: N=28, L=17, pop=62
+S785: N=15, L=23, pop=61
+1: S229, pop=123
+2: S642, pop=110
+3: S26, pop=106
+S760 deleted, pop=42
+S919 deleted, pop=49
+S1016: N=20, L=20, pop=60
+S1025: N=20, L=20, pop=60
+S1027: N=20, L=20, pop=60
+S1031: N=20, L=20, pop=60
+S1038: N=20, L=20, pop=60
+S1040: N=20, L=20, pop=60
+S1042: N=20, L=20, pop=60
+S1045: N=20, L=20, pop=60
+S1054: N=20, L=20, pop=60
+S1061: N=20, L=20, pop=60
+1: S229, pop=123
+2: S642, pop=110
+3: S26, pop=106
+S1016: N=20, L=30, pop=80
+S1025: N=16, L=24, pop=64
+S783: N=36, L=30, pop=96
+S241: N=25, L=40, pop=105
+S116: N=36, L=31, pop=98
+S886: N=15, L=28, pop=71
+S1040: N=29, L=27, pop=83
+S537: N=25, L=35, pop=95
+S765: N=24, L=30, pop=84
+S904: N=28, L=15, pop=58
+1: S229, pop=123
+2: S642, pop=110
+3: S26, pop=106
+S904 deleted, pop=58
+S624 deleted, pop=60
+S631 deleted, pop=60
+S1144: N=20, L=20, pop=60
+S1145: N=20, L=20, pop=60
+S1155: N=20, L=20, pop=60
+S1164: N=20, L=20, pop=60
+S1168: N=20, L=20, pop=60
+S1169: N=20, L=20, pop=60
+S1178: N=20, L=20, pop=60
+S1187: N=20, L=20, pop=60
+S1197: N=20, L=20, pop=60
+S1206: N=20, L=20, pop=60
+1: S229, pop=123
+2: S642, pop=110
+3: S26, pop=106
+S883: N=34, L=25, pop=84
+S783: N=41, L=25, pop=91
+S260: N=34, L=38, pop=110
+S260: N=33, L=35, pop=103
+S896: N=20, L=15, pop=50
+S241: N=30, L=49, pop=128
+S640: N=28, L=25, pop=78
+S1038: N=24, L=15, pop=54
+S1197: N=16, L=27, pop=70
+S507: N=34, L=31, pop=96
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S896 deleted, pop=50
+S1038 deleted, pop=54
+S633 deleted, pop=60
+S657 deleted, pop=60
+S666 deleted, pop=60
+S734 deleted, pop=60
+S743 deleted, pop=60
+S745 deleted, pop=60
+S1297: N=20, L=20, pop=60
+S1300: N=20, L=20, pop=60
+S1305: N=20, L=20, pop=60
+S1312: N=20, L=20, pop=60
+S1316: N=20, L=20, pop=60
+S1324: N=20, L=20, pop=60
+S1329: N=20, L=20, pop=60
+S1331: N=20, L=20, pop=60
+S1338: N=20, L=20, pop=60
+S1344: N=20, L=20, pop=60
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S26: N=48, L=30, pop=108
+S785: N=25, L=22, pop=69
+S1031: N=22, L=26, pop=74
+S929: N=17, L=15, pop=47
+S1145: N=16, L=26, pop=68
+S527: N=28, L=21, pop=70
+S1206: N=18, L=23, pop=64
+S1344: N=22, L=23, pop=68
+S1169: N=17, L=28, pop=73
+S783: N=45, L=27, pop=99
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S929 deleted, pop=47
+S753 deleted, pop=60
+S773 deleted, pop=60
+S880 deleted, pop=60
+S1424: N=20, L=20, pop=60
+S1434: N=20, L=20, pop=60
+S1439: N=20, L=20, pop=60
+S1440: N=20, L=20, pop=60
+S1444: N=20, L=20, pop=60
+S1448: N=20, L=20, pop=60
+S1457: N=20, L=20, pop=60
+S1461: N=20, L=20, pop=60
+S1471: N=20, L=20, pop=60
+S1481: N=20, L=20, pop=60
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S1187: N=17, L=26, pop=69
+S1439: N=15, L=19, pop=53
+S1329: N=15, L=26, pop=67
+S1054: N=18, L=27, pop=72
+S1144: N=21, L=22, pop=65
+S1164: N=20, L=17, pop=54
+S1042: N=16, L=16, pop=48
+S1025: N=15, L=34, pop=83
+S1329: N=21, L=21, pop=63
+S757: N=28, L=23, pop=74
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S1042 deleted, pop=48
+S1439 deleted, pop=53
+S1164 deleted, pop=54
+S900 deleted, pop=60
+S914 deleted, pop=60
+S932 deleted, pop=60
+S1027 deleted, pop=60
+S1045 deleted, pop=60
+S1558: N=20, L=20, pop=60
+S1565: N=20, L=20, pop=60
+S1568: N=20, L=20, pop=60
+S1570: N=20, L=20, pop=60
+S1571: N=20, L=20, pop=60
+S1577: N=20, L=20, pop=60
+S1578: N=20, L=20, pop=60
+S1580: N=20, L=20, pop=60
+S1582: N=20, L=20, pop=60
+S1585: N=20, L=20, pop=60
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S1169: N=26, L=32, pop=90
+S507: N=33, L=35, pop=103
+S1155: N=28, L=22, pop=72
+S1316: N=27, L=21, pop=69
+S1580: N=15, L=17, pop=49
+S1568: N=16, L=28, pop=72
+S1585: N=23, L=17, pop=57
+S1434: N=20, L=20, pop=60
+S1461: N=30, L=29, pop=88
+S374: N=34, L=35, pop=104
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S1580 deleted, pop=49
+S1585 deleted, pop=57
+S1061 deleted, pop=60
+S1168 deleted, pop=60
+S1178 deleted, pop=60
+S1297 deleted, pop=60
+S1300 deleted, pop=60
+S1305 deleted, pop=60
+S1670: N=20, L=20, pop=60
+S1679: N=20, L=20, pop=60
+S1681: N=20, L=20, pop=60
+S1685: N=20, L=20, pop=60
+S1688: N=20, L=20, pop=60
+S1693: N=20, L=20, pop=60
+S1698: N=20, L=20, pop=60
+S1701: N=20, L=20, pop=60
+S1709: N=20, L=20, pop=60
+S1715: N=20, L=20, pop=60
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S1685: N=20, L=30, pop=80
+S1206: N=24, L=22, pop=68
+S537: N=27, L=39, pop=105
+S33: N=21, L=35, pop=91
+S1568: N=18, L=26, pop=70
+S785: N=24, L=24, pop=72
+S1582: N=20, L=21, pop=62
+S517: N=40, L=30, pop=100
+S1481: N=22, L=25, pop=72
+S1312: N=16, L=24, pop=64
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S1324 deleted, pop=60
+S1331 deleted, pop=60
+S1338 deleted, pop=60
+S1424 deleted, pop=60
+S1434 deleted, pop=60
+S1440 deleted, pop=60
+S1807: N=20, L=20, pop=60
+S1809: N=20, L=20, pop=60
+S1812: N=20, L=20, pop=60
+S1815: N=20, L=20, pop=60
+S1821: N=20, L=20, pop=60
+S1823: N=20, L=20, pop=60
+S1828: N=20, L=20, pop=60
+S1830: N=20, L=20, pop=60
+S1834: N=20, L=20, pop=60
+S1840: N=20, L=20, pop=60
+1: S241, pop=128
+2: S229, pop=123
+3: S642, pop=110
+S1681: N=20, L=30, pop=80
+S1155: N=26, L=31, pop=88
+S783: N=51, L=35, pop=121
+S886: N=10, L=23, pop=56
+S140: N=34, L=28, pop=90
+S1169: N=36, L=27, pop=90
+S1145: N=21, L=26, pop=73
+S116: N=39, L=31, pop=101
+S1821: N=16, L=27, pop=70
+S1206: N=23, L=31, pop=85
+1: S241, pop=128
+2: S229, pop=123
+3: S783, pop=121
+S886 deleted, pop=56
+S1444 deleted, pop=60
+S1448 deleted, pop=60
+S1457 deleted, pop=60
+S1471 deleted, pop=60
+S1936: N=20, L=20, pop=60
+S1946: N=20, L=20, pop=60
+S1953: N=20, L=20, pop=60
+S1955: N=20, L=20, pop=60
+S1964: N=20, L=20, pop=60
+S1971: N=20, L=20, pop=60
+S1973: N=20, L=20, pop=60
+S1982: N=20, L=20, pop=60
+S1991: N=20, L=20, pop=60
+S1999: N=20, L=20, pop=60
+1: S241, pop=128
+2: S229, pop=123
+3: S783, pop=121
+S1991: N=24, L=20, pop=64
+S1964: N=25, L=16, pop=57
+S1155: N=32, L=36, pop=104
+S757: N=36, L=31, pop=98
+S783: N=60, L=31, pop=122
+S1823: N=27, L=22, pop=71
+S1054: N=18, L=22, pop=62
+S1936: N=26, L=26, pop=78
+S33: N=19, L=40, pop=99
+S1169: N=39, L=27, pop=93
+1: S241, pop=128
+2: S229, pop=123
+3: S783, pop=122
+S1964 deleted, pop=57
+S1558 deleted, pop=60
+S1565 deleted, pop=60
+S1570 deleted, pop=60
+S2083: N=20, L=20, pop=60
+S2089: N=20, L=20, pop=60
+S2098: N=20, L=20, pop=60
+S2104: N=20, L=20, pop=60
+S2114: N=20, L=20, pop=60
+S2123: N=20, L=20, pop=60
+S2124: N=20, L=20, pop=60
+S2128: N=20, L=20, pop=60
+S2130: N=20, L=20, pop=60
+S2134: N=20, L=20, pop=60
+1: S241, pop=128
+2: S229, pop=123
+3: S783, pop=122
+S1936: N=27, L=21, pop=69
+S2098: N=28, L=28, pop=84
+S2134: N=22, L=30, pop=82
+S1481: N=28, L=35, pop=98
+S1155: N=34, L=41, pop=116
+S1206: N=28, L=39, pop=106
+S2104: N=15, L=18, pop=51
+S650: N=27, L=39, pop=105
+S1329: N=19, L=26, pop=71
+S1701: N=28, L=27, pop=82
+1: S241, pop=128
+2: S229, pop=123
+3: S783, pop=122
+S2104 deleted, pop=51
+S1571 deleted, pop=60
+S1577 deleted, pop=60
+S1578 deleted, pop=60
+S1670 deleted, pop=60
+S1679 deleted, pop=60
+S1688 deleted, pop=60
+S1693 deleted, pop=60
+S2212: N=20, L=20, pop=60
+S2213: N=20, L=20, pop=60
+S2219: N=20, L=20, pop=60
+S2226: N=20, L=20, pop=60
+S2233: N=20, L=20, pop=60
+S2243: N=20, L=20, pop=60
+S2245: N=20, L=20, pop=60
+S2255: N=20, L=20, pop=60
+S2257: N=20, L=20, pop=60
+S2264: N=20, L=20, pop=60
+1: S241, pop=128
+2: S229, pop=123
+3: S783, pop=122
+S33: N=26, L=50, pop=126
+S1316: N=35, L=23, pop=81
+S2124: N=20, L=24, pop=68
+S785: N=33, L=20, pop=73
+S1830: N=18, L=24, pop=66
+S2212: N=23, L=23, pop=69
+S1054: N=27, L=28, pop=83
+S2098: N=29, L=37, pop=103
+S1812: N=25, L=26, pop=77
+S1568: N=13, L=30, pop=73
+1: S241, pop=128
+2: S33, pop=126
+3: S229, pop=123
+S1698 deleted, pop=60
+S1709 deleted, pop=60
+S1715 deleted, pop=60
+S1807 deleted, pop=60
+S1809 deleted, pop=60
+S1815 deleted, pop=60
+S2360: N=20, L=20, pop=60
+S2363: N=20, L=20, pop=60
+S2364: N=20, L=20, pop=60
+S2365: N=20, L=20, pop=60
+S2374: N=20, L=20, pop=60
+S2380: N=20, L=20, pop=60
+S2384: N=20, L=20, pop=60
+S2387: N=20, L=20, pop=60
+S2392: N=20, L=20, pop=60
+S2402: N=20, L=20, pop=60
+1: S241, pop=128
+2: S33, pop=126
+3: S229, pop=123
+S1991: N=23, L=18, pop=59
+S1206: N=26, L=47, pop=120
+S640: N=31, L=22, pop=75
+S1155: N=39, L=46, pop=131
+S2219: N=27, L=23, pop=73
+S1828: N=27, L=29, pop=85
+S1040: N=31, L=27, pop=85
+S2374: N=28, L=27, pop=82
+S260: N=39, L=36, pop=111
+S1946: N=28, L=28, pop=84
+1: S1155, pop=131
+2: S241, pop=128
+3: S33, pop=126
+S1991 deleted, pop=59
+S1834 deleted, pop=60
+S1840 deleted, pop=60
+S2482: N=20, L=20, pop=60
+S2491: N=20, L=20, pop=60
+S2495: N=20, L=20, pop=60
+S2502: N=20, L=20, pop=60
+S2510: N=20, L=20, pop=60
+S2520: N=20, L=20, pop=60
+S2523: N=20, L=20, pop=60
+S2530: N=20, L=20, pop=60
+S2539: N=20, L=20, pop=60
+S2544: N=20, L=20, pop=60
+1: S1155, pop=131
+2: S241, pop=128
+3: S33, pop=126
+S33: N=25, L=55, pop=135
+S2114: N=17, L=28, pop=73
+S1316: N=42, L=19, pop=80
+S1155: N=39, L=45, pop=129
+S2360: N=17, L=18, pop=53
+S2495: N=18, L=25, pop=68
+S1312: N=25, L=19, pop=63
+S1936: N=32, L=21, pop=74
+S2502: N=17, L=25, pop=67
+S2243: N=23, L=23, pop=69
+1: S33, pop=135
+2: S1155, pop=129
+3: S241, pop=128
+S2360 deleted, pop=53
+S1953 deleted, pop=60
+S1955 deleted, pop=60
+S1971 deleted, pop=60
+S1973 deleted, pop=60
+S1982 deleted, pop=60
+S1999 deleted, pop=60
+S2083 deleted, pop=60
+S2089 deleted, pop=60
+S2123 deleted, pop=60
+S2610: N=20, L=20, pop=60
+S2619: N=20, L=20, pop=60
+S2625: N=20, L=20, pop=60
+S2631: N=20, L=20, pop=60
+S2636: N=20, L=20, pop=60
+S2640: N=20, L=20, pop=60
+S2641: N=20, L=20, pop=60
+S2646: N=20, L=20, pop=60
+S2647: N=20, L=20, pop=60
+S2653: N=20, L=20, pop=60
+1: S33, pop=135
+2: S1155, pop=129
+3: S241, pop=128
+S1701: N=29, L=37, pop=103
+S2245: N=28, L=26, pop=80
+S2255: N=15, L=28, pop=71
+S2523: N=21, L=19, pop=59
+S2619: N=21, L=25, pop=71
+S2647: N=20, L=19, pop=58
+S2523: N=29, L=15, pop=59
+S1568: N=11, L=25, pop=61
+S2243: N=33, L=18, pop=69
+S2264: N=24, L=30, pop=84
+1: S33, pop=135
+2: S1155, pop=129
+3: S241, pop=128
+S2647 deleted, pop=58
+S2523 deleted, pop=59
+S2128 deleted, pop=60
+S2130 deleted, pop=60
+S2213 deleted, pop=60
+S2734: N=20, L=20, pop=60
+S2742: N=20, L=20, pop=60
+S2751: N=20, L=20, pop=60
+S2757: N=20, L=20, pop=60
+S2758: N=20, L=20, pop=60
+S2767: N=20, L=20, pop=60
+S2770: N=20, L=20, pop=60
+S2778: N=20, L=20, pop=60
+S2784: N=20, L=20, pop=60
+S2791: N=20, L=20, pop=60
+1: S33, pop=135
+2: S1155, pop=129
+3: S241, pop=128
+S1461: N=34, L=31, pop=96
+S1040: N=28, L=30, pop=88
+S2363: N=26, L=22, pop=70
+S1031: N=26, L=36, pop=98
+S2625: N=30, L=23, pop=76
+S2610: N=24, L=19, pop=62
+S2387: N=19, L=18, pop=55
+S2640: N=16, L=29, pop=74
+S2778: N=16, L=15, pop=46
+S1568: N=6, L=31, pop=68
+1: S33, pop=135
+2: S1155, pop=129
+3: S241, pop=128
+S2778 deleted, pop=46
+S2387 deleted, pop=55
+S2867: N=20, L=20, pop=60
+S2876: N=20, L=20, pop=60
+S2877: N=20, L=20, pop=60
+S2886: N=20, L=20, pop=60
+S2891: N=20, L=20, pop=60
+S2896: N=20, L=20, pop=60
+S2905: N=20, L=20, pop=60
+S2915: N=20, L=20, pop=60
+S2919: N=20, L=20, pop=60
+S2925: N=20, L=20, pop=60
+1: S33, pop=135
+2: S1155, pop=129
+3: S241, pop=128
+S2233: N=27, L=21, pop=69
+S640: N=35, L=22, pop=79
+S1031: N=33, L=38, pop=109
+S2891: N=23, L=16, pop=55
+S2770: N=18, L=23, pop=64
+S1568: N=8, L=37, pop=82
+S2363: N=35, L=27, pop=89
+S2098: N=26, L=45, pop=116
+S757: N=37, L=32, pop=101
+S2257: N=16, L=22, pop=60
+1: S33, pop=135
+2: S1155, pop=129
+3: S241, pop=128
+S2891 deleted, pop=55
+S2226 deleted, pop=60
+S2257 deleted, pop=60
+S2364 deleted, pop=60
+S2365 deleted, pop=60
+S2380 deleted, pop=60
+S2384 deleted, pop=60
+S2392 deleted, pop=60
+S3001: N=20, L=20, pop=60
+S3006: N=20, L=20, pop=60
+S3012: N=20, L=20, pop=60
+S3021: N=20, L=20, pop=60
+S3024: N=20, L=20, pop=60
+S3026: N=20, L=20, pop=60
+S3030: N=20, L=20, pop=60
+S3035: N=20, L=20, pop=60
+S3044: N=20, L=20, pop=60
+S3045: N=20, L=20, pop=60
+1: S33, pop=135
+2: S1155, pop=129
+3: S241, pop=128
+S883: N=35, L=20, pop=75
+S229: N=41, L=56, pop=153
+S2124: N=23, L=28, pop=79
+S2915: N=17, L=18, pop=53
+S2784: N=24, L=24, pop=72
+S2767: N=22, L=22, pop=66
+S2641: N=20, L=30, pop=80
+S785: N=31, L=17, pop=65
+S1344: N=31, L=26, pop=83
+S2520: N=28, L=19, pop=66
+1: S229, pop=153
+2: S33, pop=135
+3: S1155, pop=129
+S2915 deleted, pop=53
+S2402 deleted, pop=60
+S2482 deleted, pop=60
+S2491 deleted, pop=60
+S2510 deleted, pop=60
+S2530 deleted, pop=60
+S2539 deleted, pop=60
+S3120: N=20, L=20, pop=60
+S3128: N=20, L=20, pop=60
+S3132: N=20, L=20, pop=60
+S3133: N=20, L=20, pop=60
+S3134: N=20, L=20, pop=60
+S3140: N=20, L=20, pop=60
+S3143: N=20, L=20, pop=60
+S3148: N=20, L=20, pop=60
+S3155: N=20, L=20, pop=60
+S3163: N=20, L=20, pop=60
+1: S229, pop=153
+2: S33, pop=135
+3: S1155, pop=129
+S3143: N=17, L=19, pop=55
+S642: N=55, L=29, pop=113
+S1197: N=19, L=25, pop=69
+S527: N=30, L=27, pop=84
+S1155: N=48, L=46, pop=140
+S2734: N=29, L=24, pop=77
+S765: N=33, L=36, pop=105
+S1155: N=48, L=48, pop=144
+S1316: N=47, L=21, pop=89
+S2625: N=36, L=29, pop=94
+1: S229, pop=153
+2: S1155, pop=144
+3: S33, pop=135
+S3143 deleted, pop=55
+S2544 deleted, pop=60
+S2631 deleted, pop=60
+S2636 deleted, pop=60
+S2646 deleted, pop=60
+S2653 deleted, pop=60
+S3237: N=20, L=20, pop=60
+S3243: N=20, L=20, pop=60
+S3251: N=20, L=20, pop=60
+S3253: N=20, L=20, pop=60
+S3262: N=20, L=20, pop=60
+S3272: N=20, L=20, pop=60
+S3274: N=20, L=20, pop=60
+S3275: N=20, L=20, pop=60
+S3277: N=20, L=20, pop=60
+S3286: N=20, L=20, pop=60
+1: S229, pop=153
+2: S1155, pop=144
+3: S33, pop=135
+S374: N=34, L=40, pop=114
+S2767: N=27, L=20, pop=67
+S1031: N=42, L=40, pop=122
+S783: N=68, L=37, pop=142
+S3120: N=28, L=15, pop=58
+S2876: N=21, L=17, pop=55
+S2233: N=31, L=29, pop=89
+S2770: N=15, L=21, pop=57
+S3251: N=21, L=28, pop=77
+S2867: N=19, L=21, pop=61
+1: S229, pop=153
+2: S1155, pop=144
+3: S783, pop=142
+S2876 deleted, pop=55
+S2770 deleted, pop=57
+S3120 deleted, pop=58
+S2742 deleted, pop=60
+S3356: N=20, L=20, pop=60
+S3365: N=20, L=20, pop=60
+S3374: N=20, L=20, pop=60
+S3382: N=20, L=20, pop=60
+S3389: N=20, L=20, pop=60
+S3397: N=20, L=20, pop=60
+S3403: N=20, L=20, pop=60
+S3410: N=20, L=20, pop=60
+S3416: N=20, L=20, pop=60
+S3417: N=20, L=20, pop=60
+1: S229, pop=153
+2: S1155, pop=144
+3: S783, pop=142
+S1054: N=25, L=31, pop=87
+S1830: N=27, L=30, pop=87
+S2255: N=14, L=32, pop=78
+S3163: N=18, L=19, pop=56
+S640: N=44, L=29, pop=102
+S1016: N=19, L=40, pop=99
+S2114: N=21, L=23, pop=67
+S2114: N=25, L=18, pop=61
+S3403: N=18, L=28, pop=74
+S1823: N=30, L=23, pop=76
+1: S229, pop=153
+2: S1155, pop=144
+3: S783, pop=142
+S3163 deleted, pop=56
+S2751 deleted, pop=60
+S2757 deleted, pop=60
+S2758 deleted, pop=60
+S2791 deleted, pop=60
+S2877 deleted, pop=60
+S2886 deleted, pop=60
+S2896 deleted, pop=60
+S2905 deleted, pop=60
+S2919 deleted, pop=60
+S3507: N=20, L=20, pop=60
+S3510: N=20, L=20, pop=60
+S3520: N=20, L=20, pop=60
+S3525: N=20, L=20, pop=60
+S3528: N=20, L=20, pop=60
+S3536: N=20, L=20, pop=60
+S3544: N=20, L=20, pop=60
+S3548: N=20, L=20, pop=60
+S3553: N=20, L=20, pop=60
+S3555: N=20, L=20, pop=60
+1: S229, pop=153
+2: S1155, pop=144
+3: S783, pop=142
+S527: N=34, L=22, pop=78
+S2264: N=24, L=27, pop=78
+S1169: N=39, L=26, pop=91
+S507: N=33, L=42, pop=117
+S260: N=36, L=36, pop=108
+S3021: N=24, L=16, pop=56
+S2098: N=24, L=46, pop=116
+S140: N=34, L=32, pop=98
+S3045: N=23, L=30, pop=83
+S537: N=35, L=40, pop=115
+1: S229, pop=153
+2: S1155, pop=144
+3: S783, pop=142
+S3021 deleted, pop=56
+S2925 deleted, pop=60
+S3001 deleted, pop=60
+S3623: N=20, L=20, pop=60
+S3629: N=20, L=20, pop=60
+S3631: N=20, L=20, pop=60
+S3634: N=20, L=20, pop=60
+S3643: N=20, L=20, pop=60
+S3645: N=20, L=20, pop=60
+S3652: N=20, L=20, pop=60
+S3654: N=20, L=20, pop=60
+S3659: N=20, L=20, pop=60
+S3667: N=20, L=20, pop=60
+1: S229, pop=153
+2: S1155, pop=144
+3: S783, pop=142
+S640: N=39, L=32, pop=103
+S374: N=42, L=38, pop=118
+S3403: N=22, L=30, pop=82
+S640: N=43, L=39, pop=121
+S640: N=41, L=49, pop=139
+S116: N=40, L=39, pop=118
+S1312: N=26, L=26, pop=78
+S1054: N=30, L=33, pop=96
+S1312: N=25, L=35, pop=95
+S3397: N=18, L=27, pop=72
+1: S229, pop=153
+2: S1155, pop=144
+3: S783, pop=142
+S3006 deleted, pop=60
+S3012 deleted, pop=60
+S3024 deleted, pop=60
+S3026 deleted, pop=60
+S3030 deleted, pop=60
+S3035 deleted, pop=60
+S3044 deleted, pop=60
+S3128 deleted, pop=60
+S3741: N=20, L=20, pop=60
+S3749: N=20, L=20, pop=60
+S3750: N=20, L=20, pop=60
+S3759: N=20, L=20, pop=60
+S3761: N=20, L=20, pop=60
+S3762: N=20, L=20, pop=60
+S3764: N=20, L=20, pop=60
+S3769: N=20, L=20, pop=60
+S3776: N=20, L=20, pop=60
+S3783: N=20, L=20, pop=60
+1: S229, pop=153
+2: S1155, pop=144
+3: S783, pop=142
+S1187: N=16, L=31, pop=78
+S3253: N=20, L=27, pop=74
+S2495: N=13, L=29, pop=71
+S2124: N=32, L=34, pop=100
+S1312: N=30, L=32, pop=94
+S1329: N=27, L=29, pop=85
+S1031: N=48, L=50, pop=148
+S3417: N=23, L=22, pop=67
+S3536: N=30, L=30, pop=90
+S374: N=42, L=33, pop=108
+1: S229, pop=153
+2: S1031, pop=148
+3: S1155, pop=144
+S3132 deleted, pop=60
+S3133 deleted, pop=60
+S3134 deleted, pop=60
+S3140 deleted, pop=60
+S3148 deleted, pop=60
+S3155 deleted, pop=60
+S3237 deleted, pop=60
+S3243 deleted, pop=60
+S3262 deleted, pop=60
+S3863: N=20, L=20, pop=60
+S3869: N=20, L=20, pop=60
+S3876: N=20, L=20, pop=60
+S3886: N=20, L=20, pop=60
+S3896: N=20, L=20, pop=60
+S3906: N=20, L=20, pop=60
+S3908: N=20, L=20, pop=60
+S3912: N=20, L=20, pop=60
+S3919: N=20, L=20, pop=60
+S3920: N=20, L=20, pop=60
+1: S229, pop=153
+2: S1031, pop=148
+3: S1155, pop=144
+S2767: N=32, L=30, pop=92
+S3253: N=23, L=23, pop=69
+S2245: N=32, L=33, pop=98
+S2374: N=28, L=26, pop=80
+S1169: N=46, L=35, pop=116
+S1828: N=25, L=39, pop=103
+S640: N=43, L=57, pop=157
+S1812: N=28, L=23, pop=74
+S3275: N=22, L=26, pop=74
+S3876: N=27, L=24, pop=75
+1: S640, pop=157
+2: S229, pop=153
+3: S1031, pop=148
+S3272 deleted, pop=60
+S3274 deleted, pop=60
+S3277 deleted, pop=60
+S3286 deleted, pop=60
+S3356 deleted, pop=60
+S3365 deleted, pop=60
+S3986: N=20, L=20, pop=60
+S3989: N=20, L=20, pop=60
+S3994: N=20, L=20, pop=60
+S4003: N=20, L=20, pop=60
+S4006: N=20, L=20, pop=60
+S4013: N=20, L=20, pop=60
+S4017: N=20, L=20, pop=60
+S4019: N=20, L=20, pop=60
+S4020: N=20, L=20, pop=60
+S4027: N=20, L=20, pop=60
+1: S640, pop=157
+2: S229, pop=153
+3: S1031, pop=148
+S4006: N=24, L=23, pop=70
+S1016: N=26, L=42, pop=110
+S3555: N=28, L=24, pop=76
+S3750: N=16, L=20, pop=56
+S1936: N=35, L=25, pop=85
+S3251: N=22, L=36, pop=94
+S1823: N=36, L=28, pop=92
+S3920: N=27, L=16, pop=59
+S260: N=33, L=37, pop=107
+S3783: N=25, L=18, pop=61
+1: S640, pop=157
+2: S229, pop=153
+3: S1031, pop=148
+S3750 deleted, pop=56
+S3920 deleted, pop=59
+S3374 deleted, pop=60
+S3382 deleted, pop=60
+S3389 deleted, pop=60
+S3410 deleted, pop=60
+S3416 deleted, pop=60
+S3507 deleted, pop=60
+S4113: N=20, L=20, pop=60
+S4120: N=20, L=20, pop=60
+S4121: N=20, L=20, pop=60
+S4125: N=20, L=20, pop=60
+S4126: N=20, L=20, pop=60
+S4135: N=20, L=20, pop=60
+S4143: N=20, L=20, pop=60
+S4148: N=20, L=20, pop=60
+S4149: N=20, L=20, pop=60
+S4153: N=20, L=20, pop=60
+1: S640, pop=157
+2: S229, pop=153
+3: S1031, pop=148
+S650: N=24, L=40, pop=104
+S1568: N=17, L=37, pop=91
+S1830: N=33, L=35, pop=103
+S4017: N=28, L=28, pop=84
+S4013: N=26, L=24, pop=74
+S517: N=50, L=34, pop=118
+S1823: N=46, L=34, pop=114
+S1828: N=21, L=34, pop=89
+S785: N=27, L=27, pop=81
+S4143: N=20, L=17, pop=54
+1: S640, pop=157
+2: S229, pop=153
+3: S1031, pop=148
+S4143 deleted, pop=54
+S3510 deleted, pop=60
+S3520 deleted, pop=60
+S4235: N=20, L=20, pop=60
+S4243: N=20, L=20, pop=60
+S4247: N=20, L=20, pop=60
+S4254: N=20, L=20, pop=60
+S4260: N=20, L=20, pop=60
+S4263: N=20, L=20, pop=60
+S4273: N=20, L=20, pop=60
+S4277: N=20, L=20, pop=60
+S4283: N=20, L=20, pop=60
+S4293: N=20, L=20, pop=60
+1: S640, pop=157
+2: S229, pop=153
+3: S1031, pop=148
+S3994: N=28, L=30, pop=88
+S4126: N=18, L=20, pop=58
+S2734: N=37, L=32, pop=101
+S765: N=29, L=41, pop=111
+S2134: N=23, L=26, pop=75
+S4020: N=28, L=15, pop=58
+S4120: N=26, L=26, pop=78
+S765: N=25, L=44, pop=113
+S2374: N=36, L=33, pop=102
+S374: N=46, L=36, pop=118
+1: S640, pop=157
+2: S229, pop=153
+3: S1031, pop=148
+S4020 deleted, pop=58
+S4126 deleted, pop=58
+S3525 deleted, pop=60
+S3528 deleted, pop=60
+S4354: N=20, L=20, pop=60
+S4362: N=20, L=20, pop=60
+S4365: N=20, L=20, pop=60
+S4369: N=20, L=20, pop=60
+S4379: N=20, L=20, pop=60
+S4388: N=20, L=20, pop=60
+S4397: N=20, L=20, pop=60
+S4398: N=20, L=20, pop=60
+S4402: N=20, L=20, pop=60
+S4409: N=20, L=20, pop=60
+1: S640, pop=157
+2: S229, pop=153
+3: S1031, pop=148
+S3629: N=30, L=15, pop=60
+S2641: N=28, L=27, pop=82
+S3253: N=18, L=32, pop=82
+S33: N=22, L=54, pop=130
+S2867: N=25, L=21, pop=67
+S640: N=53, L=65, pop=183
+S4365: N=21, L=25, pop=71
+S3417: N=19, L=23, pop=65
+S3986: N=19, L=23, pop=65
+S1685: N=26, L=26, pop=78
+1: S640, pop=183
+2: S229, pop=153
+3: S1031, pop=148
+S3544 deleted, pop=60
+S3548 deleted, pop=60
+S4492: N=20, L=20, pop=60
+S4501: N=20, L=20, pop=60
+S4511: N=20, L=20, pop=60
+S4512: N=20, L=20, pop=60
+S4513: N=20, L=20, pop=60
+S4521: N=20, L=20, pop=60
+S4528: N=20, L=20, pop=60
+S4537: N=20, L=20, pop=60
+S4540: N=20, L=20, pop=60
+S4541: N=20, L=20, pop=60
+1: S640, pop=183
+2: S229, pop=153
+3: S1031, pop=148
+S3886: N=24, L=30, pop=84
+S3908: N=15, L=20, pop=55
+S1936: N=33, L=35, pop=103
+S2363: N=38, L=34, pop=106
+S26: N=54, L=32, pop=118
+S4260: N=17, L=20, pop=57
+S640: N=58, L=73, pop=204
+S4273: N=23, L=23, pop=69
+S4149: N=30, L=22, pop=74
+S1031: N=44, L=49, pop=142
+1: S640, pop=204
+2: S229, pop=153
+3: S1155, pop=144
+S3908 deleted, pop=55
+S4260 deleted, pop=57
+S3553 deleted, pop=60
+S3623 deleted, pop=60
+S3629 deleted, pop=60
+S3631 deleted, pop=60
+S3634 deleted, pop=60
+S3643 deleted, pop=60
+S3645 deleted, pop=60
+S3652 deleted, pop=60
+S4625: N=20, L=20, pop=60
+S4633: N=20, L=20, pop=60
+S4634: N=20, L=20, pop=60
+S4635: N=20, L=20, pop=60
+S4643: N=20, L=20, pop=60
+S4644: N=20, L=20, pop=60
+S4649: N=20, L=20, pop=60
+S4651: N=20, L=20, pop=60
+S4656: N=20, L=20, pop=60
+S4661: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=153
+3: S1155, pop=144
+S1206: N=30, L=54, pop=138
+S2619: N=18, L=21, pop=60
+S4149: N=30, L=21, pop=72
+S1329: N=25, L=32, pop=89
+S2625: N=43, L=34, pop=111
+S4651: N=21, L=21, pop=63
+S1568: N=12, L=36, pop=84
+S1936: N=42, L=36, pop=114
+S765: N=32, L=48, pop=128
+S4283: N=23, L=29, pop=81
+1: S640, pop=204
+2: S229, pop=153
+3: S1155, pop=144
+S2619 deleted, pop=60
+S3654 deleted, pop=60
+S3659 deleted, pop=60
+S3667 deleted, pop=60
+S3741 deleted, pop=60
+S3749 deleted, pop=60
+S4733: N=20, L=20, pop=60
+S4740: N=20, L=20, pop=60
+S4743: N=20, L=20, pop=60
+S4744: N=20, L=20, pop=60
+S4753: N=20, L=20, pop=60
+S4758: N=20, L=20, pop=60
+S4767: N=20, L=20, pop=60
+S4772: N=20, L=20, pop=60
+S4780: N=20, L=20, pop=60
+S4783: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=153
+3: S1155, pop=144
+S1812: N=23, L=33, pop=89
+S4625: N=26, L=21, pop=68
+S4643: N=28, L=23, pop=74
+S3759: N=23, L=29, pop=81
+S4121: N=25, L=23, pop=71
+S4511: N=19, L=30, pop=79
+S2219: N=27, L=28, pop=83
+S4369: N=27, L=16, pop=59
+S1025: N=11, L=29, pop=69
+S229: N=51, L=64, pop=179
+1: S640, pop=204
+2: S229, pop=179
+3: S1155, pop=144
+S4369 deleted, pop=59
+S3761 deleted, pop=60
+S3762 deleted, pop=60
+S3764 deleted, pop=60
+S3769 deleted, pop=60
+S4862: N=20, L=20, pop=60
+S4869: N=20, L=20, pop=60
+S4871: N=20, L=20, pop=60
+S4877: N=20, L=20, pop=60
+S4887: N=20, L=20, pop=60
+S4894: N=20, L=20, pop=60
+S4904: N=20, L=20, pop=60
+S4905: N=20, L=20, pop=60
+S4906: N=20, L=20, pop=60
+S4915: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=179
+3: S1155, pop=144
+S3783: N=29, L=28, pop=85
+S4243: N=17, L=25, pop=67
+S2212: N=19, L=24, pop=67
+S1025: N=17, L=32, pop=81
+S4512: N=30, L=22, pop=74
+S2641: N=35, L=29, pop=93
+S3912: N=15, L=15, pop=45
+S765: N=41, L=58, pop=157
+S4871: N=16, L=25, pop=66
+S3912: N=18, L=10, pop=38
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S3912 deleted, pop=38
+S3776 deleted, pop=60
+S3863 deleted, pop=60
+S3869 deleted, pop=60
+S3896 deleted, pop=60
+S3906 deleted, pop=60
+S3919 deleted, pop=60
+S4974: N=20, L=20, pop=60
+S4980: N=20, L=20, pop=60
+S4988: N=20, L=20, pop=60
+S4994: N=20, L=20, pop=60
+S5003: N=20, L=20, pop=60
+S5009: N=20, L=20, pop=60
+S5012: N=20, L=20, pop=60
+S5013: N=20, L=20, pop=60
+S5014: N=20, L=20, pop=60
+S5020: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S4379: N=29, L=25, pop=79
+S2767: N=34, L=25, pop=84
+S33: N=19, L=59, pop=137
+S4862: N=20, L=19, pop=58
+S1145: N=21, L=31, pop=83
+S4871: N=16, L=24, pop=64
+S1187: N=15, L=33, pop=81
+S2233: N=34, L=37, pop=108
+S4120: N=24, L=22, pop=68
+S4254: N=30, L=27, pop=84
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S4862 deleted, pop=58
+S3989 deleted, pop=60
+S4003 deleted, pop=60
+S4019 deleted, pop=60
+S4027 deleted, pop=60
+S4113 deleted, pop=60
+S4125 deleted, pop=60
+S5096: N=20, L=20, pop=60
+S5106: N=20, L=20, pop=60
+S5109: N=20, L=20, pop=60
+S5115: N=20, L=20, pop=60
+S5117: N=20, L=20, pop=60
+S5118: N=20, L=20, pop=60
+S5120: N=20, L=20, pop=60
+S5123: N=20, L=20, pop=60
+S5132: N=20, L=20, pop=60
+S5137: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S3403: N=21, L=40, pop=101
+S4540: N=16, L=19, pop=54
+S4540: N=15, L=27, pop=69
+S4293: N=18, L=16, pop=50
+S1187: N=12, L=29, pop=70
+S2374: N=32, L=43, pop=118
+S5109: N=17, L=28, pop=73
+S2374: N=37, L=39, pop=115
+S4733: N=27, L=19, pop=65
+S1054: N=33, L=34, pop=101
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S4293 deleted, pop=50
+S4135 deleted, pop=60
+S4148 deleted, pop=60
+S4153 deleted, pop=60
+S4235 deleted, pop=60
+S4247 deleted, pop=60
+S5212: N=20, L=20, pop=60
+S5217: N=20, L=20, pop=60
+S5223: N=20, L=20, pop=60
+S5232: N=20, L=20, pop=60
+S5241: N=20, L=20, pop=60
+S5247: N=20, L=20, pop=60
+S5249: N=20, L=20, pop=60
+S5257: N=20, L=20, pop=60
+S5261: N=20, L=20, pop=60
+S5263: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S5123: N=22, L=21, pop=64
+S2219: N=32, L=34, pop=100
+S4772: N=22, L=23, pop=68
+S4537: N=29, L=24, pop=77
+S4988: N=29, L=22, pop=73
+S3555: N=38, L=27, pop=92
+S260: N=29, L=45, pop=119
+S2098: N=27, L=51, pop=129
+S3275: N=26, L=26, pop=78
+S5212: N=23, L=20, pop=63
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S4263 deleted, pop=60
+S4277 deleted, pop=60
+S4354 deleted, pop=60
+S4362 deleted, pop=60
+S4388 deleted, pop=60
+S4397 deleted, pop=60
+S4398 deleted, pop=60
+S4402 deleted, pop=60
+S4409 deleted, pop=60
+S5340: N=20, L=20, pop=60
+S5343: N=20, L=20, pop=60
+S5350: N=20, L=20, pop=60
+S5351: N=20, L=20, pop=60
+S5358: N=20, L=20, pop=60
+S5366: N=20, L=20, pop=60
+S5370: N=20, L=20, pop=60
+S5378: N=20, L=20, pop=60
+S5381: N=20, L=20, pop=60
+S5388: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S3536: N=34, L=26, pop=86
+S1582: N=20, L=30, pop=80
+S5212: N=21, L=18, pop=57
+S5263: N=17, L=26, pop=69
+S1823: N=46, L=41, pop=128
+S3555: N=48, L=29, pop=106
+S5358: N=15, L=24, pop=63
+S2867: N=26, L=26, pop=78
+S507: N=34, L=39, pop=112
+S5212: N=19, L=15, pop=49
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S5212 deleted, pop=49
+S4492 deleted, pop=60
+S4501 deleted, pop=60
+S4513 deleted, pop=60
+S4521 deleted, pop=60
+S4528 deleted, pop=60
+S4541 deleted, pop=60
+S4633 deleted, pop=60
+S4634 deleted, pop=60
+S5483: N=20, L=20, pop=60
+S5484: N=20, L=20, pop=60
+S5494: N=20, L=20, pop=60
+S5500: N=20, L=20, pop=60
+S5503: N=20, L=20, pop=60
+S5510: N=20, L=20, pop=60
+S5516: N=20, L=20, pop=60
+S5517: N=20, L=20, pop=60
+S5527: N=20, L=20, pop=60
+S5532: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=179
+3: S765, pop=157
+S2233: N=32, L=38, pop=108
+S5484: N=18, L=16, pop=50
+S1054: N=38, L=42, pop=122
+S1197: N=18, L=24, pop=66
+S5527: N=21, L=16, pop=53
+S5014: N=15, L=26, pop=67
+S5117: N=23, L=18, pop=59
+S1031: N=50, L=57, pop=164
+S5532: N=24, L=21, pop=66
+S5106: N=30, L=24, pop=78
+1: S640, pop=204
+2: S229, pop=179
+3: S1031, pop=164
+S5484 deleted, pop=50
+S5527 deleted, pop=53
+S5117 deleted, pop=59
+S4635 deleted, pop=60
+S5610: N=20, L=20, pop=60
+S5612: N=20, L=20, pop=60
+S5617: N=20, L=20, pop=60
+S5619: N=20, L=20, pop=60
+S5629: N=20, L=20, pop=60
+S5636: N=20, L=20, pop=60
+S5641: N=20, L=20, pop=60
+S5643: N=20, L=20, pop=60
+S5651: N=20, L=20, pop=60
+S5658: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=179
+3: S1031, pop=164
+S507: N=37, L=36, pop=109
+S5366: N=17, L=28, pop=73
+S5612: N=21, L=22, pop=65
+S4767: N=24, L=26, pop=76
+S4740: N=23, L=16, pop=55
+S229: N=50, L=71, pop=192
+S1169: N=43, L=37, pop=117
+S5388: N=20, L=22, pop=64
+S1040: N=35, L=38, pop=111
+S26: N=52, L=31, pop=114
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S4740 deleted, pop=55
+S5735: N=20, L=20, pop=60
+S5743: N=20, L=20, pop=60
+S5751: N=20, L=20, pop=60
+S5757: N=20, L=20, pop=60
+S5760: N=20, L=20, pop=60
+S5767: N=20, L=20, pop=60
+S5769: N=20, L=20, pop=60
+S5775: N=20, L=20, pop=60
+S5781: N=20, L=20, pop=60
+S5784: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S2625: N=39, L=40, pop=119
+S2767: N=31, L=29, pop=89
+S1461: N=34, L=34, pop=102
+S2233: N=36, L=40, pop=116
+S4243: N=12, L=23, pop=58
+S527: N=32, L=28, pop=88
+S5123: N=30, L=16, pop=62
+S4149: N=40, L=29, pop=98
+S1144: N=16, L=30, pop=76
+S1312: N=35, L=37, pop=109
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S4243 deleted, pop=58
+S4644 deleted, pop=60
+S4649 deleted, pop=60
+S4656 deleted, pop=60
+S4661 deleted, pop=60
+S4743 deleted, pop=60
+S4744 deleted, pop=60
+S4753 deleted, pop=60
+S5865: N=20, L=20, pop=60
+S5874: N=20, L=20, pop=60
+S5882: N=20, L=20, pop=60
+S5884: N=20, L=20, pop=60
+S5893: N=20, L=20, pop=60
+S5895: N=20, L=20, pop=60
+S5902: N=20, L=20, pop=60
+S5907: N=20, L=20, pop=60
+S5915: N=20, L=20, pop=60
+S5923: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S4540: N=24, L=33, pop=90
+S5915: N=19, L=18, pop=55
+S1830: N=33, L=38, pop=109
+S4894: N=30, L=27, pop=84
+S4994: N=25, L=28, pop=81
+S4625: N=22, L=22, pop=66
+S1828: N=29, L=36, pop=101
+S5388: N=16, L=27, pop=70
+S3759: N=21, L=35, pop=91
+S5907: N=25, L=27, pop=79
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5915 deleted, pop=55
+S4758 deleted, pop=60
+S4780 deleted, pop=60
+S4783 deleted, pop=60
+S4869 deleted, pop=60
+S4877 deleted, pop=60
+S4887 deleted, pop=60
+S4904 deleted, pop=60
+S6007: N=20, L=20, pop=60
+S6016: N=20, L=20, pop=60
+S6021: N=20, L=20, pop=60
+S6023: N=20, L=20, pop=60
+S6025: N=20, L=20, pop=60
+S6026: N=20, L=20, pop=60
+S6033: N=20, L=20, pop=60
+S6034: N=20, L=20, pop=60
+S6044: N=20, L=20, pop=60
+S6052: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S3253: N=23, L=28, pop=79
+S2734: N=46, L=36, pop=118
+S1155: N=52, L=54, pop=160
+S5874: N=18, L=26, pop=70
+S4283: N=25, L=28, pop=81
+S4733: N=34, L=17, pop=68
+S5882: N=15, L=20, pop=55
+S3417: N=14, L=23, pop=60
+S5013: N=21, L=30, pop=81
+S4537: N=29, L=20, pop=69
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5882 deleted, pop=55
+S3417 deleted, pop=60
+S4905 deleted, pop=60
+S4906 deleted, pop=60
+S6128: N=20, L=20, pop=60
+S6130: N=20, L=20, pop=60
+S6140: N=20, L=20, pop=60
+S6144: N=20, L=20, pop=60
+S6145: N=20, L=20, pop=60
+S6153: N=20, L=20, pop=60
+S6156: N=20, L=20, pop=60
+S6157: N=20, L=20, pop=60
+S6163: N=20, L=20, pop=60
+S6165: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5358: N=18, L=32, pop=82
+S1830: N=34, L=33, pop=100
+S2243: N=40, L=27, pop=94
+S1821: N=20, L=32, pop=84
+S6026: N=25, L=29, pop=83
+S5884: N=28, L=23, pop=74
+S1936: N=37, L=34, pop=105
+S5751: N=17, L=23, pop=63
+S642: N=52, L=29, pop=110
+S5120: N=27, L=21, pop=69
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S4915 deleted, pop=60
+S6263: N=20, L=20, pop=60
+S6271: N=20, L=20, pop=60
+S6275: N=20, L=20, pop=60
+S6279: N=20, L=20, pop=60
+S6286: N=20, L=20, pop=60
+S6295: N=20, L=20, pop=60
+S6303: N=20, L=20, pop=60
+S6305: N=20, L=20, pop=60
+S6312: N=20, L=20, pop=60
+S6322: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S6033: N=23, L=15, pop=53
+S6052: N=22, L=18, pop=58
+S6295: N=22, L=15, pop=52
+S642: N=53, L=39, pop=131
+S1568: N=18, L=42, pop=102
+S6145: N=16, L=27, pop=70
+S1206: N=30, L=49, pop=128
+S5223: N=17, L=18, pop=53
+S5784: N=15, L=22, pop=59
+S5784: N=24, L=23, pop=70
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S6295 deleted, pop=52
+S6389: N=20, L=20, pop=60
+S6398: N=20, L=20, pop=60
+S6407: N=20, L=20, pop=60
+S6411: N=20, L=20, pop=60
+S6413: N=20, L=20, pop=60
+S6418: N=20, L=20, pop=60
+S6423: N=20, L=20, pop=60
+S6431: N=20, L=20, pop=60
+S6435: N=20, L=20, pop=60
+S6441: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5263: N=24, L=36, pop=96
+S1481: N=23, L=32, pop=87
+S6279: N=20, L=28, pop=76
+S5612: N=29, L=18, pop=65
+S785: N=31, L=25, pop=81
+S1681: N=28, L=25, pop=78
+S6007: N=23, L=17, pop=57
+S4120: N=33, L=27, pop=87
+S4871: N=24, L=32, pop=88
+S2502: N=27, L=24, pop=75
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5223 deleted, pop=53
+S6033 deleted, pop=53
+S6007 deleted, pop=57
+S6052 deleted, pop=58
+S6513: N=20, L=20, pop=60
+S6519: N=20, L=20, pop=60
+S6520: N=20, L=20, pop=60
+S6522: N=20, L=20, pop=60
+S6531: N=20, L=20, pop=60
+S6541: N=20, L=20, pop=60
+S6551: N=20, L=20, pop=60
+S6555: N=20, L=20, pop=60
+S6559: N=20, L=20, pop=60
+S6568: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S1481: N=31, L=42, pop=115
+S5769: N=26, L=22, pop=70
+S5735: N=25, L=21, pop=67
+S2255: N=19, L=36, pop=91
+S6541: N=24, L=15, pop=54
+S3253: N=32, L=33, pop=98
+S757: N=35, L=32, pop=99
+S5517: N=30, L=26, pop=82
+S6016: N=28, L=25, pop=78
+S116: N=46, L=45, pop=136
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S6541 deleted, pop=54
+S4974 deleted, pop=60
+S4980 deleted, pop=60
+S5003 deleted, pop=60
+S5009 deleted, pop=60
+S5012 deleted, pop=60
+S5020 deleted, pop=60
+S5096 deleted, pop=60
+S6658: N=20, L=20, pop=60
+S6664: N=20, L=20, pop=60
+S6671: N=20, L=20, pop=60
+S6677: N=20, L=20, pop=60
+S6678: N=20, L=20, pop=60
+S6688: N=20, L=20, pop=60
+S6697: N=20, L=20, pop=60
+S6704: N=20, L=20, pop=60
+S6710: N=20, L=20, pop=60
+S6716: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5388: N=23, L=34, pop=91
+S2255: N=18, L=36, pop=90
+S757: N=40, L=40, pop=120
+S6710: N=15, L=26, pop=67
+S2625: N=39, L=46, pop=131
+S4511: N=25, L=37, pop=99
+S5014: N=25, L=36, pop=97
+S5118: N=19, L=19, pop=57
+S4772: N=31, L=23, pop=77
+S5760: N=26, L=20, pop=66
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5118 deleted, pop=57
+S5115 deleted, pop=60
+S5132 deleted, pop=60
+S5137 deleted, pop=60
+S6810: N=20, L=20, pop=60
+S6817: N=20, L=20, pop=60
+S6820: N=20, L=20, pop=60
+S6824: N=20, L=20, pop=60
+S6830: N=20, L=20, pop=60
+S6837: N=20, L=20, pop=60
+S6847: N=20, L=20, pop=60
+S6853: N=20, L=20, pop=60
+S6854: N=20, L=20, pop=60
+S6862: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5366: N=24, L=28, pop=80
+S5123: N=37, L=23, pop=83
+S1461: N=31, L=37, pop=105
+S374: N=47, L=43, pop=133
+S650: N=33, L=48, pop=129
+S5907: N=31, L=31, pop=93
+S5232: N=17, L=25, pop=67
+S1187: N=18, L=29, pop=76
+S6407: N=18, L=20, pop=58
+S6322: N=16, L=28, pop=72
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S6407 deleted, pop=58
+S5217 deleted, pop=60
+S6939: N=20, L=20, pop=60
+S6949: N=20, L=20, pop=60
+S6958: N=20, L=20, pop=60
+S6968: N=20, L=20, pop=60
+S6976: N=20, L=20, pop=60
+S6983: N=20, L=20, pop=60
+S6985: N=20, L=20, pop=60
+S6991: N=20, L=20, pop=60
+S6998: N=20, L=20, pop=60
+S7008: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S7008: N=18, L=26, pop=70
+S6263: N=27, L=26, pop=79
+S33: N=22, L=60, pop=142
+S5109: N=22, L=38, pop=98
+S5257: N=30, L=25, pop=80
+S5358: N=28, L=41, pop=110
+S5769: N=31, L=23, pop=77
+S6389: N=19, L=24, pop=67
+S527: N=39, L=33, pop=105
+S883: N=34, L=25, pop=84
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5241 deleted, pop=60
+S5247 deleted, pop=60
+S5249 deleted, pop=60
+S7084: N=20, L=20, pop=60
+S7085: N=20, L=20, pop=60
+S7092: N=20, L=20, pop=60
+S7096: N=20, L=20, pop=60
+S7106: N=20, L=20, pop=60
+S7114: N=20, L=20, pop=60
+S7116: N=20, L=20, pop=60
+S7123: N=20, L=20, pop=60
+S7130: N=20, L=20, pop=60
+S7139: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S6312: N=15, L=29, pop=73
+S1582: N=30, L=39, pop=108
+S6157: N=23, L=23, pop=69
+S5013: N=17, L=37, pop=91
+S6423: N=25, L=18, pop=61
+S1054: N=39, L=38, pop=115
+S6716: N=20, L=23, pop=66
+S6830: N=27, L=19, pop=65
+S5617: N=24, L=29, pop=82
+S2640: N=18, L=35, pop=88
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5261 deleted, pop=60
+S5340 deleted, pop=60
+S5343 deleted, pop=60
+S5350 deleted, pop=60
+S5351 deleted, pop=60
+S5370 deleted, pop=60
+S5378 deleted, pop=60
+S7206: N=20, L=20, pop=60
+S7212: N=20, L=20, pop=60
+S7219: N=20, L=20, pop=60
+S7228: N=20, L=20, pop=60
+S7234: N=20, L=20, pop=60
+S7241: N=20, L=20, pop=60
+S7243: N=20, L=20, pop=60
+S7253: N=20, L=20, pop=60
+S7254: N=20, L=20, pop=60
+S7257: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S5629: N=26, L=17, pop=60
+S2502: N=37, L=22, pop=81
+S7243: N=17, L=19, pop=55
+S5610: N=30, L=26, pop=82
+S5014: N=31, L=40, pop=111
+S6156: N=17, L=15, pop=47
+S5388: N=23, L=31, pop=85
+S3275: N=25, L=25, pop=75
+S7257: N=19, L=30, pop=79
+S1344: N=33, L=28, pop=89
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S6156 deleted, pop=47
+S7243 deleted, pop=55
+S5381 deleted, pop=60
+S7334: N=20, L=20, pop=60
+S7343: N=20, L=20, pop=60
+S7347: N=20, L=20, pop=60
+S7348: N=20, L=20, pop=60
+S7353: N=20, L=20, pop=60
+S7362: N=20, L=20, pop=60
+S7370: N=20, L=20, pop=60
+S7373: N=20, L=20, pop=60
+S7377: N=20, L=20, pop=60
+S7385: N=20, L=20, pop=60
+1: S640, pop=204
+2: S229, pop=192
+3: S1031, pop=164
+S1031: N=55, L=67, pop=189
+S6279: N=17, L=31, pop=79
+S1701: N=25, L=36, pop=97
+S5109: N=19, L=41, pop=101
+S7370: N=28, L=29, pop=86
+S5636: N=24, L=17, pop=58
+S5109: N=19, L=43, pop=105
+S5517: N=29, L=36, pop=101
+S640: N=65, L=81, pop=227
+S2495: N=22, L=37, pop=96
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S5636 deleted, pop=58
+S5483 deleted, pop=60
+S5494 deleted, pop=60
+S5500 deleted, pop=60
+S5503 deleted, pop=60
+S5510 deleted, pop=60
+S5516 deleted, pop=60
+S5619 deleted, pop=60
+S5629 deleted, pop=60
+S5641 deleted, pop=60
+S7468: N=20, L=20, pop=60
+S7470: N=20, L=20, pop=60
+S7479: N=20, L=20, pop=60
+S7482: N=20, L=20, pop=60
+S7487: N=20, L=20, pop=60
+S7492: N=20, L=20, pop=60
+S7501: N=20, L=20, pop=60
+S7511: N=20, L=20, pop=60
+S7518: N=20, L=20, pop=60
+S7526: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S6021: N=29, L=17, pop=63
+S1568: N=25, L=45, pop=115
+S5106: N=25, L=33, pop=91
+S7253: N=24, L=17, pop=58
+S1685: N=29, L=27, pop=83
+S6411: N=23, L=19, pop=61
+S6847: N=21, L=18, pop=57
+S2134: N=21, L=33, pop=87
+S6949: N=28, L=19, pop=66
+S6862: N=17, L=21, pop=59
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S6847 deleted, pop=57
+S7253 deleted, pop=58
+S6862 deleted, pop=59
+S5643 deleted, pop=60
+S5651 deleted, pop=60
+S5658 deleted, pop=60
+S5743 deleted, pop=60
+S5757 deleted, pop=60
+S5767 deleted, pop=60
+S7594: N=20, L=20, pop=60
+S7604: N=20, L=20, pop=60
+S7611: N=20, L=20, pop=60
+S7613: N=20, L=20, pop=60
+S7614: N=20, L=20, pop=60
+S7615: N=20, L=20, pop=60
+S7620: N=20, L=20, pop=60
+S7627: N=20, L=20, pop=60
+S7636: N=20, L=20, pop=60
+S7646: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S4772: N=29, L=32, pop=93
+S7482: N=17, L=18, pop=53
+S1040: N=36, L=37, pop=110
+S1145: N=22, L=36, pop=94
+S1312: N=35, L=32, pop=99
+S4651: N=24, L=31, pop=86
+S6568: N=24, L=25, pop=74
+S883: N=33, L=30, pop=93
+S260: N=24, L=53, pop=130
+S3397: N=18, L=31, pop=80
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7482 deleted, pop=53
+S5775 deleted, pop=60
+S5781 deleted, pop=60
+S5865 deleted, pop=60
+S5893 deleted, pop=60
+S5895 deleted, pop=60
+S5902 deleted, pop=60
+S7712: N=20, L=20, pop=60
+S7717: N=20, L=20, pop=60
+S7725: N=20, L=20, pop=60
+S7729: N=20, L=20, pop=60
+S7736: N=20, L=20, pop=60
+S7740: N=20, L=20, pop=60
+S7743: N=20, L=20, pop=60
+S7751: N=20, L=20, pop=60
+S7760: N=20, L=20, pop=60
+S7762: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7613: N=19, L=30, pop=79
+S6023: N=30, L=19, pop=68
+S6145: N=24, L=26, pop=76
+S6128: N=26, L=17, pop=60
+S2098: N=32, L=60, pop=152
+S517: N=60, L=33, pop=126
+S6697: N=30, L=17, pop=64
+S6023: N=25, L=19, pop=63
+S1830: N=31, L=42, pop=115
+S6985: N=17, L=21, pop=59
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S6985 deleted, pop=59
+S5923 deleted, pop=60
+S6025 deleted, pop=60
+S6034 deleted, pop=60
+S6044 deleted, pop=60
+S6128 deleted, pop=60
+S6130 deleted, pop=60
+S6140 deleted, pop=60
+S6144 deleted, pop=60
+S7848: N=20, L=20, pop=60
+S7849: N=20, L=20, pop=60
+S7859: N=20, L=20, pop=60
+S7869: N=20, L=20, pop=60
+S7877: N=20, L=20, pop=60
+S7883: N=20, L=20, pop=60
+S7890: N=20, L=20, pop=60
+S7893: N=20, L=20, pop=60
+S7901: N=20, L=20, pop=60
+S7905: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S3994: N=37, L=31, pop=99
+S5232: N=25, L=29, pop=83
+S7241: N=15, L=17, pop=49
+S2520: N=29, L=27, pop=83
+S3986: N=25, L=25, pop=75
+S1169: N=48, L=46, pop=140
+S6303: N=17, L=16, pop=49
+S5388: N=31, L=39, pop=109
+S6854: N=25, L=17, pop=59
+S7646: N=24, L=28, pop=80
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S6303 deleted, pop=49
+S7241 deleted, pop=49
+S6854 deleted, pop=59
+S6153 deleted, pop=60
+S6163 deleted, pop=60
+S7981: N=20, L=20, pop=60
+S7991: N=20, L=20, pop=60
+S8001: N=20, L=20, pop=60
+S8010: N=20, L=20, pop=60
+S8013: N=20, L=20, pop=60
+S8018: N=20, L=20, pop=60
+S8028: N=20, L=20, pop=60
+S8034: N=20, L=20, pop=60
+S8041: N=20, L=20, pop=60
+S8044: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7611: N=29, L=29, pop=87
+S6678: N=22, L=15, pop=52
+S4537: N=27, L=23, pop=73
+S4767: N=31, L=26, pop=83
+S1025: N=15, L=32, pop=79
+S7620: N=21, L=25, pop=71
+S2640: N=22, L=38, pop=98
+S6413: N=25, L=15, pop=55
+S6145: N=21, L=35, pop=91
+S5617: N=25, L=29, pop=83
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S6678 deleted, pop=52
+S8140: N=20, L=20, pop=60
+S8145: N=20, L=20, pop=60
+S8149: N=20, L=20, pop=60
+S8157: N=20, L=20, pop=60
+S8159: N=20, L=20, pop=60
+S8162: N=20, L=20, pop=60
+S8172: N=20, L=20, pop=60
+S8173: N=20, L=20, pop=60
+S8177: N=20, L=20, pop=60
+S8186: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7257: N=23, L=29, pop=81
+S5751: N=21, L=26, pop=73
+S7385: N=17, L=18, pop=53
+S8172: N=15, L=23, pop=61
+S6271: N=22, L=26, pop=74
+S4512: N=35, L=25, pop=85
+S5120: N=22, L=25, pop=72
+S7760: N=30, L=26, pop=82
+S6704: N=20, L=19, pop=58
+S1821: N=27, L=27, pop=81
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7385 deleted, pop=53
+S6413 deleted, pop=55
+S6704 deleted, pop=58
+S6165 deleted, pop=60
+S6275 deleted, pop=60
+S8274: N=20, L=20, pop=60
+S8284: N=20, L=20, pop=60
+S8286: N=20, L=20, pop=60
+S8291: N=20, L=20, pop=60
+S8292: N=20, L=20, pop=60
+S8298: N=20, L=20, pop=60
+S8305: N=20, L=20, pop=60
+S8308: N=20, L=20, pop=60
+S8314: N=20, L=20, pop=60
+S8315: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S4283: N=20, L=36, pop=92
+S8298: N=21, L=28, pop=77
+S2374: N=38, L=35, pop=108
+S7487: N=18, L=21, pop=60
+S7526: N=27, L=15, pop=57
+S1681: N=30, L=34, pop=98
+S7219: N=28, L=28, pop=84
+S2098: N=31, L=56, pop=143
+S116: N=52, L=40, pop=132
+S1169: N=47, L=48, pop=143
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7526 deleted, pop=57
+S6286 deleted, pop=60
+S6305 deleted, pop=60
+S8398: N=20, L=20, pop=60
+S8399: N=20, L=20, pop=60
+S8400: N=20, L=20, pop=60
+S8403: N=20, L=20, pop=60
+S8407: N=20, L=20, pop=60
+S8417: N=20, L=20, pop=60
+S8419: N=20, L=20, pop=60
+S8429: N=20, L=20, pop=60
+S8433: N=20, L=20, pop=60
+S8442: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7139: N=28, L=28, pop=84
+S6949: N=33, L=26, pop=85
+S7106: N=30, L=18, pop=66
+S7893: N=19, L=29, pop=77
+S3397: N=21, L=38, pop=97
+S2264: N=32, L=34, pop=100
+S6555: N=27, L=18, pop=63
+S2245: N=32, L=40, pop=112
+S5358: N=38, L=39, pop=116
+S5617: N=21, L=35, pop=91
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S6398 deleted, pop=60
+S6418 deleted, pop=60
+S6431 deleted, pop=60
+S8526: N=20, L=20, pop=60
+S8529: N=20, L=20, pop=60
+S8538: N=20, L=20, pop=60
+S8539: N=20, L=20, pop=60
+S8540: N=20, L=20, pop=60
+S8542: N=20, L=20, pop=60
+S8551: N=20, L=20, pop=60
+S8555: N=20, L=20, pop=60
+S8558: N=20, L=20, pop=60
+S8568: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S2363: N=40, L=35, pop=110
+S5532: N=34, L=25, pop=84
+S8433: N=24, L=25, pop=74
+S7604: N=23, L=23, pop=69
+S5610: N=28, L=30, pop=88
+S8274: N=28, L=17, pop=62
+S4365: N=28, L=30, pop=88
+S8274: N=30, L=13, pop=56
+S7736: N=27, L=27, pop=81
+S785: N=26, L=30, pop=86
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8274 deleted, pop=56
+S6435 deleted, pop=60
+S6441 deleted, pop=60
+S6513 deleted, pop=60
+S6519 deleted, pop=60
+S6520 deleted, pop=60
+S6522 deleted, pop=60
+S6531 deleted, pop=60
+S8650: N=20, L=20, pop=60
+S8656: N=20, L=20, pop=60
+S8661: N=20, L=20, pop=60
+S8666: N=20, L=20, pop=60
+S8668: N=20, L=20, pop=60
+S8673: N=20, L=20, pop=60
+S8683: N=20, L=20, pop=60
+S8686: N=20, L=20, pop=60
+S8694: N=20, L=20, pop=60
+S8696: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S537: N=41, L=39, pop=119
+S7991: N=17, L=28, pop=73
+S6671: N=20, L=21, pop=62
+S8529: N=20, L=19, pop=58
+S8041: N=28, L=25, pop=78
+S5013: N=17, L=34, pop=85
+S1936: N=41, L=31, pop=103
+S6312: N=24, L=31, pop=86
+S1701: N=31, L=32, pop=95
+S8650: N=18, L=30, pop=78
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8529 deleted, pop=58
+S8780: N=20, L=20, pop=60
+S8784: N=20, L=20, pop=60
+S8792: N=20, L=20, pop=60
+S8798: N=20, L=20, pop=60
+S8805: N=20, L=20, pop=60
+S8810: N=20, L=20, pop=60
+S8811: N=20, L=20, pop=60
+S8819: N=20, L=20, pop=60
+S8827: N=20, L=20, pop=60
+S8833: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S5517: N=26, L=37, pop=100
+S517: N=55, L=35, pop=125
+S7370: N=32, L=28, pop=88
+S8805: N=25, L=24, pop=73
+S7905: N=22, L=15, pop=52
+S5617: N=28, L=44, pop=116
+S7479: N=27, L=29, pop=85
+S6677: N=24, L=15, pop=54
+S785: N=30, L=36, pop=102
+S8403: N=28, L=20, pop=68
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7905 deleted, pop=52
+S6677 deleted, pop=54
+S6551 deleted, pop=60
+S6559 deleted, pop=60
+S8911: N=20, L=20, pop=60
+S8915: N=20, L=20, pop=60
+S8921: N=20, L=20, pop=60
+S8924: N=20, L=20, pop=60
+S8929: N=20, L=20, pop=60
+S8936: N=20, L=20, pop=60
+S8938: N=20, L=20, pop=60
+S8948: N=20, L=20, pop=60
+S8954: N=20, L=20, pop=60
+S8963: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S6555: N=32, L=14, pop=60
+S7085: N=22, L=21, pop=64
+S3994: N=45, L=37, pop=119
+S8407: N=17, L=26, pop=69
+S8044: N=20, L=17, pop=54
+S8805: N=25, L=22, pop=69
+S2520: N=29, L=30, pop=89
+S7901: N=28, L=25, pop=78
+S7613: N=15, L=40, pop=95
+S7901: N=28, L=24, pop=76
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8044 deleted, pop=54
+S6555 deleted, pop=60
+S6658 deleted, pop=60
+S6664 deleted, pop=60
+S6688 deleted, pop=60
+S6810 deleted, pop=60
+S6817 deleted, pop=60
+S6820 deleted, pop=60
+S6824 deleted, pop=60
+S6837 deleted, pop=60
+S9056: N=20, L=20, pop=60
+S9060: N=20, L=20, pop=60
+S9066: N=20, L=20, pop=60
+S9068: N=20, L=20, pop=60
+S9076: N=20, L=20, pop=60
+S9084: N=20, L=20, pop=60
+S9088: N=20, L=20, pop=60
+S9098: N=20, L=20, pop=60
+S9103: N=20, L=20, pop=60
+S9105: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S1681: N=37, L=31, pop=99
+S8827: N=18, L=20, pop=58
+S2098: N=28, L=61, pop=150
+S8819: N=18, L=30, pop=78
+S4540: N=28, L=42, pop=112
+S3275: N=22, L=23, pop=68
+S7468: N=30, L=25, pop=80
+S241: N=30, L=45, pop=120
+S6157: N=25, L=24, pop=73
+S6958: N=23, L=29, pop=81
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8827 deleted, pop=58
+S6853 deleted, pop=60
+S6939 deleted, pop=60
+S6968 deleted, pop=60
+S6976 deleted, pop=60
+S9200: N=20, L=20, pop=60
+S9201: N=20, L=20, pop=60
+S9211: N=20, L=20, pop=60
+S9212: N=20, L=20, pop=60
+S9221: N=20, L=20, pop=60
+S9225: N=20, L=20, pop=60
+S9234: N=20, L=20, pop=60
+S9240: N=20, L=20, pop=60
+S9248: N=20, L=20, pop=60
+S9249: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7740: N=15, L=17, pop=49
+S8650: N=21, L=39, pop=99
+S2264: N=27, L=44, pop=115
+S650: N=28, L=57, pop=142
+S4540: N=38, L=48, pop=134
+S2124: N=35, L=40, pop=115
+S9249: N=21, L=17, pop=55
+S33: N=20, L=60, pop=140
+S7362: N=25, L=19, pop=63
+S8398: N=30, L=27, pop=84
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7740 deleted, pop=49
+S9249 deleted, pop=55
+S6983 deleted, pop=60
+S6991 deleted, pop=60
+S6998 deleted, pop=60
+S7084 deleted, pop=60
+S9317: N=20, L=20, pop=60
+S9323: N=20, L=20, pop=60
+S9325: N=20, L=20, pop=60
+S9334: N=20, L=20, pop=60
+S9344: N=20, L=20, pop=60
+S9351: N=20, L=20, pop=60
+S9353: N=20, L=20, pop=60
+S9359: N=20, L=20, pop=60
+S9367: N=20, L=20, pop=60
+S9377: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7901: N=26, L=32, pop=90
+S8314: N=23, L=30, pop=83
+S3253: N=31, L=35, pop=101
+S9084: N=25, L=30, pop=85
+S7859: N=17, L=17, pop=51
+S1936: N=37, L=40, pop=117
+S4643: N=33, L=27, pop=87
+S7717: N=21, L=21, pop=63
+S1461: N=37, L=35, pop=107
+S7487: N=22, L=23, pop=68
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7859 deleted, pop=51
+S7092 deleted, pop=60
+S9477: N=20, L=20, pop=60
+S9484: N=20, L=20, pop=60
+S9489: N=20, L=20, pop=60
+S9499: N=20, L=20, pop=60
+S9509: N=20, L=20, pop=60
+S9512: N=20, L=20, pop=60
+S9519: N=20, L=20, pop=60
+S9522: N=20, L=20, pop=60
+S9529: N=20, L=20, pop=60
+S9534: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8429: N=15, L=21, pop=57
+S9344: N=21, L=17, pop=55
+S8145: N=19, L=24, pop=67
+S9105: N=16, L=25, pop=66
+S9088: N=18, L=22, pop=62
+S2784: N=26, L=24, pop=74
+S2495: N=26, L=43, pop=112
+S8673: N=28, L=28, pop=84
+S5106: N=20, L=35, pop=90
+S6145: N=17, L=45, pop=107
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S9344 deleted, pop=55
+S8429 deleted, pop=57
+S7096 deleted, pop=60
+S7114 deleted, pop=60
+S7116 deleted, pop=60
+S7123 deleted, pop=60
+S9629: N=20, L=20, pop=60
+S9632: N=20, L=20, pop=60
+S9642: N=20, L=20, pop=60
+S9644: N=20, L=20, pop=60
+S9651: N=20, L=20, pop=60
+S9654: N=20, L=20, pop=60
+S9664: N=20, L=20, pop=60
+S9668: N=20, L=20, pop=60
+S9673: N=20, L=20, pop=60
+S9678: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8954: N=28, L=22, pop=72
+S1946: N=33, L=24, pop=81
+S8929: N=17, L=17, pop=51
+S1312: N=42, L=33, pop=108
+S9103: N=20, L=26, pop=72
+S7228: N=23, L=15, pop=53
+S7901: N=31, L=29, pop=89
+S6716: N=20, L=23, pop=66
+S7234: N=24, L=24, pop=72
+S7890: N=18, L=29, pop=76
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8929 deleted, pop=51
+S7228 deleted, pop=53
+S7130 deleted, pop=60
+S7206 deleted, pop=60
+S9740: N=20, L=20, pop=60
+S9747: N=20, L=20, pop=60
+S9757: N=20, L=20, pop=60
+S9766: N=20, L=20, pop=60
+S9770: N=20, L=20, pop=60
+S9775: N=20, L=20, pop=60
+S9779: N=20, L=20, pop=60
+S9785: N=20, L=20, pop=60
+S9786: N=20, L=20, pop=60
+S9789: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S2640: N=17, L=37, pop=91
+S9644: N=18, L=22, pop=62
+S7219: N=27, L=27, pop=81
+S3253: N=39, L=42, pop=123
+S8539: N=30, L=17, pop=64
+S8028: N=15, L=27, pop=69
+S3876: N=29, L=26, pop=81
+S1316: N=48, L=27, pop=102
+S3045: N=27, L=31, pop=89
+S7234: N=21, L=21, pop=63
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7212 deleted, pop=60
+S7254 deleted, pop=60
+S7334 deleted, pop=60
+S7343 deleted, pop=60
+S7347 deleted, pop=60
+S7348 deleted, pop=60
+S7353 deleted, pop=60
+S9855: N=20, L=20, pop=60
+S9863: N=20, L=20, pop=60
+S9867: N=20, L=20, pop=60
+S9868: N=20, L=20, pop=60
+S9871: N=20, L=20, pop=60
+S9881: N=20, L=20, pop=60
+S9886: N=20, L=20, pop=60
+S9891: N=20, L=20, pop=60
+S9900: N=20, L=20, pop=60
+S9903: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S1461: N=40, L=42, pop=124
+S9863: N=26, L=29, pop=84
+S33: N=27, L=56, pop=139
+S9325: N=26, L=17, pop=60
+S7139: N=32, L=38, pop=108
+S8792: N=19, L=22, pop=63
+S783: N=66, L=36, pop=138
+S1144: N=13, L=37, pop=87
+S8784: N=20, L=20, pop=60
+S7743: N=15, L=24, pop=63
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7373 deleted, pop=60
+S7377 deleted, pop=60
+S7470 deleted, pop=60
+S9980: N=20, L=20, pop=60
+S9987: N=20, L=20, pop=60
+S9997: N=20, L=20, pop=60
+S9998: N=20, L=20, pop=60
+S10005: N=20, L=20, pop=60
+S10014: N=20, L=20, pop=60
+S10024: N=20, L=20, pop=60
+S10026: N=20, L=20, pop=60
+S10034: N=20, L=20, pop=60
+S10042: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S6716: N=22, L=20, pop=62
+S5109: N=20, L=41, pop=102
+S650: N=26, L=62, pop=150
+S8805: N=24, L=30, pop=84
+S9248: N=18, L=19, pop=56
+S4017: N=33, L=27, pop=87
+S9519: N=29, L=20, pop=69
+S5760: N=36, L=25, pop=86
+S8315: N=17, L=24, pop=65
+S8780: N=20, L=29, pop=78
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S9248 deleted, pop=56
+S7492 deleted, pop=60
+S7501 deleted, pop=60
+S7511 deleted, pop=60
+S10132: N=20, L=20, pop=60
+S10134: N=20, L=20, pop=60
+S10139: N=20, L=20, pop=60
+S10149: N=20, L=20, pop=60
+S10155: N=20, L=20, pop=60
+S10165: N=20, L=20, pop=60
+S10168: N=20, L=20, pop=60
+S10174: N=20, L=20, pop=60
+S10180: N=20, L=20, pop=60
+S10190: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S2625: N=38, L=54, pop=146
+S537: N=42, L=45, pop=132
+S8314: N=25, L=29, pop=83
+S8668: N=26, L=20, pop=66
+S8551: N=30, L=15, pop=60
+S4121: N=25, L=29, pop=83
+S6423: N=21, L=22, pop=65
+S1823: N=51, L=43, pop=137
+S785: N=25, L=40, pop=105
+S9747: N=15, L=23, pop=61
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7518 deleted, pop=60
+S7594 deleted, pop=60
+S7614 deleted, pop=60
+S7615 deleted, pop=60
+S7627 deleted, pop=60
+S7636 deleted, pop=60
+S7712 deleted, pop=60
+S7725 deleted, pop=60
+S7729 deleted, pop=60
+S7751 deleted, pop=60
+S10257: N=20, L=20, pop=60
+S10263: N=20, L=20, pop=60
+S10266: N=20, L=20, pop=60
+S10276: N=20, L=20, pop=60
+S10283: N=20, L=20, pop=60
+S10292: N=20, L=20, pop=60
+S10295: N=20, L=20, pop=60
+S10305: N=20, L=20, pop=60
+S10306: N=20, L=20, pop=60
+S10312: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S1821: N=24, L=30, pop=84
+S8673: N=31, L=34, pop=99
+S8819: N=18, L=34, pop=86
+S4625: N=27, L=23, pop=73
+S9489: N=29, L=15, pop=59
+S9200: N=29, L=18, pop=65
+S8568: N=19, L=27, pop=73
+S7869: N=15, L=16, pop=47
+S7743: N=18, L=28, pop=74
+S1206: N=28, L=52, pop=132
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7869 deleted, pop=47
+S10389: N=20, L=20, pop=60
+S10396: N=20, L=20, pop=60
+S10403: N=20, L=20, pop=60
+S10409: N=20, L=20, pop=60
+S10418: N=20, L=20, pop=60
+S10428: N=20, L=20, pop=60
+S10434: N=20, L=20, pop=60
+S10440: N=20, L=20, pop=60
+S10447: N=20, L=20, pop=60
+S10455: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S9489: N=34, L=12, pop=58
+S3876: N=33, L=28, pop=89
+S1946: N=33, L=30, pop=93
+S2219: N=42, L=40, pop=122
+S1155: N=52, L=56, pop=164
+S9673: N=29, L=22, pop=73
+S8683: N=21, L=20, pop=61
+S8162: N=18, L=22, pop=62
+S9221: N=16, L=29, pop=74
+S10418: N=24, L=24, pop=72
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S9489 deleted, pop=58
+S7762 deleted, pop=60
+S7848 deleted, pop=60
+S7849 deleted, pop=60
+S7877 deleted, pop=60
+S7883 deleted, pop=60
+S7981 deleted, pop=60
+S8001 deleted, pop=60
+S8010 deleted, pop=60
+S10543: N=20, L=20, pop=60
+S10545: N=20, L=20, pop=60
+S10547: N=20, L=20, pop=60
+S10551: N=20, L=20, pop=60
+S10554: N=20, L=20, pop=60
+S10557: N=20, L=20, pop=60
+S10559: N=20, L=20, pop=60
+S10566: N=20, L=20, pop=60
+S10567: N=20, L=20, pop=60
+S10571: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S10283: N=30, L=24, pop=78
+S9664: N=26, L=30, pop=86
+S6312: N=21, L=30, pop=81
+S8539: N=36, L=20, pop=76
+S9654: N=23, L=22, pop=67
+S5735: N=21, L=25, pop=71
+S33: N=24, L=56, pop=136
+S2502: N=47, L=22, pop=91
+S2219: N=46, L=43, pop=132
+S9098: N=30, L=17, pop=64
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8013 deleted, pop=60
+S10655: N=20, L=20, pop=60
+S10657: N=20, L=20, pop=60
+S10663: N=20, L=20, pop=60
+S10670: N=20, L=20, pop=60
+S10674: N=20, L=20, pop=60
+S10680: N=20, L=20, pop=60
+S10682: N=20, L=20, pop=60
+S10689: N=20, L=20, pop=60
+S10697: N=20, L=20, pop=60
+S10705: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S10455: N=22, L=22, pop=66
+S10403: N=19, L=19, pop=57
+S4120: N=28, L=35, pop=98
+S10547: N=26, L=16, pop=58
+S7890: N=15, L=27, pop=69
+S9903: N=18, L=20, pop=58
+S537: N=42, L=53, pop=148
+S8145: N=14, L=33, pop=80
+S10557: N=28, L=23, pop=74
+S9351: N=29, L=23, pop=75
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S10403 deleted, pop=57
+S9903 deleted, pop=58
+S10547 deleted, pop=58
+S8018 deleted, pop=60
+S8034 deleted, pop=60
+S8140 deleted, pop=60
+S8149 deleted, pop=60
+S8157 deleted, pop=60
+S10774: N=20, L=20, pop=60
+S10780: N=20, L=20, pop=60
+S10788: N=20, L=20, pop=60
+S10795: N=20, L=20, pop=60
+S10802: N=20, L=20, pop=60
+S10807: N=20, L=20, pop=60
+S10813: N=20, L=20, pop=60
+S10819: N=20, L=20, pop=60
+S10825: N=20, L=20, pop=60
+S10828: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S10190: N=15, L=24, pop=63
+S9863: N=34, L=38, pop=110
+S7613: N=22, L=49, pop=120
+S2374: N=47, L=41, pop=129
+S10266: N=27, L=16, pop=59
+S8805: N=21, L=39, pop=99
+S9980: N=20, L=23, pop=66
+S8162: N=13, L=19, pop=51
+S5109: N=22, L=48, pop=118
+S8686: N=21, L=28, pop=77
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8162 deleted, pop=51
+S10266 deleted, pop=59
+S10905: N=20, L=20, pop=60
+S10909: N=20, L=20, pop=60
+S10918: N=20, L=20, pop=60
+S10920: N=20, L=20, pop=60
+S10922: N=20, L=20, pop=60
+S10928: N=20, L=20, pop=60
+S10934: N=20, L=20, pop=60
+S10940: N=20, L=20, pop=60
+S10943: N=20, L=20, pop=60
+S10952: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S4994: N=24, L=37, pop=98
+S6958: N=25, L=37, pop=99
+S1206: N=23, L=61, pop=145
+S8145: N=10, L=29, pop=68
+S5884: N=23, L=20, pop=63
+S10909: N=19, L=27, pop=73
+S9212: N=28, L=19, pop=66
+S9359: N=15, L=25, pop=65
+S8696: N=23, L=15, pop=53
+S1568: N=24, L=47, pop=118
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8696 deleted, pop=53
+S8159 deleted, pop=60
+S8173 deleted, pop=60
+S8177 deleted, pop=60
+S8186 deleted, pop=60
+S8284 deleted, pop=60
+S8286 deleted, pop=60
+S8291 deleted, pop=60
+S8292 deleted, pop=60
+S8305 deleted, pop=60
+S11020: N=20, L=20, pop=60
+S11021: N=20, L=20, pop=60
+S11025: N=20, L=20, pop=60
+S11026: N=20, L=20, pop=60
+S11028: N=20, L=20, pop=60
+S11031: N=20, L=20, pop=60
+S11038: N=20, L=20, pop=60
+S11046: N=20, L=20, pop=60
+S11049: N=20, L=20, pop=60
+S11056: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S3253: N=48, L=52, pop=152
+S4273: N=18, L=19, pop=56
+S3886: N=19, L=25, pop=69
+S8419: N=26, L=19, pop=64
+S10813: N=21, L=25, pop=71
+S9770: N=20, L=29, pop=78
+S1144: N=13, L=35, pop=83
+S7890: N=20, L=27, pop=74
+S11025: N=30, L=16, pop=62
+S1828: N=27, L=36, pop=99
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S4273 deleted, pop=56
+S8308 deleted, pop=60
+S8399 deleted, pop=60
+S8400 deleted, pop=60
+S8417 deleted, pop=60
+S8442 deleted, pop=60
+S8526 deleted, pop=60
+S11132: N=20, L=20, pop=60
+S11142: N=20, L=20, pop=60
+S11144: N=20, L=20, pop=60
+S11149: N=20, L=20, pop=60
+S11150: N=20, L=20, pop=60
+S11155: N=20, L=20, pop=60
+S11156: N=20, L=20, pop=60
+S11157: N=20, L=20, pop=60
+S11161: N=20, L=20, pop=60
+S11162: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S2640: N=22, L=38, pop=98
+S26: N=50, L=34, pop=118
+S8668: N=35, L=23, pop=81
+S10455: N=28, L=27, pop=82
+S9886: N=25, L=29, pop=83
+S5388: N=34, L=36, pop=106
+S7008: N=19, L=32, pop=83
+S5366: N=23, L=34, pop=91
+S3986: N=31, L=34, pop=99
+S1144: N=14, L=32, pop=78
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8538 deleted, pop=60
+S8540 deleted, pop=60
+S8542 deleted, pop=60
+S8551 deleted, pop=60
+S8555 deleted, pop=60
+S8558 deleted, pop=60
+S8656 deleted, pop=60
+S8661 deleted, pop=60
+S8666 deleted, pop=60
+S11251: N=20, L=20, pop=60
+S11255: N=20, L=20, pop=60
+S11263: N=20, L=20, pop=60
+S11268: N=20, L=20, pop=60
+S11273: N=20, L=20, pop=60
+S11274: N=20, L=20, pop=60
+S11279: N=20, L=20, pop=60
+S11288: N=20, L=20, pop=60
+S11289: N=20, L=20, pop=60
+S11298: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8810: N=17, L=15, pop=47
+S4733: N=44, L=22, pop=88
+S9212: N=24, L=20, pop=64
+S11155: N=15, L=19, pop=53
+S6710: N=10, L=32, pop=74
+S8145: N=11, L=28, pop=67
+S3253: N=48, L=57, pop=162
+S642: N=52, L=37, pop=126
+S10909: N=18, L=24, pop=66
+S8028: N=21, L=29, pop=79
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8810 deleted, pop=47
+S11155 deleted, pop=53
+S8694 deleted, pop=60
+S8784 deleted, pop=60
+S8798 deleted, pop=60
+S8811 deleted, pop=60
+S8833 deleted, pop=60
+S11380: N=20, L=20, pop=60
+S11385: N=20, L=20, pop=60
+S11395: N=20, L=20, pop=60
+S11402: N=20, L=20, pop=60
+S11411: N=20, L=20, pop=60
+S11421: N=20, L=20, pop=60
+S11422: N=20, L=20, pop=60
+S11432: N=20, L=20, pop=60
+S11439: N=20, L=20, pop=60
+S11448: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7257: N=27, L=39, pop=105
+S5263: N=20, L=42, pop=104
+S10139: N=15, L=18, pop=51
+S10005: N=30, L=29, pop=88
+S10306: N=27, L=18, pop=63
+S11028: N=21, L=18, pop=57
+S9509: N=24, L=15, pop=54
+S374: N=45, L=52, pop=149
+S3536: N=37, L=35, pop=107
+S1812: N=26, L=37, pop=100
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S10139 deleted, pop=51
+S9509 deleted, pop=54
+S11028 deleted, pop=57
+S11517: N=20, L=20, pop=60
+S11523: N=20, L=20, pop=60
+S11533: N=20, L=20, pop=60
+S11537: N=20, L=20, pop=60
+S11540: N=20, L=20, pop=60
+S11544: N=20, L=20, pop=60
+S11549: N=20, L=20, pop=60
+S11552: N=20, L=20, pop=60
+S11557: N=20, L=20, pop=60
+S11566: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S10566: N=26, L=17, pop=60
+S9499: N=20, L=26, pop=72
+S7479: N=23, L=34, pop=91
+S5769: N=29, L=33, pop=95
+S4772: N=38, L=30, pop=98
+S3759: N=24, L=43, pop=110
+S1701: N=35, L=36, pop=107
+S6389: N=21, L=21, pop=63
+S9629: N=29, L=27, pop=83
+S10795: N=28, L=24, pop=76
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8911 deleted, pop=60
+S8915 deleted, pop=60
+S8921 deleted, pop=60
+S8924 deleted, pop=60
+S8936 deleted, pop=60
+S8938 deleted, pop=60
+S11646: N=20, L=20, pop=60
+S11652: N=20, L=20, pop=60
+S11662: N=20, L=20, pop=60
+S11667: N=20, L=20, pop=60
+S11674: N=20, L=20, pop=60
+S11683: N=20, L=20, pop=60
+S11690: N=20, L=20, pop=60
+S11698: N=20, L=20, pop=60
+S11704: N=20, L=20, pop=60
+S11711: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S5109: N=24, L=48, pop=120
+S5123: N=39, L=32, pop=103
+S7234: N=16, L=22, pop=60
+S10283: N=35, L=34, pop=103
+S2867: N=21, L=24, pop=69
+S3045: N=29, L=31, pop=91
+S11038: N=24, L=26, pop=76
+S2867: N=25, L=30, pop=85
+S10689: N=29, L=24, pop=77
+S8145: N=14, L=23, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S7234 deleted, pop=60
+S8145 deleted, pop=60
+S8948 deleted, pop=60
+S8963 deleted, pop=60
+S9056 deleted, pop=60
+S9060 deleted, pop=60
+S9066 deleted, pop=60
+S11773: N=20, L=20, pop=60
+S11774: N=20, L=20, pop=60
+S11775: N=20, L=20, pop=60
+S11776: N=20, L=20, pop=60
+S11780: N=20, L=20, pop=60
+S11783: N=20, L=20, pop=60
+S11784: N=20, L=20, pop=60
+S11794: N=20, L=20, pop=60
+S11799: N=20, L=20, pop=60
+S11806: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S2640: N=25, L=44, pop=113
+S2255: N=19, L=43, pop=105
+S7219: N=34, L=22, pop=78
+S10663: N=23, L=17, pop=57
+S8433: N=30, L=29, pop=88
+S11566: N=20, L=22, pop=64
+S9359: N=20, L=30, pop=80
+S2114: N=25, L=25, pop=75
+S9076: N=19, L=26, pop=71
+S3876: N=31, L=34, pop=99
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S10663 deleted, pop=57
+S11883: N=20, L=20, pop=60
+S11885: N=20, L=20, pop=60
+S11893: N=20, L=20, pop=60
+S11902: N=20, L=20, pop=60
+S11908: N=20, L=20, pop=60
+S11910: N=20, L=20, pop=60
+S11912: N=20, L=20, pop=60
+S11913: N=20, L=20, pop=60
+S11915: N=20, L=20, pop=60
+S11918: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=189
+S8315: N=24, L=33, pop=90
+S10780: N=15, L=18, pop=51
+S9484: N=15, L=26, pop=67
+S1031: N=54, L=63, pop=180
+S5735: N=31, L=20, pop=71
+S8673: N=40, L=30, pop=100
+S9980: N=29, L=22, pop=73
+S6157: N=29, L=21, pop=71
+S4120: N=32, L=31, pop=94
+S241: N=29, L=45, pop=119
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S10780 deleted, pop=51
+S9068 deleted, pop=60
+S9201 deleted, pop=60
+S9211 deleted, pop=60
+S9225 deleted, pop=60
+S11990: N=20, L=20, pop=60
+S11993: N=20, L=20, pop=60
+S12002: N=20, L=20, pop=60
+S12006: N=20, L=20, pop=60
+S12011: N=20, L=20, pop=60
+S12019: N=20, L=20, pop=60
+S12027: N=20, L=20, pop=60
+S12032: N=20, L=20, pop=60
+S12038: N=20, L=20, pop=60
+S12039: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S650: N=27, L=63, pop=153
+S3536: N=45, L=40, pop=125
+S11448: N=24, L=19, pop=62
+S10674: N=25, L=27, pop=79
+S6016: N=27, L=26, pop=79
+S7620: N=17, L=35, pop=87
+S9076: N=29, L=35, pop=99
+S2245: N=33, L=47, pop=127
+S1187: N=27, L=28, pop=83
+S5120: N=21, L=28, pop=77
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S9234 deleted, pop=60
+S9240 deleted, pop=60
+S9317 deleted, pop=60
+S12128: N=20, L=20, pop=60
+S12135: N=20, L=20, pop=60
+S12138: N=20, L=20, pop=60
+S12148: N=20, L=20, pop=60
+S12151: N=20, L=20, pop=60
+S12159: N=20, L=20, pop=60
+S12160: N=20, L=20, pop=60
+S12167: N=20, L=20, pop=60
+S12169: N=20, L=20, pop=60
+S12177: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S1821: N=21, L=38, pop=97
+S5358: N=38, L=37, pop=112
+S10920: N=23, L=22, pop=67
+S6023: N=27, L=24, pop=75
+S11652: N=25, L=19, pop=63
+S11150: N=20, L=20, pop=60
+S11990: N=21, L=17, pop=55
+S9105: N=26, L=26, pop=78
+S9367: N=29, L=28, pop=85
+S5751: N=28, L=27, pop=82
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S11990 deleted, pop=55
+S9323 deleted, pop=60
+S9325 deleted, pop=60
+S9334 deleted, pop=60
+S9353 deleted, pop=60
+S9377 deleted, pop=60
+S12237: N=20, L=20, pop=60
+S12243: N=20, L=20, pop=60
+S12248: N=20, L=20, pop=60
+S12253: N=20, L=20, pop=60
+S12261: N=20, L=20, pop=60
+S12266: N=20, L=20, pop=60
+S12274: N=20, L=20, pop=60
+S12276: N=20, L=20, pop=60
+S12284: N=20, L=20, pop=60
+S12289: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S1821: N=30, L=46, pop=122
+S5769: N=29, L=35, pop=99
+S3886: N=26, L=30, pop=86
+S11540: N=22, L=21, pop=64
+S6423: N=30, L=19, pop=68
+S9534: N=26, L=24, pop=74
+S11049: N=17, L=20, pop=57
+S10566: N=23, L=12, pop=47
+S9084: N=34, L=34, pop=102
+S9477: N=18, L=18, pop=54
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S10566 deleted, pop=47
+S9477 deleted, pop=54
+S11049 deleted, pop=57
+S9512 deleted, pop=60
+S9522 deleted, pop=60
+S9529 deleted, pop=60
+S12357: N=20, L=20, pop=60
+S12361: N=20, L=20, pop=60
+S12363: N=20, L=20, pop=60
+S12370: N=20, L=20, pop=60
+S12379: N=20, L=20, pop=60
+S12383: N=20, L=20, pop=60
+S12386: N=20, L=20, pop=60
+S12388: N=20, L=20, pop=60
+S12389: N=20, L=20, pop=60
+S12391: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S12006: N=20, L=15, pop=50
+S12284: N=16, L=29, pop=74
+S1681: N=47, L=38, pop=123
+S11662: N=27, L=16, pop=59
+S642: N=58, L=37, pop=132
+S11918: N=16, L=16, pop=48
+S11775: N=20, L=18, pop=56
+S4994: N=29, L=33, pop=95
+S642: N=65, L=38, pop=141
+S7468: N=37, L=35, pop=107
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S11918 deleted, pop=48
+S12006 deleted, pop=50
+S11775 deleted, pop=56
+S12464: N=20, L=20, pop=60
+S12474: N=20, L=20, pop=60
+S12484: N=20, L=20, pop=60
+S12489: N=20, L=20, pop=60
+S12495: N=20, L=20, pop=60
+S12496: N=20, L=20, pop=60
+S12502: N=20, L=20, pop=60
+S12507: N=20, L=20, pop=60
+S12508: N=20, L=20, pop=60
+S12511: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=192
+3: S1031, pop=180
+S9980: N=35, L=24, pop=83
+S1568: N=23, L=51, pop=125
+S12148: N=18, L=23, pop=64
+S11549: N=23, L=23, pop=69
+S2374: N=51, L=43, pop=137
+S229: N=50, L=68, pop=186
+S507: N=41, L=38, pop=117
+S12011: N=15, L=21, pop=57
+S8398: N=34, L=33, pop=100
+S9534: N=24, L=27, pop=78
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S12011 deleted, pop=57
+S11662 deleted, pop=59
+S9632 deleted, pop=60
+S9642 deleted, pop=60
+S9651 deleted, pop=60
+S9668 deleted, pop=60
+S9678 deleted, pop=60
+S9740 deleted, pop=60
+S9757 deleted, pop=60
+S12586: N=20, L=20, pop=60
+S12590: N=20, L=20, pop=60
+S12598: N=20, L=20, pop=60
+S12601: N=20, L=20, pop=60
+S12605: N=20, L=20, pop=60
+S12609: N=20, L=20, pop=60
+S12614: N=20, L=20, pop=60
+S12623: N=20, L=20, pop=60
+S12632: N=20, L=20, pop=60
+S12634: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S5874: N=17, L=32, pop=81
+S10440: N=27, L=19, pop=65
+S12019: N=21, L=19, pop=59
+S241: N=24, L=48, pop=120
+S9775: N=22, L=20, pop=62
+S2098: N=25, L=57, pop=139
+S2767: N=32, L=29, pop=90
+S11533: N=15, L=30, pop=75
+S12151: N=21, L=24, pop=69
+S10819: N=27, L=21, pop=69
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S12019 deleted, pop=59
+S9766 deleted, pop=60
+S9779 deleted, pop=60
+S9785 deleted, pop=60
+S9786 deleted, pop=60
+S9789 deleted, pop=60
+S9855 deleted, pop=60
+S9867 deleted, pop=60
+S9868 deleted, pop=60
+S9871 deleted, pop=60
+S12712: N=20, L=20, pop=60
+S12721: N=20, L=20, pop=60
+S12730: N=20, L=20, pop=60
+S12739: N=20, L=20, pop=60
+S12748: N=20, L=20, pop=60
+S12755: N=20, L=20, pop=60
+S12761: N=20, L=20, pop=60
+S12762: N=20, L=20, pop=60
+S12768: N=20, L=20, pop=60
+S12771: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S10802: N=16, L=19, pop=54
+S10943: N=28, L=18, pop=64
+S9886: N=29, L=37, pop=103
+S9673: N=38, L=18, pop=74
+S6710: N=16, L=36, pop=88
+S12266: N=28, L=20, pop=68
+S12474: N=18, L=25, pop=68
+S8028: N=21, L=27, pop=75
+S3275: N=29, L=27, pop=83
+S10155: N=27, L=29, pop=85
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S10802 deleted, pop=54
+S9881 deleted, pop=60
+S9891 deleted, pop=60
+S9900 deleted, pop=60
+S9987 deleted, pop=60
+S9997 deleted, pop=60
+S9998 deleted, pop=60
+S12864: N=20, L=20, pop=60
+S12868: N=20, L=20, pop=60
+S12877: N=20, L=20, pop=60
+S12883: N=20, L=20, pop=60
+S12885: N=20, L=20, pop=60
+S12893: N=20, L=20, pop=60
+S12902: N=20, L=20, pop=60
+S12904: N=20, L=20, pop=60
+S12905: N=20, L=20, pop=60
+S12909: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S10807: N=25, L=29, pop=83
+S11544: N=27, L=19, pop=65
+S10168: N=18, L=30, pop=78
+S11251: N=17, L=18, pop=53
+S5013: N=27, L=34, pop=95
+S7257: N=24, L=35, pop=94
+S2734: N=44, L=41, pop=126
+S5884: N=32, L=16, pop=64
+S7370: N=35, L=28, pop=91
+S2734: N=47, L=39, pop=125
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S11251 deleted, pop=53
+S10014 deleted, pop=60
+S10024 deleted, pop=60
+S10026 deleted, pop=60
+S10034 deleted, pop=60
+S10042 deleted, pop=60
+S10132 deleted, pop=60
+S12987: N=20, L=20, pop=60
+S12988: N=20, L=20, pop=60
+S12997: N=20, L=20, pop=60
+S13006: N=20, L=20, pop=60
+S13013: N=20, L=20, pop=60
+S13021: N=20, L=20, pop=60
+S13025: N=20, L=20, pop=60
+S13034: N=20, L=20, pop=60
+S13042: N=20, L=20, pop=60
+S13047: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S2264: N=35, L=46, pop=127
+S6710: N=16, L=39, pop=94
+S12253: N=21, L=16, pop=53
+S7257: N=23, L=38, pop=99
+S11646: N=20, L=17, pop=54
+S13034: N=24, L=25, pop=74
+S11395: N=19, L=18, pop=55
+S6568: N=26, L=26, pop=78
+S9103: N=29, L=30, pop=89
+S10940: N=27, L=27, pop=81
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S12253 deleted, pop=53
+S11646 deleted, pop=54
+S13128: N=20, L=20, pop=60
+S13137: N=20, L=20, pop=60
+S13147: N=20, L=20, pop=60
+S13155: N=20, L=20, pop=60
+S13161: N=20, L=20, pop=60
+S13163: N=20, L=20, pop=60
+S13166: N=20, L=20, pop=60
+S13172: N=20, L=20, pop=60
+S13175: N=20, L=20, pop=60
+S13178: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S3251: N=30, L=32, pop=94
+S12507: N=20, L=16, pop=52
+S12370: N=21, L=17, pop=55
+S5109: N=24, L=47, pop=118
+S1025: N=13, L=32, pop=77
+S4651: N=32, L=30, pop=92
+S11402: N=26, L=16, pop=58
+S9886: N=38, L=45, pop=128
+S2363: N=35, L=32, pop=99
+S12864: N=25, L=17, pop=59
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S12507 deleted, pop=52
+S11395 deleted, pop=55
+S12370 deleted, pop=55
+S11402 deleted, pop=58
+S13250: N=20, L=20, pop=60
+S13255: N=20, L=20, pop=60
+S13258: N=20, L=20, pop=60
+S13261: N=20, L=20, pop=60
+S13270: N=20, L=20, pop=60
+S13273: N=20, L=20, pop=60
+S13278: N=20, L=20, pop=60
+S13281: N=20, L=20, pop=60
+S13289: N=20, L=20, pop=60
+S13299: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S537: N=52, L=62, pop=176
+S4894: N=31, L=23, pop=77
+S7890: N=15, L=32, pop=79
+S10920: N=22, L=32, pop=86
+S4149: N=38, L=34, pop=106
+S3397: N=21, L=35, pop=91
+S7468: N=43, L=44, pop=131
+S12893: N=30, L=15, pop=60
+S11704: N=29, L=29, pop=87
+S13137: N=18, L=19, pop=56
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S13137 deleted, pop=56
+S13372: N=20, L=20, pop=60
+S13375: N=20, L=20, pop=60
+S13380: N=20, L=20, pop=60
+S13390: N=20, L=20, pop=60
+S13394: N=20, L=20, pop=60
+S13398: N=20, L=20, pop=60
+S13399: N=20, L=20, pop=60
+S13402: N=20, L=20, pop=60
+S13411: N=20, L=20, pop=60
+S13417: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S11537: N=28, L=29, pop=86
+S1681: N=47, L=33, pop=113
+S3397: N=17, L=30, pop=77
+S3759: N=26, L=39, pop=104
+S11537: N=35, L=31, pop=97
+S12768: N=24, L=27, pop=78
+S11780: N=19, L=29, pop=77
+S11432: N=23, L=15, pop=53
+S10807: N=25, L=29, pop=83
+S11056: N=21, L=20, pop=61
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S11432 deleted, pop=53
+S12864 deleted, pop=59
+S10134 deleted, pop=60
+S10149 deleted, pop=60
+S13509: N=20, L=20, pop=60
+S13513: N=20, L=20, pop=60
+S13516: N=20, L=20, pop=60
+S13522: N=20, L=20, pop=60
+S13530: N=20, L=20, pop=60
+S13533: N=20, L=20, pop=60
+S13535: N=20, L=20, pop=60
+S13543: N=20, L=20, pop=60
+S13549: N=20, L=20, pop=60
+S13559: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S4017: N=30, L=31, pop=92
+S10674: N=22, L=34, pop=90
+S7468: N=40, L=47, pop=134
+S13509: N=19, L=23, pop=65
+S8819: N=19, L=36, pop=91
+S12904: N=18, L=27, pop=72
+S5784: N=32, L=20, pop=72
+S13380: N=24, L=26, pop=76
+S12032: N=17, L=27, pop=71
+S5884: N=41, L=17, pop=75
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S10165 deleted, pop=60
+S10174 deleted, pop=60
+S10180 deleted, pop=60
+S10257 deleted, pop=60
+S10263 deleted, pop=60
+S13637: N=20, L=20, pop=60
+S13641: N=20, L=20, pop=60
+S13644: N=20, L=20, pop=60
+S13649: N=20, L=20, pop=60
+S13651: N=20, L=20, pop=60
+S13659: N=20, L=20, pop=60
+S13660: N=20, L=20, pop=60
+S13666: N=20, L=20, pop=60
+S13668: N=20, L=20, pop=60
+S13678: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S10559: N=20, L=17, pop=54
+S10655: N=18, L=29, pop=76
+S5109: N=34, L=51, pop=136
+S5109: N=39, L=57, pop=153
+S11439: N=17, L=19, pop=55
+S7219: N=34, L=25, pop=84
+S4537: N=34, L=23, pop=80
+S7362: N=34, L=29, pop=92
+S12261: N=22, L=26, pop=74
+S10428: N=17, L=23, pop=63
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S10559 deleted, pop=54
+S11439 deleted, pop=55
+S10276 deleted, pop=60
+S10292 deleted, pop=60
+S10295 deleted, pop=60
+S10305 deleted, pop=60
+S10312 deleted, pop=60
+S10389 deleted, pop=60
+S10396 deleted, pop=60
+S10409 deleted, pop=60
+S13740: N=20, L=20, pop=60
+S13744: N=20, L=20, pop=60
+S13753: N=20, L=20, pop=60
+S13758: N=20, L=20, pop=60
+S13765: N=20, L=20, pop=60
+S13772: N=20, L=20, pop=60
+S13775: N=20, L=20, pop=60
+S13780: N=20, L=20, pop=60
+S13782: N=20, L=20, pop=60
+S13787: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S757: N=44, L=39, pop=122
+S11784: N=30, L=17, pop=64
+S13402: N=24, L=30, pop=84
+S1830: N=37, L=37, pop=111
+S7487: N=23, L=29, pop=81
+S12389: N=26, L=29, pop=84
+S12148: N=26, L=29, pop=84
+S8819: N=16, L=34, pop=84
+S11161: N=16, L=26, pop=68
+S2212: N=25, L=20, pop=65
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S10434 deleted, pop=60
+S10447 deleted, pop=60
+S13862: N=20, L=20, pop=60
+S13864: N=20, L=20, pop=60
+S13865: N=20, L=20, pop=60
+S13866: N=20, L=20, pop=60
+S13875: N=20, L=20, pop=60
+S13879: N=20, L=20, pop=60
+S13888: N=20, L=20, pop=60
+S13896: N=20, L=20, pop=60
+S13898: N=20, L=20, pop=60
+S13902: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S7106: N=39, L=16, pop=71
+S6026: N=32, L=33, pop=98
+S2625: N=37, L=55, pop=147
+S13780: N=18, L=17, pop=52
+S13549: N=19, L=30, pop=79
+S5610: N=35, L=26, pop=87
+S7890: N=20, L=42, pop=104
+S9886: N=43, L=46, pop=135
+S6830: N=33, L=29, pop=91
+S12502: N=19, L=28, pop=75
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+S13780 deleted, pop=52
+S10543 deleted, pop=60
+S10545 deleted, pop=60
+S10551 deleted, pop=60
+S10554 deleted, pop=60
+S13972: N=20, L=20, pop=60
+S13976: N=20, L=20, pop=60
+S13981: N=20, L=20, pop=60
+S13985: N=20, L=20, pop=60
+S13986: N=20, L=20, pop=60
+S13991: N=20, L=20, pop=60
+S13999: N=20, L=20, pop=60
+1: S640, pop=227
+2: S229, pop=186
+3: S1031, pop=180
+min 60, max 227
