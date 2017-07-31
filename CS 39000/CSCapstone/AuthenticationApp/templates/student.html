@@ -1,0 +1,26 @@
+{% extends "body.html" %}
+
+{% block head_title %}{{ page_name }} | {% endblock %}
+
+{% block content %}
+
+<div class="container" role="main">
+	<div class="panel panel-default">
+        Name: {{ name }}
+        <br>
+        Email: {{ email }}
+        <br>
+        Languages:
+        {% if java %} Java {% endif %}
+        {% if c_sharp %} C# {% endif %}
+        {% if c_plus_plus %} C++ {% endif %}
+        {% if php %} PHP {% endif %}
+        {% if python %} Python {% endif %}
+        {% if javascript %} Javascript {% endif %}
+        {% if perl %} perl {% endif %}
+        {% if sql %} SQL {% endif %}
+        {% if django %} django {% endif %}
+	</div>
+</div>
+
+{% endblock %}

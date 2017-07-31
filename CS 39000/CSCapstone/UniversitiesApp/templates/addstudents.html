@@ -1,0 +1,42 @@
+{% extends "body.html" %}
+
+{% block content %}
+
+    <form method="post" enctype="multipart/form-data" action="/university/course/addstudents" class="panel-body validate">
+    <!-- Content -->
+    {% csrf_token %}
+    <div class="container" role="main">
+		<label for="name">University</label>
+		<input type="text" name="name" id="name" placeholder="Name" class="form-control" data-bvalidator="required" data-bvalidator-msg="Name Required" value="{{ un }}" readonly>
+        <br>
+		<label for="name">Course</label>
+		<input type="text" name="course" id="name" placeholder="Name" class="form-control" data-bvalidator="required" data-bvalidator-msg="Name Required" value="{{ cn }}" readonly>
+		<div class="table-responsive">
+			<table class="table table-striped sortable">
+				<thead>
+					<tr>
+						<th>In-Class</th>
+						<th>Name</th>
+                        <th>Email</th>
+					</tr>
+				</thead>
+				<tbody>
+                    {% for item in students %}
+                        <tr>
+                            <td><input type="checkbox" name="{{ item.email }}" value="{{ item.email }}"
+                            {% if item.is_in_class %}
+                                checked
+                            {% endif %}
+                            ></td>
+                            <td>{{ item.name }}</td>
+                            <td>{{ item.email }}</td>
+                        </tr>
+                    {% endfor %}
+				</tbody>
+			</table>
+		</div>
+    </div>
+    <input type="submit" value="Submit" class="btn btn-primary">
+    </form>
+
+{% endblock %}

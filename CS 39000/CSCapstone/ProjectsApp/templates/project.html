@@ -1,0 +1,57 @@
+{% extends "body.html" %}
+
+{% block content %}
+    <!-- Content -->
+    <div class="container theme-showcase" role="main">
+        <div class="jumbotron">
+            <label>Project:</label>
+            <h3>{{ project.name }}</h3>
+            <hr>
+            <label>Description:</label>
+            <p>{{ project.description | safe }}</p>
+            <hr>
+            <label>Specialty:</label>
+            <p>{{ project.specialty }}</p>
+            <hr>
+            <label>Years of Experience:</label>
+            <p>{{ project.years }}</p>
+            <hr>
+            <label>Project Language:</label>
+            <p>{{ project.language }}</p>
+            <hr>
+            <label>Sponsoring Company:</label>
+            <p>{{ project.companyForProject }}</p>
+            <hr>
+            {% if userIsMember %}
+                <a href="/project/unjoin?name={{ project.name }}" class="btn btn-default">Unjoin this Project</a>
+                <a href="/project/edit?name={{ project.name }}" class="btn btn-default">Edit this Project</a>
+                <a href="/project/delete?name={{ project.name }}" class="btn btn-default">Delete this Project</a>
+            {% else %}
+                <a href="/project/join?name={{ project.name }}" class="btn btn-default">Join this Project</a>
+            {% endif %}
+        {% if bookmarked %}
+            <a href="/project/unbookmark?name={{ project.name }}" class="btn btn-default">Unbookmark this Project</a>
+        {% else %}
+            <a href="/project/bookmark?name={{ project.name }}" class="btn btn-default">Bookmark this Project</a>
+        {%  endif %}
+        </div>
+    </div>
+    <div class="container" role="main">
+        <div class="table-responsive">
+            <table class="table table-striped sortable">
+                <thead>
+                <tr>
+                    <th>Users</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for item in project.members.all %}
+                    <tr>
+                        <td><a href="/user?email={{ item }}">{{ item.get_full_name }}</a></td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+{% endblock %}

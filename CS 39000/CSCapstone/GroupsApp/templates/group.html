@@ -1,0 +1,126 @@
+{% extends "body.html" %}
+
+{% block content %}
+
+    <!-- Content -->
+    <div class="container theme-showcase" role="main">
+        <div class="jumbotron">
+            <h1>{{ group.name }}</h1>
+            <p>{{ group.description | safe }}</p>
+            <hr>
+            {% if userIsMember %}
+                <form method="post" action="/group/selectproject?group={{ group.name }}">
+                    {% csrf_token %}
+                    <label for="project_picker">Pick which Project you're working on:</label>
+                    <select name="project_picker" id="project_picker">
+                        {% for project in projects %}
+                            <option value="{{ project.name }}">{{ project.name }}</option>
+                        {% endfor %}
+                    </select>
+                    <p></p>
+                    <input type="submit" value="Choose Project" class="btn btn-default">
+                </form>
+                <hr>
+                <form method="post" action="/group/add?name={{ group.name }}">
+                    {% csrf_token %}
+                    <h6 style="color:red">{{ error }}</h6>
+                    <input type="text" name="email" id="email"
+                           placeholder="Enter the email of the person you want to add"
+                           class="form-control" data-bvalidator="required" data-bvalidator-msg="Email Required"
+                           maxlength="150">
+                    <br>
+                    <input type="submit" value="Add Member" class="btn btn-default">
+                </form>
+                <hr>
+                <a href="/group/unjoin?name={{ group.name }}" class="btn btn-default">Unjoin this Group</a>
+                <a href="/group/edit?name={{ group.name }}" class="btn btn-default">Edit this Group</a>
+                <a href="/group/delete?name={{ group.name }}" class="btn btn-default">Delete this Group</a>
+                <a href="/group/match?name={{ group.name }}" class="btn btn-default">Match this Group with a Project</a>
+            {% else %}
+                <a href="/group/join?name={{ group.name }}" class="btn btn-default">Join this Group</a>
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="table-responsive">
+            <hr>
+            <table class="table table-striped sortable">
+                <thead>
+                <tr>
+                    <th>Users</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for item in group.members.all %}
+                    <tr>
+                        <td><a href="/user?email={{ item }}">{{ item.get_full_name }}</a></td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="table-responsive">
+            <hr>
+            <table class="table table-striped sortable">
+                <thead>
+                <tr>
+                    <th>Project</th>
+                    <th>Description</th>
+                    <th>Sponsoring Company</th>
+                    <th>Programming Language</th>
+                    <th>Years Of Experience</th>
+                    <th>Speciality</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>{{ project.name }}</td>
+                    <td>{{ project.description | striptags }}</td>
+                    <td>{{ project.companyForProject }}</td>
+                    <td>{{ project.language }}</td>
+                    <td>{{ project.years }}</td>
+                    <td>{{ project.specialty }}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="container" role="main">
+        <div class="table-responsive">
+            <hr>
+            <table class="table table-striped sortable">
+                <thead>
+                <tr>
+                    <th style="width: 15%">Time</th>
+                    <th style="width: 15%">User</th>
+                    <th style="width: 70%">Comment</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for comment in comments %}
+                    <tr>
+                        <td>{{ comment.time }}</td>
+                        <td>{{ comment.user }}</td>
+                        <td>{{ comment.comment }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <form method="post" enctype="multipart/form-data" action="/group/addcomment?group={{ group.name }}"
+                  class="panel-body validate">
+                {% csrf_token %}
+                <label for="comment">Comment</label>
+                <input type="text" name="comment" id="comment" placeholder="Comment" class="form-control"
+                       data-bvalidator="required" data-bvalidator-msg="Comment Required">
+                <br>
+                <input type="submit" value="Submit" class="btn btn-primary">
+            </form>
+        </div>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,114 @@
+{
+	"application": {
+
+		"title": "MyWatchList",
+
+		"theme": "bootswatch-cerulean",
+
+		"use_collection2": false,
+
+		"collections": [
+			{
+				"name": "titles",
+				"fields": [
+					{ "name": "Title", "title": "Title", "required": true, "exportable": true },
+					{ "name": "Rating", "title": "Rating", "default": "0", "exportable": true, "type": "integer" },
+					{ "name": "Type", "title": "Type", "type": "string", "input": "select", "input_items": [
+                                                        {
+                                                            "value": "anime",
+                                                            "title": "Anime"
+                                                        },
+                                                        {
+                                                            "value": "movie",
+                                                            "title": "Movie"
+                                                        },
+                                                        {
+                                                            "value": "tv show",
+                                                            "title": "TV Show"
+                                                        }
+                                                    ],
+					"exportable": true }
+				]
+			}
+		],
+
+		"queries": [
+			{
+				"name": "titles",
+				"collection": "titles",
+				"filter": {}
+			},
+			{
+				"name": "titles_empty",
+				"collection": "titles",
+				"filter": {"_id": null},
+				"find_one": true
+			},
+			{
+				"name": "titles",
+				"collection": "titles",
+				"filter": { "_id": ":titleId" },
+				"find_one": true
+			}
+		],
+
+		"free_zone": {
+
+			"components": [
+				{
+					"name": "main_menu",
+					"type": "menu",
+					"items": [
+						{ "title": "MyWatchList", "route": "shows" }
+					]
+				}
+			],
+
+			"pages": [
+				{
+					"name": "shows",
+					"components": [
+						{
+							"name": "view",
+							"type": "data_view",
+							"title": "MyWatchList",
+							"text_if_empty": "No Shows",
+
+							"query_name": "titles",
+							"query_params": [],
+
+							"insert_route": "shows.insert",
+							"edit_route": "shows.edit",
+							"edit_route_params": [
+								{ "name": "titleId", "value": "this._id" }
+							],
+							"details_route": "titles.details",
+							"details_route_params": [
+								{ "name": "titleId", "value": "this._id" }
+							]
+						}
+					],
+					"pages": [
+						{
+							"name": "insert",
+							"components": [
+								{
+									"name": "insert_form",
+									"type": "form",
+									"mode": "insert",
+									"title": "New Show/Movie",
+
+									"query_name": "titles_empty",
+									"query_params": [],
+
+									"submit_route": "shows",
+									"cancel_route": "shows"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	}
+}

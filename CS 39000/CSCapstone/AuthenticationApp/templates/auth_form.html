@@ -1,0 +1,26 @@
+{% extends "body.html" %}
+
+{% block head_title %}{{ page_name }} | {% endblock %}
+
+{% block head %}
+    {{ form.media }}
+{% endblock %}
+
+{% block content %}
+
+<div class="container" role="main">
+	<div class="panel panel-default">
+		<form method="POST" class="panel-body validate"> {% csrf_token %}
+            <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+            <script>tinymce.init({ selector:'textarea' });</script>
+			{{ form.as_p }}
+            {% if user.is_student %}
+                <h4>Select all languages and frameworks you know:</h4>
+            {% endif %}
+            {{ form_specific.as_p }}
+			<input type="submit" class='btn btn-primary' value="{{ button_value }}">
+		</form>
+	</div>
+</div>
+
+{% endblock %}

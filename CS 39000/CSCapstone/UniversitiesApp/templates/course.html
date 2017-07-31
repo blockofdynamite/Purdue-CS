@@ -1,0 +1,55 @@
+{% extends "body.html" %}
+
+{% block content %}
+	<!-- Content -->
+    <div class="container theme-showcase" role="main">
+		<div class="jumbotron">
+            <img src="/{{ university.photo }}" alt="University Image" width=150/>
+			<h2>{{ course.tag }}</h2>
+			<h3>{{ course.name }}</h3>
+			<p>{{ course.description |safe }}</p>
+            {% if user.is_student or user.is_teacher %}
+                {% if userInUni %}
+                    {% if userInCourse %}
+                        <a href="/university/course/unjoin?name={{ university.name }}&course={{ course.tag }}" class="btn btn-default">Unjoin this Course</a>
+                    {% else %}
+                        <a href="/university/course/join?name={{ university.name }}&course={{ course.tag }}" class="btn btn-default">Join this Course</a>
+                    {% endif %}
+                {% endif %}
+            {% endif %}
+            {% if user.is_teacher and userInCourse %}
+			    <a href="/university/course/remove?name={{ university.name }}&course={{ course.tag }}" class="btn btn-default">Delete this Course</a>
+		        <a href="/university/course/addstudents?name={{ university.name }}&course={{ course.tag }}" class="btn btn-default">Manage Student Enrollment</a>
+            {% endif %}
+		</div>
+    </div>
+
+    Teacher:
+    {% for i in course.members.all %}
+        {% if i.is_teacher %}
+            <a href="/user?email={{ i }}">{{ i.get_full_name  }}</a>
+        {% endif %}
+    {% endfor %}
+
+    <div class="container" role="main">
+		<div class="table-responsive">
+			<table class="table table-striped sortable">
+				<thead>
+					<tr>
+						<th>Students</th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for item in course.members.all %}
+                        {% if item.is_student %}
+                            <tr>
+                                <td><a href="/user?email={{ item }}">{{ item.get_full_name }}</a></td>
+                            </tr>
+                        {% endif %}
+					{% endfor %}
+				</tbody>
+			</table>
+		</div>
+	</div>
+	
+{% endblock %}

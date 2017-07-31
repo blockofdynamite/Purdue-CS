@@ -1,0 +1,21 @@
+{% extends "body.html" %}
+
+{% block head_title %}{{ page_name }} | {% endblock %}
+
+{% block content %}
+
+<div class="container" role="main">
+	<div class="panel panel-default">
+        Name: {{ name }}
+        <br>
+        Email: {{ email }}
+        <br>
+        Alma Mater: {{ alma }}
+        <br>
+        About: {{ about |safe }}
+        <br>
+        Contact Info: {{ contact |safe }}
+	</div>
+</div>
+
+{% endblock %}
