@@ -1,0 +1,17 @@
+Question 1:
+Limited on types (No ints, etc)
+No assignments on the same line.
+No ++, --
+No Structs
+No Casting
+
+Question 2:
+Doing this allows the reservation of the order of operations.
+
+Question 3:
+No ints
+Valid
+Valid
+No declaring and assigning in same line
+You can't make a function inside of a function
+There must be statements in the for loop parentheses

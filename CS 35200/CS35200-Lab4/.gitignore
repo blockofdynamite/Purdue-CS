@@ -1,0 +1,3 @@
+src/simplec/parse/*
+bin/*
+*.class

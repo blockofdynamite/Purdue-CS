@@ -1,0 +1,399 @@
+PARSER_BEGIN(SimpleC)
+
+/** Simple brace matcher. */
+public class SimpleC {
+  /** Main entry point. */
+  public static void main(String args[]) throws ParseException {
+    SimpleC parser = new SimpleC(System.in);
+    parser.Input();
+  }
+}
+
+PARSER_END(SimpleC)
+
+SKIP :
+{
+  " "
+| "\t" // tab
+| "\n" // new line
+| "\r" // carriage return (Windoge)
+| < "//" (~["\r", "\n"])* > // single line comment
+| < "/*" (~["*"])* "*" (~["*","/"] (~["*"])* "*" | "*")* "/" > // multi-line comment
+}
+
+TOKEN :
+{
+// Keywords
+
+  <CHARSTAR: "char*">
+| <CHARSTARSTAR: "char**">
+| <LONGSTAR: "long*">
+| <LONG: "long">
+| <VOID: "void">
+| <IF: "if">
+| <ELSE: "else">
+| <WHILE: "while">
+| <DO: "do">
+| <FOR: "for">
+| <CONTINUE: "continue">
+| <BREAK: "break">
+| <RETURN: "return">
+| <DOUBLESTAR: "double*">
+| <DOUBLE: "double">
+
+// Ops
+
+| <LPARENT: "(">
+| <RPARENT: ")">
+| <LBRACE: "[" >
+| <RBRACE: "]" >
+| <LCURLY: "{">
+| <RCURLY: "}">
+| <COMMA: ",">
+| <SEMICOLON: ";">
+| <EQUAL: "=">
+| <AND: "&">
+| <OROR: "||">
+| <ANDAND: "&&">
+| <EQUALEQUAL: "==">
+| <NOTEQUAL: "!=">
+| <LESS: "<">
+| <GREAT: ">">
+| <LESSEQUAL: "<=">
+| <GREATEQUAL: ">=">
+| <PLUS: "+">
+| <MINUS: "-">
+| <TIMES: "*">
+| <DIVIDE: "/">
+| <PERCENT: "%">
+
+// Token Productions
+
+|  <ID: <LETTER> (<LETTER> | <DIGIT> | "_")*>
+|  <CHAR_CONST: "'" (<PRINTING_CHAR> | "\0" | "\n" | "\r" | "\0" <OCTAL> <OCTAL>) "'">
+|  <STRING_CONST:
+       "\"" (
+       <PRINTING_CHAR>
+       | "\0" <OCTAL> <OCTAL>
+       | "\\" | ("0") <OCTAL> <OCTAL>
+       | "\\" "x" <HEX_DIGIT> <HEX_DIGIT>
+       | "\\" ("n"|"t"|"r"|"0")
+       )* "\"">
+|  <INTEGER_CONST: <DIGIT> (<DIGIT>)* | <DIGIT> (<DIGIT>)* "_" <HEX_DIGIT> (<HEX_DIGIT>)* >
+|  <DOUBLE_CONST: (<DIGIT>)* (".")? (<DIGIT>)+ (["e", "E"] (["-", "+"])? <DIGIT> (<DIGIT>)*)?>
+|  <PRINTING_CHAR: <LETTER> | <DIGIT> | <OTHER_CHAR>>
+|  <DIGIT: "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" >
+|  <OCTAL: "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" >
+|  <HEX_DIGIT: <DIGIT> | "A" | "B" | "C" | "D" | "E" | "F" | "a" | "b" | "c" | "d" | "e" | "f">
+|  <LETTER: ["A"-"Z"] | ["a"-"z"] >
+|  <OTHER_CHAR: " " | "!" | "#" | "$" | "%" | "&" | "(" | ")"
+                    | "*" | "+" | "," | "-" | "." | "/" | ":" | ";"
+                    | "<" | "=" | ">" | "?" | "@" | "[" | "]" | "^"
+                    | "_" | "`" | "{" | "|" | "}" | "~" >
+}
+
+/** Root production. */
+void Input() :
+{ int count; }
+{
+  try {
+    goal() <EOF>
+  } catch (ParseException e) {
+    { System.out.println((e.currentToken.beginLine + 1) + ": Syntax Error"); }
+  }
+  { System.out.println("Program compiled Successfully!"); }
+}
+
+void goal() : {}
+{
+  ( program() )
+}
+
+void program() : {}
+{
+  ( function_or_var_list() )
+}
+
+void function_or_var_list() : { }
+{
+  ( empty() function_or_var_list_prime() )
+}
+
+void function_or_var_list_prime() : {}
+{
+  ( var_type() <ID> function_global_var_prime() function_or_var_list_prime()
+  | empty() )
+}
+
+void function_global_var_prime() : {}
+{
+  ( <LPARENT> arguments() <RPARENT> compound_statement()
+  | global_var_list_prime() <SEMICOLON> )
+}
+
+void function() : {}
+{
+  ( var_type() <ID> <LPARENT> arguments() <RPARENT> compound_statement() )
+}
+
+void arg_list() : {}
+{
+  ( arg() arg_list_prime() )
+}
+
+void arg_list_prime() : {}
+{
+  ( <COMMA> arg() arg_list_prime()
+    | empty() )
+}
+
+void arguments() : {}
+{
+  ( arg_list()
+    | empty() )
+}
+
+void arg() : {}
+{
+  ( var_type() <ID> )
+}
+
+void global_var() : {}
+{
+  ( var_type() global_var_list() <SEMICOLON> )
+}
+
+void global_var_list() : {}
+{
+  ( <ID> global_var_list_prime() )
+}
+
+
+void global_var_list_prime() : {}
+{
+  ( <COMMA> <ID> global_var_list_prime()
+    | empty() )
+}
+
+void var_type() : {}
+{
+  ( <CHARSTAR>
+    | <CHARSTARSTAR>
+    | <DOUBLE>
+    | <DOUBLESTAR>
+    | <LONG>
+    | <LONGSTAR>
+    | <VOID> )
+}
+
+void assignment() : {}
+{
+  ( <ID> assignment_prime() )
+}
+
+void assignment_prime() : {}
+{
+  ( <EQUAL> expression()
+    | <LBRACE> expression() <RBRACE> <EQUAL> expression() )
+}
+
+void call() : {}
+{
+  ( <ID> <LPARENT> call_arguments() <RPARENT> )
+}
+
+void call_arg_list() : {}
+{
+  ( expression() call_arg_list_prime() )
+}
+
+void call_arg_list_prime() : {}
+{
+  ( <COMMA> expression() call_arg_list_prime()
+    | empty() )
+}
+
+void call_arguments() : {}
+{
+  ( call_arg_list()
+    | empty() )
+}
+
+void expression() : {}
+{
+  ( logical_or_expr() )
+}
+
+void logical_or_expr() : {}
+{
+  ( logical_and_expr() logical_or_expr_prime() )
+}
+
+void logical_or_expr_prime() : {}
+{
+  ( <OROR> logical_and_expr() logical_or_expr_prime()
+    | empty() )
+}
+
+void logical_and_expr() : {}
+{
+  ( equality_expr() logical_and_expr_prime() )
+}
+
+void logical_and_expr_prime() : {}
+{
+  ( <ANDAND> equality_expr() logical_and_expr_prime()
+    | empty() )
+}
+
+void equality_expr() : {}
+{
+  ( relational_expr() equality_expr_prime() )
+}
+
+void equality_expr_prime() : {}
+{
+  ( <EQUALEQUAL> relational_expr() equality_expr_prime()
+    | <NOTEQUAL> relational_expr() equality_expr_prime()
+    | empty() )
+}
+
+void relational_expr() : {}
+{
+  ( additive_expr() relational_expr_prime() )
+}
+
+
+void relational_expr_prime() : {}
+{
+  ( <LESS> additive_expr() relational_expr_prime()
+    | <GREAT> additive_expr() relational_expr_prime()
+    | <LESSEQUAL> additive_expr() relational_expr_prime()
+    | <GREATEQUAL> additive_expr() relational_expr_prime()
+    | empty() )
+}
+
+void additive_expr() : {}
+{
+  ( multiplicative_expr() additive_expr_prime() )
+}
+
+void additive_expr_prime() : {}
+{
+  ( <PLUS> multiplicative_expr() additive_expr_prime()
+    | <MINUS> multiplicative_expr() additive_expr_prime()
+    | empty() )
+}
+
+void multiplicative_expr() : {}
+{
+  ( unary_expr() multiplicative_expr_prime() )
+}
+
+void multiplicative_expr_prime() : {}
+{
+  ( <TIMES> unary_expr() multiplicative_expr_prime()
+    | <DIVIDE> unary_expr() multiplicative_expr_prime()
+    | <PERCENT> unary_expr() multiplicative_expr_prime()
+    | empty() )
+}
+
+void unary_expr() : {}
+{
+  ( primary_expr()
+    | <PLUS> unary_expr()
+    | <MINUS> unary_expr()
+    | <AND> unary_expr()
+    | <TIMES> unary_expr() )
+}
+
+void primary_expr() : {}
+{
+  ( <STRING_CONST>
+    | <ID> primary_expr_call_prime()
+    | <INTEGER_CONST>
+    | <DOUBLE_CONST>
+    | <LPARENT> expression() <RPARENT> )
+}
+
+void primary_expr_call_prime() : {}
+{
+  ( <LBRACE> expression() <RBRACE>
+    | <LPARENT> call_arguments() <RPARENT>
+    | empty() )
+}
+
+void compound_statement() : {}
+{
+  ( <LCURLY> statement_list() <RCURLY> )
+}
+
+void statement_list() : {}
+{
+  ( empty() statement_list_prime() )
+}
+
+void statement_list_prime() : {}
+{
+  ( statement() statement_list_prime()
+    | empty() )
+}
+
+void local_var() : {}
+{
+  ( var_type() local_var_list() <SEMICOLON> )
+}
+
+void local_var_list() : {}
+{
+  ( <ID> local_var_list_prime() )
+}
+
+void local_var_list_prime() : {}
+{
+  ( <COMMA> <ID> local_var_list_prime()
+    | empty() )
+}
+
+void statement() : {}
+{
+  ( <ID> assignment_call_prime() <SEMICOLON>
+    | local_var()
+    | compound_statement()
+    | <IF> <LPARENT> expression() <RPARENT> statement() else_optional()
+    | <WHILE> <LPARENT> expression() <RPARENT> statement()
+    | <DO> statement() <WHILE> <LPARENT> expression() <RPARENT> <SEMICOLON>
+    | <FOR> <LPARENT> assignment() <SEMICOLON> expression() <SEMICOLON> assignment() <RPARENT> statement()
+    | jump_statement() )
+}
+
+void assignment_call_prime() : {}
+{
+  ( <EQUAL> expression()
+    | <LBRACE> expression() <RBRACE> <EQUAL> expression()
+    | <LPARENT> call_arguments() <RPARENT> )
+}
+
+void else_optional() : {}
+{
+  ( <ELSE> statement()
+    | empty() )
+}
+
+void jump_statement() : {}
+{
+  ( <CONTINUE> <SEMICOLON>
+    | <BREAK> <SEMICOLON>
+    | <RETURN> return_val_opt() <SEMICOLON> )
+}
+
+void return_val_opt() : {}
+{
+  ( expression()
+    | empty() )
+}
+
+void empty() : {}
+{
+  { }
+}

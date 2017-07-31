@@ -1,0 +1,13 @@
+On branch master
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+[master 521ec28] Commit
+ 3 files changed, 10 insertions(+), 10 deletions(-)
+ create mode 100644 .gitmodules
+ create mode 160000 tests
+[master 470fc36] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8fe66f0] Commit
+ 1 file changed, 1 insertion(+)
